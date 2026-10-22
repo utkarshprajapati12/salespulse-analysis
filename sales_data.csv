@@ -1,0 +1,2516 @@
+order_id,order_date,customer_id,city,category,product,quantity,unit_price,discount,unit_cost
+1001,2025-10-24,C072,Bengaluru,Electronics,Earphones,2,1500,0.2,900
+1002,2024-03-30,C016,Lucknow,Home,Mixer Grinder,1,2500,0.2,1700
+1003,2024-01-28,C333,Bengaluru,Home,Lamp,1,700,0.1,350
+1004,2025-08-26,C389,Kolkata,Electronics,Earphones,2,1500,0.05,900
+1005,2024-10-25,C195,Lucknow,Clothing,T-Shirt,3,600,0.2,280
+1006,2024-09-27,C236,Mumbai,Books,Novel,4,350,0.1,180
+1007,2024-03-21,C317,Kolkata,Home,Lamp,1,700,0.0,350
+1008,2025-12-22,C117,Bengaluru,Electronics,Smart Watch,4,3500,0.0,2400
+1009,2024-04-13,C326,Kolkata,Clothing,Jeans,1,1800,0.05,950
+1010,2024-08-02,C350,Bengaluru,Home,Lamp,2,700,0.0,350
+1011,2025-06-30,C237,Mumbai,Home,Mixer Grinder,4,2500,0.2,1700
+1012,2024-08-12,C118,Kolkata,Home,Mixer Grinder,3,2500,0.1,1700
+1013,2024-10-19,C109,Bengaluru,Grocery,Tea Pack,1,300,0.1,190
+1014,2024-05-26,C382,Mumbai,Electronics,Earphones,1,1500,0.2,900
+1015,2025-03-14,C186,Delhi,Grocery,Tea Pack,4,300,0.2,190
+1016,2025-05-20,C057,Delhi,Electronics,Earphones,1,1500,0.1,900
+1017,2025-09-02,C306,Jaipur,Electronics,Power Bank,1,1200,0.2,750
+1018,2024-01-12,C350,Kolkata,Home,Mixer Grinder,2,2500,0.05,1700
+1019,2024-04-24,C233,Lucknow,Electronics,Earphones,2,1500,0.05,900
+1020,2025-05-27,C055,Kolkata,Books,Novel,1,350,0.2,180
+1021,2025-09-15,C391,Delhi,Electronics,Power Bank,4,1200,0.2,750
+1022,2024-01-01,C010,Delhi,Home,Bedsheet,1,900,0.05,450
+1023,2024-09-02,C041,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+1024,2025-06-29,C338,Mumbai,Books,Python Guide,1,550,0.05,300
+1025,2025-06-24,C109,Jaipur,Grocery,Tea Pack,2,300,0.0,190
+1026,2024-11-22,C265,Mumbai,Home,Bedsheet,1,900,0.0,450
+1027,2024-12-12,C118,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+1028,2024-08-22,C170,Lucknow,Electronics,Earphones,1,1500,0.1,900
+1029,2024-08-07,C293,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+1030,2025-02-20,C338,Mumbai,Electronics,Earphones,1,1500,0.1,900
+1031,2024-02-25,C051,Lucknow,Home,Lamp,2,700,0.0,350
+1032,2024-09-11,C230,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+1033,2024-09-12,C227,Kolkata,Grocery,Dry Fruits,3,800,0.0,560
+1034,2024-02-21,C008,Jaipur,Home,Lamp,4,700,0.0,350
+1035,2024-06-19,C110,Kolkata,Clothing,Jeans,3,1800,0.0,950
+1036,2025-01-23,C136,Jaipur,Electronics,Power Bank,2,1200,0.05,750
+1037,2025-03-09,C285,Bengaluru,Home,Lamp,1,700,0.0,350
+1038,2024-10-02,C032,Bengaluru,Home,Lamp,1,700,0.2,350
+1039,2025-05-03,C081,Lucknow,Clothing,Jacket,1,2800,0.0,1500
+1040,2024-03-11,C121,Mumbai,Home,Lamp,4,700,0.2,350
+1041,2024-09-09,C318,Lucknow,Home,Mixer Grinder,2,2500,0.2,1700
+1042,2025-06-19,C105,Bengaluru,Clothing,Jeans,1,1800,0.05,950
+1043,2025-02-09,C154,Mumbai,Electronics,Smart Watch,4,3500,0.0,2400
+1044,2024-01-10,C052,Lucknow,Clothing,Jacket,1,2800,0.05,1500
+1045,2024-05-15,C126,Mumbai,Grocery,Dry Fruits,1,800,0.2,560
+1046,2025-12-21,C271,Lucknow,Clothing,Jacket,3,2800,0.05,1500
+1047,2025-11-05,C381,Mumbai,Electronics,Earphones,1,1500,0.2,900
+1048,2024-08-03,C352,Bengaluru,Home,Mixer Grinder,1,2500,0.1,1700
+1049,2024-09-14,C048,Bengaluru,Grocery,Dry Fruits,3,800,0.0,560
+1050,2024-01-04,C327,Jaipur,Clothing,T-Shirt,1,600,0.1,280
+1051,2025-07-18,C005,Delhi,Home,Lamp,4,700,0.0,350
+1052,2025-07-12,C299,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+1053,2024-11-26,C184,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+1054,2024-12-28,C318,Bengaluru,Books,SQL Handbook,4,500,0.0,280
+1055,2024-06-15,C212,Lucknow,Grocery,Dry Fruits,2,800,0.05,560
+1056,2025-02-25,C128,Delhi,Books,Novel,2,350,0.0,180
+1057,2025-01-26,C114,Delhi,Grocery,Tea Pack,3,300,0.05,190
+1058,2024-11-08,C013,Bengaluru,Grocery,Dry Fruits,1,800,0.05,560
+1059,2024-03-12,C180,Bengaluru,Grocery,Tea Pack,1,300,0.2,190
+1060,2024-12-05,C134,Delhi,Grocery,Dry Fruits,4,800,0.05,560
+1061,2024-02-09,C177,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+1062,2025-06-07,C098,Delhi,Electronics,Smart Watch,2,3500,0.0,2400
+1063,2025-06-16,C352,Bengaluru,Grocery,Spices Combo,2,450,0.0,280
+1064,2025-01-07,C170,Bengaluru,Clothing,Jacket,2,2800,0.0,1500
+1065,2024-11-03,C207,Bengaluru,Home,Bedsheet,2,900,0.0,450
+1066,2025-03-06,C347,Bengaluru,Home,Bedsheet,1,900,0.2,450
+1067,2024-11-04,C147,Delhi,Grocery,Tea Pack,2,300,0.2,190
+1068,2025-11-15,C262,Mumbai,Clothing,T-Shirt,3,600,0.0,280
+1069,2025-11-17,C172,Lucknow,Home,Lamp,4,700,0.0,350
+1070,2025-11-26,C024,Delhi,Electronics,Earphones,1,1500,0.0,900
+1071,2025-04-11,C295,Delhi,Clothing,Jacket,2,2800,0.1,1500
+1072,2025-02-13,C353,Lucknow,Electronics,Smart Watch,2,3500,0.0,2400
+1073,2025-03-11,C266,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+1074,2025-04-12,C342,Mumbai,Electronics,Power Bank,2,1200,0.05,750
+1075,2025-03-29,C259,Mumbai,Home,Lamp,3,700,0.1,350
+1076,2024-06-11,C231,Delhi,Books,SQL Handbook,1,500,0.05,280
+1077,2025-06-17,C141,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+1078,2024-10-18,C119,Mumbai,Electronics,Earphones,1,1500,0.0,900
+1079,2024-03-06,C278,Mumbai,Clothing,Jeans,1,1800,0.1,950
+1080,2025-02-02,C357,Lucknow,Grocery,Spices Combo,3,450,0.2,280
+1081,2025-01-24,C153,Bengaluru,Clothing,Jeans,3,1800,0.1,950
+1082,2025-07-05,C309,Kolkata,Books,Novel,1,350,0.05,180
+1083,2025-03-22,C173,Bengaluru,Clothing,Jeans,2,1800,0.0,950
+1084,2025-04-23,C274,Lucknow,Grocery,Spices Combo,1,450,0.2,280
+1085,2025-11-21,C094,Lucknow,Clothing,Jeans,1,1800,0.0,950
+1086,2025-04-10,C143,Bengaluru,Clothing,Jeans,3,1800,0.05,950
+1087,2024-03-24,C277,Lucknow,Clothing,Jacket,4,2800,0.0,1500
+1088,2025-10-21,C127,Delhi,Electronics,Earphones,1,1500,0.0,900
+1089,2024-09-01,C059,Mumbai,Electronics,Smart Watch,1,3500,0.05,2400
+1090,2025-01-12,C383,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+1091,2024-11-01,C347,Jaipur,Grocery,Spices Combo,1,450,0.0,280
+1092,2024-03-18,C125,Delhi,Home,Lamp,2,700,0.2,350
+1093,2024-05-03,C022,Delhi,Books,Novel,1,350,0.05,180
+1094,2024-03-11,C007,Kolkata,Clothing,Jeans,3,1800,0.0,950
+1095,2025-03-19,C236,Bengaluru,Grocery,Spices Combo,1,450,0.2,280
+1096,2025-10-26,C239,Mumbai,Grocery,Tea Pack,2,300,0.05,190
+1097,2024-11-26,C143,Kolkata,Grocery,Dry Fruits,1,800,0.1,560
+1098,2025-08-06,C173,Lucknow,Home,Bedsheet,3,900,0.0,450
+1099,2025-05-14,C175,Delhi,Electronics,Power Bank,2,1200,0.05,750
+1100,2025-07-23,C044,Delhi,Electronics,Earphones,1,1500,0.2,900
+1101,2024-09-03,C365,Mumbai,Home,Lamp,2,700,0.0,350
+1102,2024-10-23,C298,Mumbai,Electronics,Smart Watch,2,3500,0.05,2400
+1103,2025-03-11,C170,Mumbai,Grocery,Spices Combo,1,450,0.05,280
+1104,2024-09-14,C099,Delhi,Electronics,Smart Watch,2,3500,0.0,2400
+1105,2024-07-15,C142,Bengaluru,Electronics,Power Bank,4,1200,0.2,750
+1106,2025-09-03,C100,Delhi,Electronics,Earphones,1,1500,0.05,900
+1107,2024-01-15,C141,Lucknow,Home,Mixer Grinder,1,2500,0.05,1700
+1108,2025-12-15,C386,,Grocery,Spices Combo,3,450,0.2,280
+1109,2024-10-18,C027,Delhi,Clothing,T-Shirt,3,600,0.0,280
+1110,2024-03-07,C296,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+1111,2025-07-30,C128,Delhi,Grocery,Dry Fruits,2,800,0.2,560
+1112,2025-09-02,C398,Mumbai,Books,Python Guide,1,550,0.1,300
+1113,2024-10-31,C292,Bengaluru,Grocery,Tea Pack,2,300,0.0,190
+1114,2024-07-31,C339,Lucknow,Home,Bedsheet,1,900,0.2,450
+1115,2024-03-17,C231,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+1116,2024-08-25,C360,Kolkata,Electronics,Power Bank,1,1200,0.0,750
+1117,2024-09-27,C302,Bengaluru,Books,Novel,4,350,0.1,180
+1118,2024-04-27,C077,Jaipur,Clothing,Jacket,3,2800,0.0,1500
+1119,2024-03-02,C305,Bengaluru,Electronics,Power Bank,2,1200,0.05,750
+1120,2025-03-25,C156,Bengaluru,Electronics,Smart Watch,4,3500,0.2,2400
+1121,2025-07-06,C307,Lucknow,Clothing,T-Shirt,1,600,0.05,280
+1122,2025-09-10,C118,Jaipur,Electronics,Earphones,3,1500,0.2,900
+1123,2025-08-24,C138,Mumbai,Grocery,Spices Combo,2,450,0.0,280
+1124,2025-04-26,C143,Delhi,Clothing,Jeans,2,1800,0.1,950
+1125,2024-04-03,C171,Delhi,Clothing,Jeans,1,1800,0.0,950
+1126,2024-12-03,C148,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+1127,2024-02-07,C130,Delhi,Clothing,Jeans,4,1800,0.1,950
+1128,2025-06-10,C337,Kolkata,Books,Python Guide,1,550,0.0,300
+1129,2024-07-11,C388,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1130,2024-07-27,C148,Mumbai,Electronics,Earphones,2,1500,0.0,900
+1131,2024-01-30,C123,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+1132,2025-07-19,C059,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1133,2025-05-25,C261,Bengaluru,Grocery,Tea Pack,1,300,0.1,190
+1134,2025-04-28,C075,Mumbai,Electronics,Smart Watch,4,3500,0.2,2400
+1135,2024-05-19,C396,Bengaluru,Grocery,Tea Pack,1,300,0.2,190
+1136,2024-09-30,C372,Delhi,Books,SQL Handbook,2,500,0.1,280
+1137,2024-06-01,C177,Delhi,Clothing,Jeans,2,1800,0.1,950
+1138,2025-04-11,C358,Delhi,Grocery,Dry Fruits,1,800,0.1,560
+1139,2024-02-14,C362,Jaipur,Clothing,Jeans,1,1800,0.0,950
+1140,2025-05-22,C258,Jaipur,Grocery,Dry Fruits,1,800,0.0,560
+1141,2025-03-26,C008,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+1142,2024-03-17,C174,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+1143,2024-12-02,C195,Jaipur,Grocery,Spices Combo,2,450,0.1,280
+1144,2025-07-08,C121,Bengaluru,Electronics,Earphones,4,1500,0.0,900
+1145,2024-04-02,C390,Bengaluru,Clothing,T-Shirt,3,600,0.1,280
+1146,2024-06-19,C024,Delhi,Home,Mixer Grinder,1,2500,0.05,1700
+1147,2025-01-18,C272,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+1148,2024-06-23,C196,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+1149,2024-05-26,C131,Mumbai,Electronics,Smart Watch,2,3500,0.1,2400
+1150,2024-10-21,C177,Jaipur,Electronics,Power Bank,1,1200,0.1,750
+1151,2025-12-07,C102,Jaipur,Electronics,Power Bank,3,1200,0.0,750
+1152,2024-08-30,C295,Delhi,Clothing,Jeans,2,1800,0.0,950
+1153,2025-11-01,C399,Bengaluru,Home,Lamp,1,700,0.2,350
+1154,2025-05-23,C398,Bengaluru,Grocery,Tea Pack,2,300,0.05,190
+1155,2024-08-12,C129,Bengaluru,Home,Lamp,2,700,0.0,350
+1156,2025-10-21,C226,Lucknow,Home,Bedsheet,1,900,0.0,450
+1157,2024-04-02,C383,Mumbai,Grocery,Tea Pack,1,300,0.2,190
+1158,2025-01-09,C085,Delhi,Clothing,Jeans,3,1800,0.1,950
+1159,2024-10-29,C240,Jaipur,Clothing,T-Shirt,1,600,0.0,280
+1160,2025-11-23,C188,Lucknow,Grocery,Spices Combo,1,450,0.05,280
+1161,2025-07-03,C345,Bengaluru,Electronics,Power Bank,1,1200,0.1,750
+1162,2025-10-15,C242,Lucknow,Electronics,Earphones,3,1500,0.2,900
+1163,2024-12-01,C332,Lucknow,Grocery,Dry Fruits,3,800,0.05,560
+1164,2025-10-26,C156,Jaipur,Electronics,Earphones,1,1500,0.0,900
+1165,2025-07-04,C190,Bengaluru,Electronics,Power Bank,2,1200,0.2,750
+1166,2025-03-05,C080,Kolkata,Home,Lamp,2,700,0.1,350
+1167,2025-09-22,C017,Bengaluru,Clothing,Jeans,1,1800,0.1,950
+1168,2024-08-29,C352,Mumbai,Grocery,Dry Fruits,3,800,0.05,560
+1169,2024-03-03,C063,Jaipur,Clothing,T-Shirt,3,600,0.0,280
+1170,2025-11-21,C026,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+1171,2025-08-01,C107,Mumbai,Electronics,Smart Watch,3,3500,0.0,2400
+1172,2024-12-02,C002,Delhi,Books,Novel,4,350,0.0,180
+1173,2025-07-07,C057,Bengaluru,Electronics,Earphones,1,1500,0.0,900
+1174,2025-01-01,C302,Delhi,Books,Python Guide,1,550,0.0,300
+1175,2024-05-09,C059,Bengaluru,Books,Novel,1,350,0.05,180
+1176,2025-06-09,C258,Delhi,Home,Bedsheet,2,900,0.2,450
+1177,2024-11-04,C246,Kolkata,Grocery,Dry Fruits,1,800,0.0,560
+1178,2025-05-17,C038,Kolkata,Home,Bedsheet,1,900,0.0,450
+1179,2024-03-08,C325,Mumbai,Electronics,Smart Watch,2,3500,0.1,2400
+1180,2025-09-03,C259,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+1181,2025-11-01,C111,Mumbai,Books,Novel,3,350,0.1,180
+1182,2024-12-13,C213,Bengaluru,Books,SQL Handbook,1,500,0.05,280
+1183,2025-11-05,C035,Lucknow,Home,Bedsheet,1,900,0.1,450
+1184,2024-04-08,C067,Mumbai,Books,SQL Handbook,2,500,0.2,280
+1185,2025-07-29,C211,Mumbai,Clothing,T-Shirt,2,600,0.1,280
+1186,2024-02-22,C160,Mumbai,Grocery,Spices Combo,2,450,0.0,280
+1187,2024-06-07,C056,Mumbai,Home,Mixer Grinder,2,2500,0.0,1700
+1188,2024-10-12,C393,Kolkata,Books,Novel,2,350,0.2,180
+1189,2024-01-27,C356,Delhi,Home,Lamp,1,700,0.05,350
+1190,2024-12-13,C074,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1191,2025-10-10,C111,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+1192,2025-01-13,C398,Jaipur,Clothing,Jeans,2,1800,0.0,950
+1193,2024-06-08,C026,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1194,2025-05-12,C140,Delhi,Home,Bedsheet,1,900,0.05,450
+1195,2025-03-16,C348,Mumbai,Electronics,Smart Watch,1,3500,0.05,2400
+1196,2024-02-16,C029,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+1197,2024-05-20,C168,Delhi,Books,SQL Handbook,1,500,0.1,280
+1198,2024-06-28,C361,Delhi,Electronics,Smart Watch,2,3500,0.05,2400
+1199,2024-03-14,C022,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1200,2024-11-16,C328,Mumbai,Home,Lamp,1,700,0.0,350
+1201,2024-11-20,C186,Lucknow,Clothing,Jacket,3,2800,0.0,1500
+1202,2025-03-22,C041,Mumbai,Home,Lamp,1,700,0.05,350
+1203,2024-08-14,C040,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+1204,2024-07-17,C180,Bengaluru,Grocery,Tea Pack,3,300,0.0,190
+1205,2024-08-29,C102,Delhi,Electronics,Power Bank,1,1200,0.0,750
+1206,2024-06-30,C253,Mumbai,Grocery,Spices Combo,2,450,0.2,280
+1207,2025-04-04,C330,Bengaluru,Home,Lamp,2,700,0.05,350
+1208,2024-06-03,C227,Bengaluru,Clothing,Jeans,2,1800,0.2,950
+1209,2024-02-27,C159,Mumbai,Clothing,T-Shirt,1,600,0.05,280
+1210,2024-10-28,C315,Mumbai,Grocery,Dry Fruits,1,800,0.2,560
+1211,2025-07-21,C022,Mumbai,Grocery,Spices Combo,3,450,0.0,280
+1212,2024-11-25,C231,Delhi,Clothing,T-Shirt,3,600,0.05,280
+1213,2024-03-27,C021,Delhi,Clothing,T-Shirt,1,600,0.1,280
+1214,2025-06-20,C187,Mumbai,Clothing,T-Shirt,1,600,0.1,280
+1215,2024-12-12,C324,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+1216,2025-07-25,C130,Bengaluru,Home,Bedsheet,2,900,0.2,450
+1217,2024-06-02,C340,Delhi,Clothing,Jacket,1,2800,0.1,1500
+1218,2024-05-12,C159,Mumbai,Home,Mixer Grinder,2,2500,0.05,1700
+1219,2024-05-10,C351,Jaipur,Home,Lamp,1,700,0.1,350
+1220,2025-06-04,C159,Delhi,Clothing,Jeans,1,1800,0.1,950
+1221,2024-07-15,C080,Lucknow,Electronics,Earphones,3,1500,0.0,900
+1222,2025-06-03,C270,Lucknow,Books,Novel,1,350,0.2,180
+1223,2024-05-14,C084,Delhi,Home,Mixer Grinder,2,2500,0.2,1700
+1224,2024-06-18,C211,Mumbai,Home,Mixer Grinder,2,2500,0.1,1700
+1225,2025-09-17,C230,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+1226,2024-07-17,C226,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+1227,2025-05-29,C103,Kolkata,Clothing,T-Shirt,1,600,0.05,280
+1228,2024-02-23,C284,Jaipur,Home,Bedsheet,2,900,0.2,450
+1229,2024-05-07,C140,Mumbai,Electronics,Earphones,1,1500,0.1,900
+1230,2024-04-03,C231,Kolkata,Grocery,Dry Fruits,4,800,0.1,560
+1231,2024-02-24,C121,Mumbai,Clothing,Jeans,1,1800,0.0,950
+1232,2024-01-29,C366,Bengaluru,Clothing,T-Shirt,2,600,0.0,280
+1233,2024-02-09,C357,Kolkata,Electronics,Power Bank,2,1200,0.1,750
+1234,2025-04-04,C010,Delhi,Home,Mixer Grinder,3,2500,0.2,1700
+1235,2025-09-15,C398,Delhi,Clothing,T-Shirt,1,600,0.0,280
+1236,2024-09-01,C235,Lucknow,Clothing,Jacket,3,2800,0.1,1500
+1237,2025-09-03,C264,Mumbai,Clothing,Jacket,2,2800,0.05,1500
+1238,2025-03-15,C124,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+1239,2025-06-20,C270,Mumbai,Grocery,Dry Fruits,2,800,0.2,560
+1240,2025-07-21,C023,Bengaluru,Electronics,Power Bank,4,1200,0.05,750
+1241,2024-01-17,C177,Delhi,Clothing,T-Shirt,2,600,0.0,280
+1242,2025-08-18,C069,Lucknow,Books,SQL Handbook,1,500,0.0,280
+1243,2025-12-02,C246,Bengaluru,Clothing,Jacket,3,2800,0.0,1500
+1244,2025-04-13,C023,Bengaluru,Electronics,Earphones,3,1500,0.05,900
+1245,2024-11-13,C243,Delhi,Grocery,Spices Combo,2,450,0.0,280
+1246,2024-10-25,C170,Delhi,Electronics,Smart Watch,2,3500,0.1,2400
+1247,2025-02-13,C174,Jaipur,Books,SQL Handbook,1,500,0.1,280
+1248,2025-01-11,C137,Kolkata,Grocery,Spices Combo,2,450,0.0,280
+1249,2025-03-16,C280,Delhi,Home,Mixer Grinder,1,2500,0.05,1700
+1250,2025-11-15,C086,Bengaluru,Home,Bedsheet,1,900,0.0,450
+1251,2024-12-27,C141,Bengaluru,Home,Bedsheet,2,900,0.0,450
+1252,2024-03-17,C187,Mumbai,Home,Bedsheet,2,900,0.0,450
+1253,2024-02-01,C348,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+1254,2024-08-29,C186,Mumbai,Books,SQL Handbook,2,500,0.2,280
+1255,2024-06-06,C191,Mumbai,Home,Bedsheet,1,900,0.0,450
+1256,2025-06-26,C333,Delhi,Clothing,Jeans,4,1800,0.0,950
+1257,2024-07-09,C288,Delhi,Clothing,Jeans,2,1800,0.1,950
+1258,2024-08-07,C356,Jaipur,Grocery,Tea Pack,1,300,0.0,190
+1259,2024-05-18,C089,Kolkata,Grocery,Tea Pack,1,300,0.0,190
+1260,2025-11-29,C178,Bengaluru,Grocery,Spices Combo,1,450,0.05,280
+1261,2024-11-03,C327,Delhi,Home,Lamp,1,700,0.0,350
+1262,2024-05-04,C122,Bengaluru,Grocery,Dry Fruits,1,800,0.2,560
+1263,2025-08-09,C067,Bengaluru,Clothing,Jacket,1,2800,0.05,1500
+1264,2025-02-11,C246,Mumbai,Grocery,Spices Combo,2,450,0.2,280
+1265,2024-03-16,C329,Lucknow,Electronics,Power Bank,1,1200,0.2,750
+1266,2024-12-18,C328,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+1267,2025-03-19,C064,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1268,2024-11-26,C146,Kolkata,Electronics,Smart Watch,1,3500,0.2,2400
+1269,2024-10-10,C258,Bengaluru,Home,Mixer Grinder,2,2500,0.2,1700
+1270,2024-06-06,C369,Jaipur,Electronics,Smart Watch,1,3500,0.2,2400
+1271,2024-02-12,C042,Lucknow,Books,Python Guide,2,550,0.2,300
+1272,2024-09-28,C214,Bengaluru,Home,Lamp,1,700,0.2,350
+1273,2024-10-23,C351,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1274,2024-06-10,C238,Delhi,Clothing,Jeans,2,1800,0.05,950
+1275,2024-11-22,C067,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+1276,2024-11-04,C073,Lucknow,Electronics,Earphones,1,1500,0.1,900
+1277,2025-09-22,C168,Jaipur,Clothing,T-Shirt,2,600,0.0,280
+1278,2024-06-12,C240,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1279,2024-04-02,C235,Jaipur,Grocery,Spices Combo,1,450,0.05,280
+1280,2024-02-19,C306,Kolkata,Electronics,Power Bank,2,1200,0.1,750
+1281,2024-10-19,C069,Kolkata,Grocery,Tea Pack,2,300,0.1,190
+1282,2025-01-09,C292,Mumbai,Electronics,Earphones,1,1500,0.05,900
+1283,2024-03-16,C392,Mumbai,Clothing,Jeans,3,1800,0.2,950
+1284,2025-11-27,C202,Mumbai,Electronics,Earphones,4,1500,0.2,900
+1285,2025-01-09,C309,Mumbai,Books,Python Guide,1,550,0.0,300
+1286,2024-02-09,C243,Mumbai,Electronics,Power Bank,1,1200,0.2,750
+1287,2024-05-23,C164,Delhi,Clothing,Jacket,4,2800,0.05,1500
+1288,2025-08-30,C273,Mumbai,Clothing,Jacket,2,2800,0.1,1500
+1289,2024-01-18,C057,Jaipur,Clothing,Jacket,2,2800,0.0,1500
+1290,2025-09-03,C398,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1291,2025-08-20,C323,Bengaluru,Clothing,Jacket,2,2800,0.1,1500
+1292,2024-05-31,C017,Mumbai,Books,Python Guide,2,550,0.0,300
+1293,2024-01-20,C078,Mumbai,Clothing,Jeans,1,1800,0.2,950
+1294,2025-09-18,C373,Lucknow,Grocery,Spices Combo,1,450,0.0,280
+1295,2025-07-28,C245,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1296,2025-04-15,C280,Mumbai,Grocery,Tea Pack,2,300,0.05,190
+1297,2025-09-16,C143,Mumbai,Clothing,T-Shirt,1,600,0.05,280
+1298,2024-10-22,C163,,Home,Bedsheet,2,900,0.05,450
+1299,2024-10-22,C177,Jaipur,Clothing,Jeans,3,1800,0.05,950
+1300,2024-02-13,C041,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+1301,2025-05-05,C139,Jaipur,Electronics,Smart Watch,2,3500,0.0,2400
+1302,2024-04-21,C123,Delhi,Home,Lamp,2,700,0.2,350
+1303,2024-08-19,C052,Mumbai,Home,Mixer Grinder,2,2500,0.0,1700
+1304,2025-11-28,C081,Mumbai,Electronics,Smart Watch,4,3500,0.1,2400
+1305,2025-05-03,C165,Delhi,Home,Bedsheet,1,900,0.0,450
+1306,2025-10-29,C020,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+1307,2024-02-07,C254,Delhi,Grocery,Tea Pack,2,300,0.05,190
+1308,2024-02-08,C309,Delhi,Electronics,Smart Watch,4,3500,0.05,2400
+1309,2025-04-10,C269,Mumbai,Grocery,Spices Combo,4,450,0.2,280
+1310,2025-04-24,C170,Delhi,Electronics,Earphones,1,1500,0.05,900
+1311,2024-07-09,C152,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+1312,2025-09-17,C219,Mumbai,Grocery,Tea Pack,1,300,0.0,190
+1313,2024-07-08,C166,Jaipur,Grocery,Tea Pack,1,300,0.1,190
+1314,2024-08-29,C169,Delhi,Clothing,Jeans,2,1800,0.0,950
+1315,2024-09-24,C121,Lucknow,Home,Lamp,1,700,0.05,350
+1316,2024-06-12,C361,Bengaluru,Clothing,Jacket,2,2800,0.05,1500
+1317,2025-01-11,C069,Mumbai,Home,Mixer Grinder,1,2500,0.2,1700
+1318,2025-01-17,C242,Bengaluru,Clothing,Jacket,3,2800,0.0,1500
+1319,2024-09-10,C042,Mumbai,Home,Lamp,1,700,0.05,350
+1320,2024-03-20,C032,Kolkata,Grocery,Dry Fruits,3,800,0.0,560
+1321,2025-08-09,C168,Kolkata,Clothing,T-Shirt,1,600,0.0,280
+1322,2025-08-20,C229,Kolkata,Clothing,Jacket,1,2800,0.2,1500
+1323,2025-03-01,C287,Mumbai,Clothing,T-Shirt,3,600,0.0,280
+1324,2025-02-09,C382,Delhi,Electronics,Earphones,1,1500,0.1,900
+1325,2024-12-18,C031,Jaipur,Home,Lamp,1,700,0.1,350
+1326,2024-02-02,C394,Delhi,Electronics,Earphones,2,1500,0.1,900
+1327,2025-01-18,C230,Kolkata,Grocery,Tea Pack,3,300,0.1,190
+1328,2024-03-23,C277,Delhi,Home,Lamp,3,700,0.0,350
+1329,2024-07-01,C271,Delhi,Grocery,Tea Pack,4,300,0.0,190
+1330,2024-01-24,C345,Bengaluru,Grocery,Tea Pack,1,300,0.1,190
+1331,2024-08-23,C080,Delhi,Electronics,Power Bank,4,1200,0.0,750
+1332,2024-02-02,C315,Bengaluru,Books,SQL Handbook,3,500,0.0,280
+1333,2024-09-03,C305,Lucknow,Electronics,Earphones,2,1500,0.0,900
+1334,2024-09-07,C225,Delhi,Books,SQL Handbook,1,500,0.0,280
+1335,2024-05-23,C120,Kolkata,Clothing,Jeans,2,1800,0.05,950
+1336,2025-08-14,C165,Delhi,Home,Lamp,3,700,0.2,350
+1337,2024-08-14,C032,Mumbai,Clothing,Jeans,2,1800,0.0,950
+1338,2025-10-03,C177,Jaipur,Home,Mixer Grinder,2,2500,0.2,1700
+1339,2024-11-22,C193,Delhi,Clothing,Jeans,1,1800,0.0,950
+1340,2024-08-18,C074,Kolkata,Clothing,Jacket,3,2800,0.2,1500
+1341,2025-02-26,C272,Delhi,Grocery,Spices Combo,1,450,0.0,280
+1342,2024-12-04,C190,Lucknow,Home,Bedsheet,2,900,0.0,450
+1343,2024-02-22,C310,Bengaluru,Electronics,Smart Watch,3,3500,0.0,2400
+1344,2025-08-24,C112,Mumbai,Home,Lamp,3,700,0.05,350
+1345,2024-11-06,C380,Delhi,Electronics,Earphones,4,1500,0.1,900
+1346,2024-09-05,C105,Mumbai,Home,Lamp,1,700,0.05,350
+1347,2024-10-18,C134,Mumbai,Home,Bedsheet,3,900,0.1,450
+1348,2024-04-10,C241,Bengaluru,Books,Novel,1,350,0.0,180
+1349,2025-01-14,C289,Kolkata,Clothing,T-Shirt,2,600,0.0,280
+1350,2024-09-24,C297,Bengaluru,Home,Lamp,1,700,0.0,350
+1351,2024-12-03,C126,Mumbai,Electronics,Smart Watch,2,3500,0.05,2400
+1352,2024-09-20,C371,Bengaluru,Books,SQL Handbook,1,500,0.0,280
+1353,2024-12-26,C280,Mumbai,Electronics,Smart Watch,3,3500,0.2,2400
+1354,2025-10-19,C343,Lucknow,Clothing,T-Shirt,1,600,0.0,280
+1355,2025-10-23,C259,Mumbai,Electronics,Earphones,1,1500,0.2,900
+1356,2025-05-09,C004,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+1357,2025-06-26,C147,Lucknow,Home,Lamp,3,700,0.1,350
+1358,2024-07-02,C269,Delhi,Electronics,Earphones,1,1500,0.2,900
+1359,2024-09-15,C204,Lucknow,Books,SQL Handbook,4,500,0.1,280
+1360,2025-08-01,C116,Delhi,Electronics,Smart Watch,3,3500,0.0,2400
+1361,2025-10-31,C048,Mumbai,Home,Mixer Grinder,1,2500,0.1,1700
+1362,2024-02-27,C088,Lucknow,Home,Lamp,3,700,0.05,350
+1363,2025-08-02,C271,Jaipur,Grocery,Dry Fruits,1,800,0.2,560
+1364,2025-05-01,C351,Jaipur,Electronics,Earphones,3,1500,0.2,900
+1365,2025-11-28,C301,Delhi,Clothing,T-Shirt,3,600,0.1,280
+1366,2024-03-19,C124,Mumbai,Electronics,Smart Watch,3,3500,0.2,2400
+1367,2024-12-05,C072,Bengaluru,Clothing,Jacket,2,2800,0.0,1500
+1368,2025-05-27,C028,Lucknow,Books,SQL Handbook,1,500,0.0,280
+1369,2024-12-14,C305,Mumbai,Home,Lamp,2,700,0.0,350
+1370,2025-10-15,C284,Jaipur,Clothing,Jeans,1,1800,0.2,950
+1371,2025-11-25,C366,Lucknow,Home,Mixer Grinder,1,2500,0.1,1700
+1372,2025-12-29,C379,Mumbai,Books,Python Guide,1,550,0.0,300
+1373,2024-01-06,C185,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+1374,2024-07-10,C285,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1375,2024-12-28,C307,Bengaluru,Home,Lamp,3,700,0.0,350
+1376,2024-10-25,C287,Jaipur,Books,Novel,4,350,0.2,180
+1377,2025-06-17,C087,Delhi,Electronics,Power Bank,1,1200,0.1,750
+1378,2024-05-29,C142,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+1379,2025-01-04,C370,Bengaluru,Electronics,Earphones,2,1500,0.0,900
+1380,2025-04-13,C004,Jaipur,Electronics,Power Bank,1,1200,0.2,750
+1381,2025-01-24,C226,Delhi,Books,SQL Handbook,3,500,0.2,280
+1382,2024-05-19,C356,Delhi,Clothing,Jacket,1,2800,0.1,1500
+1383,2024-11-23,C125,Delhi,Home,Lamp,1,700,0.1,350
+1384,2025-01-08,C103,Mumbai,Electronics,Smart Watch,1,3500,0.2,2400
+1385,2024-01-28,C363,Delhi,Grocery,Tea Pack,2,300,0.0,190
+1386,2025-02-22,C325,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+1387,2025-03-09,C230,Jaipur,Books,Python Guide,1,550,0.1,300
+1388,2025-07-01,C215,Mumbai,Clothing,Jacket,2,2800,0.05,1500
+1389,2025-12-19,C305,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+1390,2025-11-04,C023,Mumbai,Electronics,Smart Watch,2,3500,0.1,2400
+1391,2024-12-05,C055,Lucknow,Grocery,Tea Pack,1,300,0.2,190
+1392,2025-06-15,C295,Delhi,Home,Lamp,1,700,0.1,350
+1393,2025-11-26,C013,Mumbai,Clothing,Jeans,1,1800,0.0,950
+1394,2024-04-28,C073,Delhi,Grocery,Spices Combo,1,450,0.0,280
+1395,2025-06-17,C050,Mumbai,Clothing,Jeans,2,1800,0.05,950
+1396,2024-03-09,C059,Lucknow,Clothing,Jacket,1,2800,0.0,1500
+1397,2025-11-24,C125,Mumbai,Grocery,Spices Combo,2,450,0.05,280
+1398,2025-07-27,C119,Bengaluru,Clothing,Jeans,2,1800,0.0,950
+1399,2025-10-17,C315,Kolkata,Clothing,Jacket,1,2800,0.1,1500
+1400,2025-02-02,C106,Delhi,Electronics,Earphones,2,1500,0.0,900
+1401,2025-08-14,C096,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+1402,2024-09-25,C271,Jaipur,Home,Bedsheet,1,900,0.1,450
+1403,2025-09-17,C179,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1404,2025-11-20,C303,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+1405,2024-09-01,C192,Bengaluru,Clothing,T-Shirt,1,600,0.1,280
+1406,2025-09-02,C217,Delhi,Electronics,Power Bank,2,1200,0.0,750
+1407,2025-07-22,C072,Delhi,Electronics,Power Bank,3,1200,0.2,750
+1408,2024-02-24,C249,Delhi,Grocery,Dry Fruits,3,800,0.2,560
+1409,2025-06-01,C351,Mumbai,Home,Bedsheet,2,900,0.1,450
+1410,2025-05-15,C016,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+1411,2024-10-10,C290,Bengaluru,Electronics,Power Bank,2,1200,0.2,750
+1412,2025-06-07,C138,Bengaluru,Electronics,Earphones,3,1500,0.05,900
+1413,2025-07-09,C390,Bengaluru,Books,Python Guide,1,550,0.1,300
+1414,2024-04-14,C385,Delhi,Books,Novel,3,350,0.0,180
+1415,2025-04-05,C225,Kolkata,Electronics,Earphones,1,1500,0.0,900
+1416,2024-08-02,C353,Mumbai,Books,Novel,2,350,0.1,180
+1417,2024-06-18,C106,Kolkata,Home,Mixer Grinder,2,2500,0.2,1700
+1418,2024-10-14,C150,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+1419,2025-11-26,C031,Jaipur,Electronics,Power Bank,3,1200,0.0,750
+1420,2025-12-19,C075,Bengaluru,Grocery,Dry Fruits,3,800,0.1,560
+1421,2025-05-16,C138,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+1422,2025-10-10,C264,Bengaluru,Books,SQL Handbook,2,500,0.05,280
+1423,2025-04-10,C298,Lucknow,Grocery,Tea Pack,2,300,0.0,190
+1424,2025-04-14,C184,Kolkata,Home,Lamp,2,700,0.1,350
+1425,2024-08-11,C254,Delhi,Grocery,Dry Fruits,3,800,0.05,560
+1426,2025-07-14,C249,Bengaluru,Home,Lamp,3,700,0.0,350
+1427,2024-02-17,C009,Delhi,Electronics,Power Bank,3,1200,0.1,750
+1428,2025-04-12,C104,Jaipur,Electronics,Power Bank,3,1200,0.05,750
+1429,2024-06-11,C048,Bengaluru,Grocery,Tea Pack,1,300,0.05,190
+1430,2025-11-11,C321,Delhi,Electronics,Power Bank,2,1200,0.0,750
+1431,2025-03-15,C049,Lucknow,Home,Lamp,1,700,0.0,350
+1432,2025-08-30,C228,Lucknow,Electronics,Smart Watch,2,3500,0.0,2400
+1433,2025-03-08,C037,Delhi,Home,Bedsheet,1,900,0.0,450
+1434,2024-04-15,C071,Mumbai,Clothing,Jeans,3,1800,0.0,950
+1435,2025-10-18,C289,Lucknow,Electronics,Smart Watch,2,3500,0.1,2400
+1436,2024-12-25,C384,Delhi,Home,Lamp,1,700,0.1,350
+1437,2024-08-10,C072,Bengaluru,Electronics,Earphones,2,1500,0.1,900
+1438,2024-12-25,C072,Delhi,Grocery,Tea Pack,2,300,0.0,190
+1439,2025-07-20,C312,,Home,Lamp,4,700,0.0,350
+1440,2025-11-05,C261,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+1441,2024-09-02,C124,Mumbai,Clothing,T-Shirt,2,600,0.2,280
+1442,2024-01-13,C068,Mumbai,Grocery,Tea Pack,3,300,0.1,190
+1443,2025-01-09,C391,Mumbai,Clothing,T-Shirt,4,600,0.0,280
+1444,2024-01-18,C135,Delhi,Home,Mixer Grinder,4,2500,0.1,1700
+1445,2025-06-02,C257,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1446,2024-03-25,C316,Delhi,Home,Lamp,1,700,0.0,350
+1447,2025-06-07,C275,Delhi,Grocery,Dry Fruits,2,800,0.0,560
+1448,2024-11-13,C030,Delhi,Home,Mixer Grinder,4,2500,0.0,1700
+1449,2025-04-09,C159,Bengaluru,Home,Mixer Grinder,2,2500,0.0,1700
+1450,2024-05-02,C360,Lucknow,Electronics,Earphones,1,1500,0.05,900
+1451,2025-06-19,C133,Delhi,Clothing,Jacket,1,2800,0.05,1500
+1452,2024-04-30,C172,Kolkata,Books,Python Guide,1,550,0.0,300
+1453,2024-09-26,C322,Lucknow,Home,Lamp,1,700,0.05,350
+1454,2024-02-26,C086,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1455,2025-08-10,C117,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+1456,2024-09-07,C197,Jaipur,Electronics,Power Bank,1,1200,0.0,750
+1457,2025-07-20,C380,Bengaluru,Books,Novel,1,350,0.0,180
+1458,2025-03-02,C139,Kolkata,Grocery,Tea Pack,2,300,0.0,190
+1459,2025-05-29,C092,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+1460,2025-02-14,C145,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+1461,2025-07-20,C103,Delhi,Clothing,Jeans,2,1800,0.2,950
+1462,2024-09-05,C253,Jaipur,Clothing,Jacket,2,2800,0.2,1500
+1463,2024-09-08,C013,Delhi,Electronics,Power Bank,1,1200,0.0,750
+1464,2024-12-09,C193,Kolkata,Electronics,Smart Watch,2,3500,0.0,2400
+1465,2024-07-29,C215,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1466,2025-12-29,C119,Kolkata,Electronics,Earphones,1,1500,0.05,900
+1467,2025-04-14,C298,Lucknow,Grocery,Dry Fruits,1,800,0.1,560
+1468,2024-03-17,C223,Bengaluru,Home,Mixer Grinder,1,2500,0.05,1700
+1469,2024-09-24,C359,,Grocery,Tea Pack,1,300,0.1,190
+1470,2024-10-07,C056,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+1471,2024-11-17,C232,Delhi,Clothing,T-Shirt,1,600,0.0,280
+1472,2024-04-02,C156,Kolkata,Electronics,Smart Watch,2,3500,0.0,2400
+1473,2024-08-08,C076,Lucknow,Grocery,Tea Pack,1,300,0.05,190
+1474,2025-02-09,C154,Delhi,Clothing,Jacket,4,2800,0.0,1500
+1475,2025-02-18,C384,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+1476,2024-05-23,C400,Jaipur,Electronics,Earphones,1,1500,0.1,900
+1477,2025-01-16,C044,Mumbai,Home,Lamp,1,700,0.0,350
+1478,2024-01-23,C331,Mumbai,Grocery,Dry Fruits,1,800,0.05,560
+1479,2024-05-05,C026,Delhi,Electronics,Power Bank,2,1200,0.1,750
+1480,2025-05-23,C219,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+1481,2024-10-05,C316,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+1482,2025-07-17,C144,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+1483,2024-09-12,C010,Jaipur,Home,Lamp,2,700,0.05,350
+1484,2025-05-06,C177,Jaipur,Clothing,Jeans,1,1800,0.1,950
+1485,2024-10-11,C399,Delhi,Home,Mixer Grinder,3,2500,0.1,1700
+1486,2025-06-26,C120,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+1487,2024-09-29,C029,Bengaluru,Clothing,Jacket,4,2800,0.2,1500
+1488,2025-02-01,C091,Delhi,Clothing,T-Shirt,1,600,0.05,280
+1489,2025-08-28,C181,Jaipur,Electronics,Smart Watch,2,3500,0.2,2400
+1490,2024-07-11,C278,Delhi,Grocery,Tea Pack,1,300,0.0,190
+1491,2024-02-27,C011,Mumbai,Electronics,Earphones,1,1500,0.2,900
+1492,2024-07-25,C368,Delhi,Books,SQL Handbook,3,500,0.05,280
+1493,2024-03-01,C361,Jaipur,Electronics,Smart Watch,2,3500,0.2,2400
+1494,2025-01-08,C361,Jaipur,Grocery,Tea Pack,1,300,0.0,190
+1495,2024-12-10,C081,Bengaluru,Clothing,T-Shirt,1,600,0.1,280
+1496,2025-10-23,C315,Bengaluru,Grocery,Spices Combo,1,450,0.2,280
+1497,2024-06-28,C353,Delhi,Clothing,Jacket,1,2800,0.0,1500
+1498,2025-12-19,C395,Jaipur,Grocery,Tea Pack,1,300,0.2,190
+1499,2024-11-21,C328,Mumbai,Grocery,Dry Fruits,4,800,0.0,560
+1500,2024-12-05,C178,Jaipur,Books,Python Guide,1,550,0.0,300
+1501,2025-12-26,C172,Mumbai,Home,Lamp,1,700,0.0,350
+1502,2025-12-10,C056,Bengaluru,Electronics,Power Bank,1,1200,0.1,750
+1503,2025-03-05,C253,Kolkata,Grocery,Tea Pack,1,300,0.1,190
+1504,2024-04-13,C334,Bengaluru,Books,Novel,1,350,0.1,180
+1505,2024-03-16,C151,Lucknow,Books,Python Guide,1,550,0.0,300
+1506,2024-03-16,C083,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+1507,2024-12-12,C248,Bengaluru,Home,Lamp,1,700,0.0,350
+1508,2025-09-13,C028,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+1509,2025-02-23,C374,Mumbai,Home,Lamp,2,700,0.05,350
+1510,2024-08-31,C293,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+1511,2025-01-04,C151,Kolkata,Electronics,Earphones,2,1500,0.1,900
+1512,2024-07-23,C088,Bengaluru,Electronics,Earphones,4,1500,0.1,900
+1513,2024-04-28,C242,Mumbai,Clothing,Jeans,2,1800,0.0,950
+1514,2025-10-19,C190,Delhi,Electronics,Power Bank,1,1200,0.1,750
+1515,2025-04-21,C289,Lucknow,Electronics,Power Bank,2,1200,0.0,750
+1516,2024-03-28,C212,Jaipur,Home,Lamp,2,700,0.2,350
+1517,2024-03-03,C215,Jaipur,Grocery,Spices Combo,2,450,0.1,280
+1518,2025-08-09,C154,Lucknow,Grocery,Tea Pack,3,300,0.0,190
+1519,2025-05-29,C293,Bengaluru,Home,Lamp,2,700,0.0,350
+1520,2025-04-04,C109,Kolkata,Electronics,Earphones,1,1500,0.1,900
+1521,2024-03-21,C104,Jaipur,Grocery,Tea Pack,2,300,0.2,190
+1522,2024-09-21,C035,Lucknow,Clothing,Jacket,2,2800,0.2,1500
+1523,2024-11-29,C359,Bengaluru,Clothing,T-Shirt,1,600,0.1,280
+1524,2024-04-25,C291,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+1525,2024-04-18,C147,Kolkata,Home,Mixer Grinder,3,2500,0.1,1700
+1526,2024-09-27,C293,Bengaluru,Clothing,Jeans,1,1800,0.05,950
+1527,2025-02-16,C349,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+1528,2025-12-08,C244,Jaipur,Electronics,Smart Watch,3,3500,0.0,2400
+1529,2024-12-11,C160,Delhi,Books,SQL Handbook,1,500,0.0,280
+1530,2024-08-21,C227,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1531,2025-09-11,C227,Delhi,Home,Mixer Grinder,3,2500,0.1,1700
+1532,2025-06-12,C264,Bengaluru,Grocery,Dry Fruits,1,800,0.2,560
+1533,2025-02-17,C292,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+1534,2024-02-29,C026,Jaipur,Electronics,Power Bank,2,1200,0.05,750
+1535,2025-01-12,C204,Bengaluru,Books,Novel,1,350,0.0,180
+1536,2024-09-04,C229,,Clothing,Jacket,3,2800,0.2,1500
+1537,2025-07-18,C133,Bengaluru,Clothing,T-Shirt,2,600,0.05,280
+1538,2024-01-29,C293,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+1539,2025-10-07,C263,Lucknow,Electronics,Power Bank,2,1200,0.0,750
+1540,2025-04-30,C089,Bengaluru,Grocery,Spices Combo,1,450,0.05,280
+1541,2025-09-14,C365,Jaipur,Books,SQL Handbook,2,500,0.1,280
+1542,2025-01-20,C130,Delhi,Grocery,Tea Pack,1,300,0.2,190
+1543,2025-09-30,C004,Mumbai,Clothing,T-Shirt,2,600,0.05,280
+1544,2025-07-28,C145,Delhi,Home,Lamp,1,700,0.0,350
+1545,2024-12-10,C167,Kolkata,Grocery,Spices Combo,1,450,0.05,280
+1546,2024-07-11,C030,Kolkata,Electronics,Earphones,3,1500,0.2,900
+1547,2025-02-17,C072,Bengaluru,Home,Lamp,2,700,0.05,350
+1548,2024-09-22,C199,Bengaluru,Grocery,Tea Pack,2,300,0.2,190
+1549,2024-07-13,C114,Bengaluru,Clothing,Jacket,2,2800,0.1,1500
+1550,2025-11-10,C286,Delhi,Grocery,Spices Combo,1,450,0.0,280
+1551,2024-09-21,C391,Jaipur,Home,Lamp,4,700,0.05,350
+1552,2025-11-12,C216,Bengaluru,Electronics,Power Bank,1,1200,0.05,750
+1553,2025-08-22,C241,Lucknow,Electronics,Earphones,2,1500,0.2,900
+1554,2025-09-27,C257,Delhi,Electronics,Earphones,2,1500,0.2,900
+1555,2024-11-01,C071,Jaipur,Grocery,Dry Fruits,1,800,0.2,560
+1556,2025-04-13,C093,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+1557,2024-11-16,C108,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+1558,2025-05-16,C067,Bengaluru,Books,Python Guide,2,550,0.1,300
+1559,2025-03-15,C003,Lucknow,Grocery,Tea Pack,1,300,0.05,190
+1560,2024-01-15,C098,Lucknow,Grocery,Spices Combo,1,450,0.0,280
+1561,2024-08-19,C160,Delhi,Home,Bedsheet,1,900,0.2,450
+1562,2024-11-27,C234,Bengaluru,Electronics,Power Bank,2,1200,0.05,750
+1563,2025-03-20,C176,Jaipur,Grocery,Dry Fruits,1,800,0.0,560
+1564,2024-06-17,C010,Delhi,Grocery,Tea Pack,2,300,0.0,190
+1565,2024-08-04,C259,Delhi,Books,Novel,1,350,0.0,180
+1566,2025-01-19,C395,Mumbai,Grocery,Tea Pack,1,300,0.0,190
+1567,2025-11-27,C060,Mumbai,Electronics,Smart Watch,1,3500,0.2,2400
+1568,2024-09-15,C106,Bengaluru,Clothing,T-Shirt,2,600,0.05,280
+1569,2025-03-06,C267,Delhi,Home,Lamp,2,700,0.0,350
+1570,2025-03-04,C262,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+1571,2024-04-18,C103,Bengaluru,Clothing,Jacket,3,2800,0.0,1500
+1572,2025-01-01,C083,Lucknow,Home,Bedsheet,1,900,0.0,450
+1573,2025-12-05,C121,Lucknow,Grocery,Tea Pack,2,300,0.0,190
+1574,2025-08-10,C047,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+1575,2024-09-19,C152,Delhi,Home,Bedsheet,1,900,0.0,450
+1576,2024-02-10,C347,Delhi,Grocery,Tea Pack,2,300,0.0,190
+1577,2024-02-16,C340,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+1578,2025-09-28,C048,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+1579,2025-02-14,C140,Kolkata,Clothing,Jeans,2,1800,0.1,950
+1580,2025-03-07,C058,Delhi,Home,Mixer Grinder,2,2500,0.0,1700
+1581,2024-04-16,C248,Kolkata,Clothing,Jacket,2,2800,0.0,1500
+1582,2025-09-17,C314,Lucknow,Clothing,Jeans,2,1800,0.0,950
+1583,2025-05-09,C211,Mumbai,Grocery,Dry Fruits,1,800,0.05,560
+1584,2024-01-13,C269,Bengaluru,Home,Lamp,2,700,0.2,350
+1585,2024-08-17,C174,Mumbai,Grocery,Spices Combo,2,450,0.2,280
+1586,2024-04-07,C128,Mumbai,Clothing,Jacket,2,2800,0.1,1500
+1587,2024-06-01,C314,Lucknow,Grocery,Spices Combo,2,450,0.0,280
+1588,2025-06-01,C085,Lucknow,Grocery,Tea Pack,1,300,0.0,190
+1589,2024-12-04,C260,Delhi,Grocery,Dry Fruits,2,800,0.1,560
+1590,2024-08-28,C294,,Electronics,Power Bank,3,1200,0.1,750
+1591,2024-11-16,C053,Mumbai,Books,Python Guide,1,550,0.2,300
+1592,2024-01-01,C317,Bengaluru,Books,Novel,3,350,0.2,180
+1593,2024-07-30,C175,Mumbai,Home,Bedsheet,1,900,0.0,450
+1594,2025-04-10,C308,Mumbai,Clothing,Jacket,2,2800,0.1,1500
+1595,2024-04-26,C114,Lucknow,Electronics,Smart Watch,1,3500,0.05,2400
+1596,2025-07-14,C055,Lucknow,Clothing,Jacket,1,2800,0.0,1500
+1597,2025-02-23,C101,Delhi,Electronics,Smart Watch,4,3500,0.1,2400
+1598,2024-08-08,C367,Delhi,Clothing,T-Shirt,2,600,0.0,280
+1599,2025-10-10,C235,Bengaluru,Home,Bedsheet,4,900,0.0,450
+1600,2025-05-25,C025,Mumbai,Electronics,Smart Watch,1,3500,0.2,2400
+1601,2025-05-09,C355,Mumbai,Grocery,Dry Fruits,2,800,0.0,560
+1602,2024-04-16,C311,Kolkata,Clothing,Jacket,1,2800,0.1,1500
+1603,2025-03-04,C391,Delhi,Grocery,Spices Combo,1,450,0.05,280
+1604,2024-10-28,C309,Bengaluru,Electronics,Power Bank,2,1200,0.05,750
+1605,2025-12-19,C365,Bengaluru,Clothing,Jeans,2,1800,0.0,950
+1606,2024-07-24,C149,Bengaluru,Electronics,Smart Watch,4,3500,0.0,2400
+1607,2025-12-28,C258,Mumbai,Home,Mixer Grinder,2,2500,0.0,1700
+1608,2024-12-26,C293,,Home,Lamp,2,700,0.2,350
+1609,2024-10-19,C268,Delhi,Clothing,T-Shirt,1,600,0.0,280
+1610,2025-11-09,C147,Bengaluru,Books,Python Guide,1,550,0.0,300
+1611,2025-12-08,C386,Mumbai,Books,Python Guide,1,550,0.1,300
+1612,2024-04-14,C379,Mumbai,Home,Lamp,1,700,0.2,350
+1613,2025-02-02,C148,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1614,2025-01-31,C161,Jaipur,Clothing,Jacket,1,2800,0.05,1500
+1615,2024-07-26,C116,Jaipur,Home,Bedsheet,2,900,0.05,450
+1616,2025-08-25,C101,Bengaluru,Clothing,Jacket,4,2800,0.05,1500
+1617,2025-04-04,C039,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+1618,2024-05-02,C143,Mumbai,Clothing,Jeans,1,1800,0.2,950
+1619,2024-09-18,C364,Jaipur,Electronics,Power Bank,1,1200,0.05,750
+1620,2025-09-03,C316,Kolkata,Electronics,Smart Watch,1,3500,0.2,2400
+1621,2025-07-17,C163,Mumbai,Clothing,Jacket,4,2800,0.2,1500
+1622,2024-03-10,C213,Mumbai,Books,Python Guide,1,550,0.05,300
+1623,2024-08-14,C170,Delhi,Grocery,Spices Combo,1,450,0.2,280
+1624,2025-06-27,C386,Jaipur,Clothing,Jacket,1,2800,0.05,1500
+1625,2025-04-01,C315,Jaipur,Electronics,Smart Watch,1,3500,0.0,2400
+1626,2025-11-29,C198,Delhi,Clothing,T-Shirt,2,600,0.0,280
+1627,2025-06-13,C264,Kolkata,Books,SQL Handbook,1,500,0.0,280
+1628,2024-10-30,C043,Jaipur,Electronics,Smart Watch,1,3500,0.2,2400
+1629,2025-06-30,C108,Bengaluru,Electronics,Earphones,2,1500,0.1,900
+1630,2024-04-16,C380,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+1631,2025-12-03,C368,Delhi,Electronics,Power Bank,1,1200,0.0,750
+1632,2024-07-01,C037,Mumbai,Books,Novel,1,350,0.05,180
+1633,2025-02-21,C208,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1634,2025-07-01,C317,Lucknow,Electronics,Smart Watch,2,3500,0.0,2400
+1635,2025-12-18,C258,Delhi,Grocery,Tea Pack,2,300,0.05,190
+1636,2025-09-13,C196,Mumbai,Electronics,Power Bank,2,1200,0.1,750
+1637,2024-06-09,C383,Mumbai,Clothing,T-Shirt,2,600,0.2,280
+1638,2024-10-29,C374,Bengaluru,Electronics,Smart Watch,4,3500,0.0,2400
+1639,2025-07-20,C064,Lucknow,Grocery,Dry Fruits,2,800,0.1,560
+1640,2025-07-04,C157,Delhi,Clothing,T-Shirt,2,600,0.05,280
+1641,2024-08-04,C263,Delhi,Clothing,Jacket,1,2800,0.2,1500
+1642,2024-09-15,C344,Bengaluru,Electronics,Earphones,3,1500,0.2,900
+1643,2025-04-17,C149,,Home,Mixer Grinder,1,2500,0.0,1700
+1644,2025-08-17,C183,Delhi,Clothing,Jeans,2,1800,0.0,950
+1645,2024-10-18,C249,Mumbai,Grocery,Tea Pack,2,300,0.05,190
+1646,2025-12-11,C291,Mumbai,Home,Lamp,1,700,0.1,350
+1647,2024-06-21,C114,Bengaluru,Electronics,Earphones,2,1500,0.05,900
+1648,2025-01-03,C170,Kolkata,Electronics,Smart Watch,1,3500,0.05,2400
+1649,2024-11-08,C311,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+1650,2025-07-05,C321,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+1651,2025-06-03,C297,Mumbai,Home,Lamp,2,700,0.0,350
+1652,2025-07-18,C242,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1653,2024-08-16,C376,Kolkata,Grocery,Spices Combo,1,450,0.2,280
+1654,2025-06-06,C258,Lucknow,Electronics,Power Bank,1,1200,0.2,750
+1655,2025-12-01,C072,Mumbai,Electronics,Smart Watch,1,3500,0.2,2400
+1656,2025-11-06,C248,,Electronics,Smart Watch,1,3500,0.1,2400
+1657,2024-08-25,C120,Lucknow,Electronics,Power Bank,1,1200,0.05,750
+1658,2025-02-01,C024,Lucknow,Clothing,Jeans,2,1800,0.0,950
+1659,2025-12-21,C141,Kolkata,Grocery,Spices Combo,1,450,0.2,280
+1660,2025-08-06,C194,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+1661,2025-06-13,C265,Mumbai,Electronics,Earphones,3,1500,0.05,900
+1662,2025-05-13,C004,Mumbai,Books,Novel,1,350,0.0,180
+1663,2024-08-23,C144,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+1664,2025-09-08,C339,Delhi,Home,Mixer Grinder,3,2500,0.0,1700
+1665,2025-05-08,C108,Mumbai,Home,Bedsheet,2,900,0.1,450
+1666,2024-01-23,C294,Mumbai,Electronics,Earphones,1,1500,0.2,900
+1667,2024-02-10,C029,Delhi,Grocery,Dry Fruits,4,800,0.2,560
+1668,2025-02-19,C327,Lucknow,Home,Lamp,2,700,0.05,350
+1669,2024-03-28,C242,Kolkata,Electronics,Smart Watch,1,3500,0.1,2400
+1670,2025-09-07,C393,Delhi,Electronics,Smart Watch,2,3500,0.05,2400
+1671,2024-06-20,C233,Mumbai,Home,Bedsheet,1,900,0.1,450
+1672,2025-01-29,C104,Mumbai,Electronics,Earphones,3,1500,0.1,900
+1673,2024-06-02,C244,Jaipur,Home,Mixer Grinder,2,2500,0.2,1700
+1674,2025-05-30,C247,Bengaluru,Books,Python Guide,3,550,0.2,300
+1675,2024-01-02,C333,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+1676,2025-12-15,C247,Bengaluru,Clothing,T-Shirt,1,600,0.2,280
+1677,2025-12-14,C069,Delhi,Home,Bedsheet,2,900,0.0,450
+1678,2024-10-17,C097,Lucknow,Clothing,Jeans,2,1800,0.0,950
+1679,2025-08-14,C004,Mumbai,Clothing,Jacket,1,2800,0.05,1500
+1680,2025-02-22,C219,Bengaluru,Clothing,T-Shirt,1,600,0.2,280
+1681,2025-03-09,C142,Jaipur,Home,Lamp,1,700,0.0,350
+1682,2025-02-27,C248,Delhi,Home,Lamp,2,700,0.1,350
+1683,2024-09-16,C177,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+1684,2025-11-08,C083,Delhi,Clothing,Jacket,1,2800,0.05,1500
+1685,2025-07-17,C362,Lucknow,Home,Lamp,1,700,0.0,350
+1686,2024-04-03,C308,Mumbai,Books,SQL Handbook,1,500,0.0,280
+1687,2025-01-14,C371,Mumbai,Electronics,Earphones,4,1500,0.2,900
+1688,2025-11-02,C030,Jaipur,Home,Lamp,3,700,0.1,350
+1689,2025-03-25,C266,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+1690,2025-06-06,C315,Delhi,Clothing,T-Shirt,1,600,0.0,280
+1691,2025-11-06,C400,Mumbai,Electronics,Power Bank,2,1200,0.1,750
+1692,2025-08-23,C378,Bengaluru,Electronics,Earphones,3,1500,0.2,900
+1693,2024-10-18,C179,Delhi,Home,Lamp,3,700,0.0,350
+1694,2025-09-12,C207,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+1695,2025-06-02,C258,Delhi,Electronics,Earphones,4,1500,0.2,900
+1696,2024-09-20,C129,Bengaluru,Grocery,Spices Combo,4,450,0.2,280
+1697,2025-05-10,C398,Mumbai,Books,SQL Handbook,1,500,0.2,280
+1698,2024-01-29,C035,Mumbai,Clothing,Jeans,2,1800,0.0,950
+1699,2025-11-24,C181,Mumbai,Books,SQL Handbook,1,500,0.05,280
+1700,2024-09-11,C345,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+1701,2024-07-01,C112,Kolkata,Clothing,Jeans,1,1800,0.0,950
+1702,2025-05-25,C377,Delhi,Books,Python Guide,1,550,0.0,300
+1703,2024-07-26,C183,Delhi,Grocery,Spices Combo,1,450,0.0,280
+1704,2025-11-23,C392,,Clothing,T-Shirt,4,600,0.1,280
+1705,2025-01-15,C295,Kolkata,Home,Bedsheet,1,900,0.2,450
+1706,2024-10-25,C270,Bengaluru,Home,Mixer Grinder,1,2500,0.2,1700
+1707,2024-02-03,C352,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+1708,2025-12-16,C353,Lucknow,Clothing,Jeans,2,1800,0.1,950
+1709,2025-08-17,C314,Kolkata,Electronics,Power Bank,1,1200,0.05,750
+1710,2024-08-30,C176,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+1711,2025-03-05,C187,Kolkata,Home,Bedsheet,1,900,0.0,450
+1712,2025-08-08,C352,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+1713,2024-08-29,C101,Delhi,Home,Bedsheet,4,900,0.0,450
+1714,2025-04-29,C216,Mumbai,Books,Python Guide,4,550,0.2,300
+1715,2025-06-30,C154,Delhi,Home,Bedsheet,3,900,0.0,450
+1716,2025-02-11,C031,Delhi,Electronics,Earphones,1,1500,0.0,900
+1717,2025-04-05,C185,Mumbai,Books,SQL Handbook,2,500,0.05,280
+1718,2024-12-18,C180,Kolkata,Electronics,Earphones,4,1500,0.0,900
+1719,2025-08-13,C276,Delhi,Home,Lamp,2,700,0.05,350
+1720,2024-11-28,C229,Kolkata,Clothing,Jacket,1,2800,0.05,1500
+1721,2025-04-19,C086,Bengaluru,Home,Mixer Grinder,4,2500,0.1,1700
+1722,2025-10-08,C041,Delhi,Clothing,T-Shirt,1,600,0.05,280
+1723,2025-10-09,C139,Kolkata,Home,Bedsheet,2,900,0.05,450
+1724,2025-08-24,C212,Delhi,Clothing,Jeans,3,1800,0.0,950
+1725,2024-08-28,C359,Bengaluru,Home,Lamp,1,700,0.1,350
+1726,2024-04-15,C281,Lucknow,Electronics,Power Bank,2,1200,0.2,750
+1727,2024-03-26,C080,Lucknow,Electronics,Smart Watch,4,3500,0.1,2400
+1728,2024-11-24,C065,Delhi,Electronics,Smart Watch,3,3500,0.0,2400
+1729,2024-02-05,C244,Mumbai,Home,Bedsheet,3,900,0.05,450
+1730,2025-07-15,C277,Delhi,Clothing,Jacket,2,2800,0.2,1500
+1731,2025-03-21,C274,Delhi,Clothing,Jacket,1,2800,0.2,1500
+1732,2024-08-20,C158,Mumbai,Books,SQL Handbook,1,500,0.05,280
+1733,2024-01-11,C177,Delhi,Electronics,Earphones,1,1500,0.1,900
+1734,2025-05-03,C150,Mumbai,Electronics,Power Bank,2,1200,0.2,750
+1735,2025-01-17,C224,Mumbai,Electronics,Smart Watch,1,3500,0.1,2400
+1736,2025-01-22,C217,Bengaluru,Electronics,Earphones,1,1500,0.2,900
+1737,2025-12-11,C333,Bengaluru,Home,Bedsheet,3,900,0.1,450
+1738,2024-07-11,C070,Delhi,Grocery,Dry Fruits,2,800,0.2,560
+1739,2025-04-08,C252,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+1740,2025-07-01,C145,Delhi,Electronics,Earphones,2,1500,0.0,900
+1741,2024-08-26,C253,Delhi,Electronics,Earphones,1,1500,0.1,900
+1742,2025-01-15,C170,Lucknow,Clothing,T-Shirt,2,600,0.0,280
+1743,2024-02-27,C037,Mumbai,Electronics,Power Bank,1,1200,0.05,750
+1744,2025-01-25,C394,Bengaluru,Books,Python Guide,1,550,0.1,300
+1745,2024-09-10,C102,Mumbai,Books,Python Guide,2,550,0.2,300
+1746,2025-11-12,C160,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+1747,2025-07-16,C247,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+1748,2025-11-04,C167,Lucknow,Electronics,Power Bank,2,1200,0.2,750
+1749,2024-05-02,C005,Jaipur,Clothing,T-Shirt,2,600,0.1,280
+1750,2025-12-05,C395,Lucknow,Home,Bedsheet,1,900,0.0,450
+1751,2025-12-03,C031,Lucknow,Home,Lamp,2,700,0.2,350
+1752,2024-04-19,C163,Jaipur,Electronics,Earphones,2,1500,0.05,900
+1753,2025-03-25,C353,Mumbai,Books,Python Guide,2,550,0.05,300
+1754,2024-02-10,C287,Delhi,Clothing,Jeans,2,1800,0.0,950
+1755,2025-08-03,C166,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+1756,2025-07-21,C080,Mumbai,Electronics,Smart Watch,3,3500,0.2,2400
+1757,2025-01-10,C260,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+1758,2025-09-26,C123,Delhi,Grocery,Spices Combo,1,450,0.2,280
+1759,2025-01-31,C255,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+1760,2024-11-26,C268,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+1761,2024-07-01,C055,Mumbai,Grocery,Dry Fruits,1,800,0.2,560
+1762,2025-10-19,C320,Bengaluru,Home,Lamp,1,700,0.05,350
+1763,2024-08-14,C007,Jaipur,Home,Mixer Grinder,1,2500,0.1,1700
+1764,2024-03-22,C032,Mumbai,Clothing,Jacket,2,2800,0.1,1500
+1765,2025-01-12,C316,Delhi,Books,Python Guide,1,550,0.0,300
+1766,2024-11-07,C052,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+1767,2024-07-16,C292,Bengaluru,Clothing,T-Shirt,1,600,0.2,280
+1768,2025-03-01,C296,,Books,Novel,1,350,0.1,180
+1769,2024-04-16,C282,Mumbai,Electronics,Earphones,1,1500,0.0,900
+1770,2025-06-30,C181,Jaipur,Grocery,Tea Pack,2,300,0.05,190
+1771,2025-01-15,C221,Kolkata,Clothing,Jacket,1,2800,0.0,1500
+1772,2025-07-30,C393,Mumbai,Clothing,Jeans,2,1800,0.05,950
+1773,2025-04-08,C001,Bengaluru,Clothing,Jeans,4,1800,0.2,950
+1774,2024-01-17,C004,Delhi,Clothing,Jeans,1,1800,0.05,950
+1775,2024-01-23,C142,Jaipur,Books,Novel,1,350,0.2,180
+1776,2025-08-08,C236,Mumbai,Electronics,Earphones,1,1500,0.05,900
+1777,2025-08-19,C154,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+1778,2024-03-20,C089,Mumbai,Home,Bedsheet,3,900,0.2,450
+1779,2024-04-07,C020,Bengaluru,Home,Bedsheet,2,900,0.0,450
+1780,2024-02-27,C179,Kolkata,Grocery,Tea Pack,1,300,0.0,190
+1781,2024-08-20,C006,Bengaluru,Books,Novel,2,350,0.0,180
+1782,2024-11-08,C077,Delhi,Clothing,Jacket,2,2800,0.0,1500
+1783,2024-02-21,C229,Bengaluru,Home,Bedsheet,2,900,0.0,450
+1784,2024-08-15,C076,Delhi,Clothing,Jeans,1,1800,0.2,950
+1785,2024-02-20,C044,Mumbai,Clothing,Jeans,1,1800,0.0,950
+1786,2024-05-18,C250,Mumbai,Clothing,T-Shirt,2,600,0.2,280
+1787,2025-09-22,C127,Delhi,Grocery,Spices Combo,1,450,0.1,280
+1788,2024-11-27,C344,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+1789,2024-11-21,C087,Jaipur,Electronics,Power Bank,2,1200,0.1,750
+1790,2025-09-30,C120,Delhi,Electronics,Earphones,1,1500,0.0,900
+1791,2024-04-25,C318,Jaipur,Books,Python Guide,3,550,0.05,300
+1792,2024-01-15,C157,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1793,2025-07-04,C268,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+1794,2024-05-24,C010,Mumbai,Home,Lamp,3,700,0.2,350
+1795,2024-02-14,C146,Delhi,Electronics,Earphones,2,1500,0.05,900
+1796,2024-02-24,C035,Mumbai,Clothing,T-Shirt,1,600,0.05,280
+1797,2024-04-20,C198,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+1798,2024-11-19,C096,Delhi,Home,Mixer Grinder,4,2500,0.2,1700
+1799,2025-12-30,C272,Delhi,Electronics,Earphones,1,1500,0.0,900
+1800,2024-01-19,C182,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+1801,2024-10-09,C016,Jaipur,Home,Bedsheet,4,900,0.0,450
+1802,2024-06-04,C337,Delhi,Clothing,Jeans,2,1800,0.2,950
+1803,2025-11-25,C214,Delhi,Home,Mixer Grinder,1,2500,0.05,1700
+1804,2025-09-11,C068,Delhi,Clothing,Jacket,1,2800,0.2,1500
+1805,2025-12-01,C159,Bengaluru,Books,Python Guide,3,550,0.0,300
+1806,2025-03-16,C336,Jaipur,Grocery,Dry Fruits,3,800,0.05,560
+1807,2024-03-10,C061,Delhi,Home,Lamp,3,700,0.0,350
+1808,2024-01-31,C211,Delhi,Books,SQL Handbook,2,500,0.05,280
+1809,2024-06-04,C068,Delhi,Books,Python Guide,2,550,0.2,300
+1810,2025-09-23,C314,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+1811,2025-01-02,C069,Mumbai,Electronics,Power Bank,2,1200,0.05,750
+1812,2024-07-07,C243,Delhi,Grocery,Tea Pack,1,300,0.0,190
+1813,2025-02-22,C139,Jaipur,Books,Python Guide,1,550,0.0,300
+1814,2024-07-28,C316,Mumbai,Electronics,Power Bank,1,1200,0.1,750
+1815,2024-09-09,C312,Bengaluru,Clothing,T-Shirt,1,600,0.05,280
+1816,2025-02-07,C293,Mumbai,Home,Lamp,1,700,0.0,350
+1817,2025-06-17,C022,Kolkata,Electronics,Power Bank,1,1200,0.2,750
+1818,2025-02-09,C286,Mumbai,Grocery,Dry Fruits,2,800,0.0,560
+1819,2024-07-13,C156,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+1820,2025-03-08,C354,Mumbai,Electronics,Earphones,1,1500,0.1,900
+1821,2024-04-02,C093,Bengaluru,Home,Mixer Grinder,4,2500,0.2,1700
+1822,2024-05-18,C231,Lucknow,Clothing,Jeans,1,1800,0.0,950
+1823,2025-04-10,C355,Bengaluru,Electronics,Power Bank,2,1200,0.0,750
+1824,2024-05-06,C231,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1825,2025-06-07,C194,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+1826,2024-12-09,C077,Delhi,Home,Lamp,1,700,0.0,350
+1827,2025-03-05,C394,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+1828,2024-04-30,C002,Bengaluru,Grocery,Dry Fruits,1,800,0.1,560
+1829,2025-05-24,C003,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+1830,2025-08-25,C210,Mumbai,Home,Bedsheet,2,900,0.0,450
+1831,2024-09-07,C318,Bengaluru,Grocery,Tea Pack,3,300,0.0,190
+1832,2024-02-20,C335,Delhi,Electronics,Earphones,1,1500,0.0,900
+1833,2025-11-14,C045,Lucknow,Home,Bedsheet,1,900,0.0,450
+1834,2024-06-14,C339,Bengaluru,Home,Lamp,2,700,0.2,350
+1835,2024-06-30,C297,Mumbai,Grocery,Spices Combo,1,450,0.05,280
+1836,2024-11-13,C282,Lucknow,Books,SQL Handbook,1,500,0.0,280
+1837,2025-12-12,C270,Mumbai,Grocery,Tea Pack,1,300,0.0,190
+1838,2025-09-18,C374,Jaipur,Electronics,Smart Watch,1,3500,0.0,2400
+1839,2025-05-10,C362,Delhi,Home,Lamp,2,700,0.05,350
+1840,2024-09-22,C182,Jaipur,Clothing,Jacket,2,2800,0.1,1500
+1841,2025-06-16,C253,Kolkata,Home,Bedsheet,3,900,0.0,450
+1842,2025-12-26,C001,Delhi,Electronics,Earphones,1,1500,0.0,900
+1843,2024-07-31,C212,Lucknow,Books,SQL Handbook,1,500,0.0,280
+1844,2024-01-12,C145,Delhi,Home,Lamp,1,700,0.05,350
+1845,2025-06-02,C059,Bengaluru,Clothing,T-Shirt,1,600,0.2,280
+1846,2025-09-22,C100,Delhi,Grocery,Dry Fruits,1,800,0.1,560
+1847,2025-04-30,C070,Mumbai,Books,Novel,2,350,0.2,180
+1848,2024-12-09,C381,Lucknow,Clothing,Jeans,1,1800,0.2,950
+1849,2025-11-18,C351,Delhi,Electronics,Smart Watch,3,3500,0.05,2400
+1850,2024-03-08,C016,Delhi,Grocery,Tea Pack,1,300,0.2,190
+1851,2024-06-18,C096,Mumbai,Home,Bedsheet,3,900,0.05,450
+1852,2025-12-23,C017,Delhi,Grocery,Spices Combo,1,450,0.0,280
+1853,2025-01-15,C111,Mumbai,Clothing,Jeans,1,1800,0.05,950
+1854,2024-02-08,C228,Mumbai,Books,Python Guide,2,550,0.2,300
+1855,2024-06-06,C376,Kolkata,Electronics,Power Bank,1,1200,0.05,750
+1856,2024-05-26,C265,Bengaluru,Books,Python Guide,1,550,0.0,300
+1857,2025-04-15,C060,Lucknow,Clothing,Jacket,4,2800,0.2,1500
+1858,2024-03-30,C053,Mumbai,Clothing,T-Shirt,2,600,0.05,280
+1859,2024-01-24,C328,Kolkata,Home,Bedsheet,1,900,0.0,450
+1860,2024-10-11,C061,Delhi,Books,Novel,1,350,0.0,180
+1861,2024-01-16,C264,Delhi,Grocery,Spices Combo,1,450,0.2,280
+1862,2024-11-23,C126,Delhi,Books,Novel,1,350,0.05,180
+1863,2025-07-07,C015,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+1864,2025-01-27,C201,Delhi,Electronics,Power Bank,2,1200,0.2,750
+1865,2025-10-06,C183,Delhi,Home,Lamp,3,700,0.2,350
+1866,2024-03-21,C291,Delhi,Grocery,Tea Pack,3,300,0.1,190
+1867,2024-04-09,C330,Bengaluru,Clothing,Jacket,1,2800,0.0,1500
+1868,2024-08-17,C133,Jaipur,Electronics,Smart Watch,1,3500,0.05,2400
+1869,2024-11-28,C058,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+1870,2024-10-16,C261,Delhi,Home,Mixer Grinder,3,2500,0.0,1700
+1871,2024-11-29,C273,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+1872,2025-09-27,C247,Mumbai,Electronics,Earphones,1,1500,0.2,900
+1873,2025-03-17,C291,Bengaluru,Books,SQL Handbook,1,500,0.0,280
+1874,2024-06-26,C379,Jaipur,Home,Mixer Grinder,2,2500,0.1,1700
+1875,2024-04-27,C167,Mumbai,Home,Bedsheet,3,900,0.0,450
+1876,2024-11-11,C351,Kolkata,Electronics,Earphones,2,1500,0.1,900
+1877,2024-12-01,C032,Lucknow,Clothing,Jacket,3,2800,0.2,1500
+1878,2025-10-13,C077,Mumbai,Books,Novel,1,350,0.2,180
+1879,2025-08-14,C349,Kolkata,Clothing,T-Shirt,1,600,0.05,280
+1880,2025-03-21,C046,Mumbai,Home,Bedsheet,2,900,0.2,450
+1881,2025-02-17,C032,Mumbai,Grocery,Tea Pack,1,300,0.0,190
+1882,2024-01-01,C057,Kolkata,Home,Bedsheet,3,900,0.0,450
+1883,2025-03-18,C321,Delhi,Home,Bedsheet,1,900,0.1,450
+1884,2025-03-21,C089,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+1885,2025-01-03,C148,Jaipur,Grocery,Dry Fruits,2,800,0.0,560
+1886,2024-01-12,C074,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+1887,2024-05-19,C213,Kolkata,Electronics,Smart Watch,3,3500,0.2,2400
+1888,2025-03-11,C261,Mumbai,Home,Bedsheet,3,900,0.1,450
+1889,2024-12-29,C310,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+1890,2025-12-30,C280,Mumbai,Clothing,Jeans,1,1800,0.0,950
+1891,2025-08-04,C058,Mumbai,Clothing,Jeans,4,1800,0.0,950
+1892,2024-05-25,C385,Bengaluru,Books,Novel,1,350,0.0,180
+1893,2025-06-19,C126,Mumbai,Grocery,Dry Fruits,2,800,0.0,560
+1894,2025-12-01,C160,Bengaluru,Home,Lamp,3,700,0.2,350
+1895,2024-01-12,C241,Mumbai,Clothing,Jacket,1,2800,0.05,1500
+1896,2024-10-02,C384,Delhi,Home,Lamp,2,700,0.05,350
+1897,2024-03-03,C087,Mumbai,Home,Lamp,2,700,0.05,350
+1898,2025-10-16,C040,Kolkata,Electronics,Smart Watch,1,3500,0.0,2400
+1899,2025-09-22,C008,,Electronics,Power Bank,2,1200,0.2,750
+1900,2024-06-03,C090,Delhi,Home,Bedsheet,2,900,0.1,450
+1901,2024-07-04,C176,Jaipur,Books,Python Guide,4,550,0.2,300
+1902,2024-06-06,C395,Mumbai,Grocery,Tea Pack,2,300,0.0,190
+1903,2024-08-03,C028,Bengaluru,Home,Bedsheet,2,900,0.0,450
+1904,2024-02-23,C244,Delhi,Electronics,Power Bank,2,1200,0.2,750
+1905,2024-08-27,C200,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+1906,2024-01-13,C196,Bengaluru,Electronics,Power Bank,4,1200,0.0,750
+1907,2024-04-09,C182,Jaipur,Grocery,Spices Combo,1,450,0.05,280
+1908,2024-12-09,C131,Bengaluru,Electronics,Earphones,1,1500,0.0,900
+1909,2025-11-19,C347,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+1910,2024-01-11,C007,Mumbai,Home,Mixer Grinder,1,2500,0.1,1700
+1911,2024-12-25,C129,Delhi,Electronics,Power Bank,1,1200,0.0,750
+1912,2024-02-28,C112,Jaipur,Grocery,Spices Combo,2,450,0.0,280
+1913,2024-03-29,C193,Bengaluru,Grocery,Dry Fruits,3,800,0.2,560
+1914,2024-07-08,C095,Delhi,Grocery,Spices Combo,1,450,0.0,280
+1915,2025-10-16,C355,Jaipur,Grocery,Tea Pack,2,300,0.05,190
+1916,2024-09-20,C142,Bengaluru,Electronics,Earphones,1,1500,0.05,900
+1917,2024-03-02,C092,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+1918,2025-09-16,C252,Delhi,Clothing,Jacket,1,2800,0.1,1500
+1919,2024-08-11,C227,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+1920,2024-03-13,C398,Mumbai,Home,Bedsheet,3,900,0.0,450
+1921,2025-10-30,C200,Delhi,Grocery,Spices Combo,2,450,0.1,280
+1922,2025-08-11,C395,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+1923,2025-07-07,C353,Kolkata,Electronics,Power Bank,1,1200,0.2,750
+1924,2025-07-02,C171,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+1925,2025-01-09,C042,Kolkata,Clothing,Jeans,2,1800,0.05,950
+1926,2025-10-18,C339,Delhi,Electronics,Power Bank,2,1200,0.0,750
+1927,2025-10-07,C225,Bengaluru,Clothing,Jacket,1,2800,0.0,1500
+1928,2024-01-26,C123,Mumbai,Home,Lamp,1,700,0.2,350
+1929,2025-10-18,C009,Lucknow,Grocery,Tea Pack,1,300,0.0,190
+1930,2025-02-19,C342,Mumbai,Electronics,Smart Watch,4,3500,0.2,2400
+1931,2024-06-01,C037,Lucknow,Books,Python Guide,1,550,0.0,300
+1932,2025-04-27,C024,Delhi,Grocery,Spices Combo,2,450,0.0,280
+1933,2024-06-25,C050,Mumbai,Home,Bedsheet,1,900,0.2,450
+1934,2024-03-06,C059,Mumbai,Books,Python Guide,2,550,0.0,300
+1935,2024-03-05,C173,Kolkata,Books,SQL Handbook,4,500,0.1,280
+1936,2024-11-22,C165,Kolkata,Home,Mixer Grinder,2,2500,0.0,1700
+1937,2025-08-30,C062,Delhi,Electronics,Earphones,2,1500,0.0,900
+1938,2025-12-14,C225,Delhi,Clothing,T-Shirt,2,600,0.0,280
+1939,2024-04-12,C314,Mumbai,Books,Novel,1,350,0.1,180
+1940,2024-03-23,C046,Bengaluru,Electronics,Earphones,2,1500,0.05,900
+1941,2025-03-02,C355,Delhi,Home,Bedsheet,1,900,0.05,450
+1942,2025-06-19,C090,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+1943,2025-05-26,C322,Kolkata,Home,Mixer Grinder,1,2500,0.1,1700
+1944,2024-01-05,C061,Jaipur,Home,Mixer Grinder,4,2500,0.2,1700
+1945,2025-01-05,C260,Delhi,Grocery,Spices Combo,2,450,0.0,280
+1946,2024-10-04,C243,Mumbai,Books,Novel,1,350,0.0,180
+1947,2024-02-25,C108,Mumbai,Home,Bedsheet,1,900,0.1,450
+1948,2024-02-14,C276,Delhi,Electronics,Earphones,2,1500,0.1,900
+1949,2025-06-11,C370,Mumbai,Electronics,Earphones,2,1500,0.1,900
+1950,2024-07-22,C118,Bengaluru,Books,SQL Handbook,1,500,0.0,280
+1951,2024-08-30,C193,Kolkata,Books,Python Guide,1,550,0.2,300
+1952,2025-05-11,C075,Delhi,Electronics,Power Bank,2,1200,0.0,750
+1953,2025-01-31,C369,Delhi,Clothing,Jeans,1,1800,0.05,950
+1954,2024-07-26,C355,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+1955,2025-04-21,C390,Delhi,Clothing,T-Shirt,3,600,0.2,280
+1956,2024-06-09,C314,Jaipur,Books,Novel,2,350,0.2,180
+1957,2024-08-23,C251,Kolkata,Electronics,Smart Watch,1,3500,0.1,2400
+1958,2025-04-18,C220,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+1959,2025-03-20,C077,Jaipur,Home,Lamp,3,700,0.1,350
+1960,2024-02-15,C376,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+1961,2025-02-07,C051,Mumbai,Clothing,Jacket,1,2800,0.2,1500
+1962,2024-01-13,C112,Delhi,Home,Bedsheet,1,900,0.0,450
+1963,2024-01-17,C083,Bengaluru,Clothing,Jeans,3,1800,0.2,950
+1964,2024-01-25,C396,Delhi,Grocery,Tea Pack,2,300,0.0,190
+1965,2025-01-14,C325,Lucknow,Home,Lamp,2,700,0.1,350
+1966,2025-12-08,C152,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+1967,2025-07-09,C351,Lucknow,Home,Mixer Grinder,3,2500,0.0,1700
+1968,2025-06-11,C187,Kolkata,Grocery,Spices Combo,1,450,0.05,280
+1969,2025-04-21,C188,Delhi,Home,Bedsheet,2,900,0.0,450
+1970,2025-07-28,C071,Jaipur,Home,Mixer Grinder,1,2500,0.0,1700
+1971,2025-10-26,C360,Delhi,Grocery,Spices Combo,2,450,0.0,280
+1972,2024-11-09,C142,Lucknow,Clothing,Jeans,1,1800,0.1,950
+1973,2025-05-12,C241,Bengaluru,Clothing,T-Shirt,2,600,0.2,280
+1974,2024-10-26,C355,Kolkata,Clothing,Jacket,4,2800,0.0,1500
+1975,2024-07-11,C045,Lucknow,Grocery,Tea Pack,3,300,0.05,190
+1976,2024-03-19,C058,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+1977,2025-06-17,C151,Mumbai,Grocery,Dry Fruits,2,800,0.0,560
+1978,2025-04-30,C378,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+1979,2024-01-23,C267,Bengaluru,Grocery,Dry Fruits,1,800,0.05,560
+1980,2025-11-02,C341,Bengaluru,Clothing,Jacket,3,2800,0.1,1500
+1981,2025-04-13,C157,Delhi,Clothing,T-Shirt,1,600,0.1,280
+1982,2025-01-15,C076,Mumbai,Grocery,Dry Fruits,1,800,0.0,560
+1983,2025-09-25,C275,Delhi,Grocery,Spices Combo,4,450,0.0,280
+1984,2024-06-14,C163,Mumbai,Electronics,Earphones,1,1500,0.05,900
+1985,2024-07-07,C018,Bengaluru,Electronics,Smart Watch,4,3500,0.0,2400
+1986,2025-01-16,C274,Delhi,Clothing,T-Shirt,4,600,0.1,280
+1987,2025-05-26,C164,Delhi,Books,SQL Handbook,4,500,0.2,280
+1988,2025-06-03,C152,Mumbai,Clothing,Jacket,1,2800,0.2,1500
+1989,2025-11-19,C174,Bengaluru,Home,Bedsheet,2,900,0.0,450
+1990,2024-05-22,C158,Lucknow,Home,Mixer Grinder,2,2500,0.0,1700
+1991,2025-04-01,C029,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+1992,2024-08-15,C101,Lucknow,Books,SQL Handbook,1,500,0.1,280
+1993,2025-11-24,C202,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+1994,2025-06-07,C185,Mumbai,Grocery,Spices Combo,2,450,0.1,280
+1995,2025-01-13,C146,Delhi,Clothing,T-Shirt,1,600,0.1,280
+1996,2025-07-28,C228,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+1997,2024-10-24,C374,Kolkata,Grocery,Tea Pack,1,300,0.2,190
+1998,2025-09-04,C156,Mumbai,Electronics,Earphones,3,1500,0.05,900
+1999,2024-03-08,C388,Mumbai,Grocery,Spices Combo,1,450,0.05,280
+2000,2025-02-28,C364,Mumbai,Electronics,Power Bank,3,1200,0.0,750
+2001,2024-07-09,C284,Mumbai,Grocery,Tea Pack,3,300,0.05,190
+2002,2025-08-22,C379,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+2003,2024-06-06,C326,Mumbai,Electronics,Smart Watch,2,3500,0.05,2400
+2004,2025-03-03,C331,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+2005,2025-05-19,C307,Bengaluru,Grocery,Dry Fruits,2,800,0.2,560
+2006,2025-03-22,C352,Mumbai,Grocery,Spices Combo,2,450,0.0,280
+2007,2025-01-17,C009,Kolkata,Clothing,Jacket,1,2800,0.0,1500
+2008,2024-05-29,C070,Mumbai,Clothing,Jacket,1,2800,0.05,1500
+2009,2025-03-05,C025,Delhi,Home,Bedsheet,1,900,0.0,450
+2010,2025-06-10,C094,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+2011,2025-07-10,C351,Bengaluru,Clothing,Jeans,1,1800,0.05,950
+2012,2024-04-08,C074,Lucknow,Clothing,Jeans,1,1800,0.05,950
+2013,2025-05-11,C053,Delhi,Clothing,T-Shirt,1,600,0.0,280
+2014,2025-07-26,C273,Bengaluru,Home,Lamp,2,700,0.0,350
+2015,2025-03-03,C060,Kolkata,Clothing,T-Shirt,4,600,0.1,280
+2016,2024-12-22,C072,Kolkata,Clothing,Jeans,3,1800,0.2,950
+2017,2025-06-19,C089,Bengaluru,Books,SQL Handbook,1,500,0.0,280
+2018,2024-08-15,C073,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+2019,2024-05-13,C354,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+2020,2025-05-10,C101,Delhi,Books,Python Guide,2,550,0.2,300
+2021,2025-08-30,C130,Lucknow,Electronics,Earphones,1,1500,0.0,900
+2022,2024-04-08,C106,Mumbai,Books,Novel,1,350,0.05,180
+2023,2024-01-30,C143,Jaipur,Electronics,Smart Watch,1,3500,0.0,2400
+2024,2025-05-27,C124,Mumbai,Books,Novel,1,350,0.2,180
+2025,2024-01-15,C099,Jaipur,Clothing,Jacket,1,2800,0.2,1500
+2026,2024-01-05,C110,Jaipur,Grocery,Dry Fruits,3,800,0.1,560
+2027,2025-01-10,C226,Bengaluru,Home,Mixer Grinder,1,2500,0.05,1700
+2028,2025-01-23,C117,Mumbai,Clothing,Jacket,2,2800,0.05,1500
+2029,2024-05-06,C070,Mumbai,Clothing,Jacket,1,2800,0.05,1500
+2030,2025-07-24,C168,Mumbai,Home,Mixer Grinder,1,2500,0.1,1700
+2031,2025-09-06,C228,Delhi,Books,Novel,1,350,0.1,180
+2032,2024-07-12,C348,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+2033,2025-11-15,C044,Delhi,Clothing,Jacket,1,2800,0.2,1500
+2034,2024-04-14,C034,Mumbai,Books,Python Guide,1,550,0.0,300
+2035,2025-09-01,C063,Delhi,Grocery,Tea Pack,1,300,0.1,190
+2036,2024-10-12,C140,Bengaluru,Books,Novel,3,350,0.1,180
+2037,2024-12-30,C208,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+2038,2025-04-10,C251,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+2039,2024-01-31,C035,Mumbai,Electronics,Earphones,1,1500,0.0,900
+2040,2025-01-26,C079,Delhi,Home,Bedsheet,2,900,0.0,450
+2041,2025-11-07,C104,Delhi,Books,SQL Handbook,1,500,0.2,280
+2042,2024-09-24,C280,Lucknow,Clothing,Jacket,2,2800,0.1,1500
+2043,2024-05-01,C193,Mumbai,Clothing,Jeans,1,1800,0.0,950
+2044,2025-07-24,C362,Delhi,Home,Bedsheet,1,900,0.05,450
+2045,2025-02-02,C292,Bengaluru,Clothing,T-Shirt,2,600,0.2,280
+2046,2025-08-08,C081,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+2047,2025-08-28,C347,Mumbai,Grocery,Spices Combo,4,450,0.05,280
+2048,2024-03-03,C066,Kolkata,Electronics,Earphones,1,1500,0.2,900
+2049,2024-01-28,C175,Mumbai,Books,Novel,1,350,0.05,180
+2050,2025-02-25,C126,Delhi,Clothing,Jacket,2,2800,0.2,1500
+2051,2024-03-27,C157,Delhi,Grocery,Dry Fruits,1,800,0.2,560
+2052,2024-11-22,C264,Jaipur,Grocery,Spices Combo,1,450,0.1,280
+2053,2025-08-25,C194,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2054,2025-05-15,C106,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+2055,2024-06-19,C224,Delhi,Home,Bedsheet,2,900,0.0,450
+2056,2025-07-02,C025,Delhi,Electronics,Power Bank,2,1200,0.0,750
+2057,2025-10-01,C049,Mumbai,Electronics,Smart Watch,1,3500,0.2,2400
+2058,2025-06-27,C178,Bengaluru,Clothing,T-Shirt,2,600,0.05,280
+2059,2025-05-31,C340,Mumbai,Books,SQL Handbook,1,500,0.1,280
+2060,2024-09-14,C344,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2061,2025-10-04,C256,Delhi,Grocery,Spices Combo,4,450,0.1,280
+2062,2024-10-01,C394,Jaipur,Clothing,Jacket,4,2800,0.0,1500
+2063,2025-06-18,C076,Delhi,Electronics,Power Bank,2,1200,0.05,750
+2064,2025-03-21,C325,Delhi,Clothing,T-Shirt,1,600,0.05,280
+2065,2025-10-22,C123,Delhi,Home,Bedsheet,1,900,0.0,450
+2066,2024-11-13,C217,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2067,2024-10-09,C338,Mumbai,Books,SQL Handbook,2,500,0.0,280
+2068,2025-05-12,C043,Delhi,Books,Python Guide,1,550,0.0,300
+2069,2025-02-20,C337,Kolkata,Grocery,Spices Combo,1,450,0.0,280
+2070,2024-08-29,C257,Jaipur,Electronics,Smart Watch,1,3500,0.2,2400
+2071,2025-06-21,C122,Mumbai,Electronics,Earphones,2,1500,0.05,900
+2072,2024-12-03,C200,Kolkata,Grocery,Spices Combo,2,450,0.1,280
+2073,2024-08-11,C110,Jaipur,Electronics,Earphones,1,1500,0.05,900
+2074,2025-08-26,C192,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+2075,2025-03-09,C143,Kolkata,Clothing,T-Shirt,4,600,0.05,280
+2076,2025-05-01,C011,Bengaluru,Home,Bedsheet,3,900,0.0,450
+2077,2025-11-09,C123,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+2078,2025-12-02,C227,Mumbai,Electronics,Earphones,3,1500,0.1,900
+2079,2024-09-18,C153,Delhi,Clothing,T-Shirt,3,600,0.1,280
+2080,2025-10-26,C018,Delhi,Books,SQL Handbook,1,500,0.1,280
+2081,2025-04-27,C368,Mumbai,Books,SQL Handbook,3,500,0.0,280
+2082,2024-06-13,C034,Mumbai,Home,Lamp,2,700,0.2,350
+2083,2024-11-30,C329,Bengaluru,Electronics,Earphones,2,1500,0.0,900
+2084,2024-01-04,C157,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2085,2024-09-12,C391,Delhi,Clothing,Jacket,2,2800,0.1,1500
+2086,2024-11-23,C134,Delhi,Grocery,Dry Fruits,2,800,0.05,560
+2087,2024-10-14,C194,Jaipur,Clothing,Jeans,3,1800,0.0,950
+2088,2024-01-22,C332,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+2089,2025-04-18,C087,Lucknow,Electronics,Smart Watch,2,3500,0.2,2400
+2090,2024-09-23,C088,Jaipur,Electronics,Power Bank,1,1200,0.2,750
+2091,2025-03-21,C345,Mumbai,Books,SQL Handbook,1,500,0.0,280
+2092,2024-07-14,C148,Bengaluru,Grocery,Tea Pack,1,300,0.1,190
+2093,2024-07-30,C373,Bengaluru,Home,Bedsheet,1,900,0.1,450
+2094,2024-05-29,C121,Bengaluru,Electronics,Power Bank,3,1200,0.05,750
+2095,2025-08-19,C044,Lucknow,Home,Bedsheet,1,900,0.05,450
+2096,2025-12-10,C366,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+2097,2024-09-19,C031,Lucknow,Electronics,Smart Watch,4,3500,0.1,2400
+2098,2024-12-28,C307,Bengaluru,Grocery,Spices Combo,3,450,0.0,280
+2099,2024-09-16,C155,Jaipur,Clothing,Jeans,2,1800,0.0,950
+2100,2025-07-26,C134,Delhi,Electronics,Earphones,1,1500,0.05,900
+2101,2025-04-24,C364,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2102,2024-11-05,C383,Mumbai,Clothing,Jeans,1,1800,0.05,950
+2103,2025-09-19,C265,Delhi,Books,SQL Handbook,3,500,0.05,280
+2104,2025-05-18,C285,Kolkata,Books,Python Guide,2,550,0.1,300
+2105,2024-02-24,C118,Delhi,Electronics,Earphones,1,1500,0.0,900
+2106,2025-12-23,C254,Lucknow,Clothing,T-Shirt,1,600,0.2,280
+2107,2025-05-11,C369,Kolkata,Clothing,T-Shirt,1,600,0.0,280
+2108,2024-07-27,C087,Bengaluru,Grocery,Dry Fruits,3,800,0.2,560
+2109,2025-11-10,C270,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+2110,2024-09-09,C049,Kolkata,Books,Novel,1,350,0.0,180
+2111,2025-02-07,C166,Delhi,Clothing,T-Shirt,1,600,0.1,280
+2112,2025-04-09,C305,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2113,2025-11-02,C376,Jaipur,Clothing,Jacket,2,2800,0.0,1500
+2114,2024-08-04,C145,Delhi,Grocery,Spices Combo,1,450,0.0,280
+2115,2025-07-14,C048,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+2116,2024-04-01,C084,Mumbai,Electronics,Earphones,1,1500,0.0,900
+2117,2024-05-03,C377,Kolkata,Electronics,Power Bank,1,1200,0.2,750
+2118,2024-05-14,C189,Mumbai,Clothing,T-Shirt,1,600,0.1,280
+2119,2025-05-02,C217,Lucknow,Electronics,Smart Watch,1,3500,0.05,2400
+2120,2025-09-20,C219,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+2121,2025-11-22,C270,Bengaluru,Home,Bedsheet,1,900,0.05,450
+2122,2025-04-24,C154,Delhi,Clothing,Jeans,1,1800,0.05,950
+2123,2024-09-11,C292,Lucknow,Clothing,Jeans,1,1800,0.0,950
+2124,2025-06-09,C212,Lucknow,Electronics,Power Bank,2,1200,0.2,750
+2125,2024-09-16,C042,Bengaluru,Clothing,Jacket,1,2800,0.1,1500
+2126,2024-07-02,C024,Lucknow,Books,SQL Handbook,3,500,0.05,280
+2127,2024-11-17,C231,Bengaluru,Clothing,Jacket,1,2800,0.0,1500
+2128,2024-08-04,C310,Delhi,Electronics,Smart Watch,2,3500,0.1,2400
+2129,2025-07-01,C060,Lucknow,Electronics,Power Bank,2,1200,0.1,750
+2130,2025-12-09,C382,Bengaluru,Clothing,Jacket,1,2800,0.2,1500
+2131,2025-09-23,C354,Bengaluru,Clothing,Jacket,3,2800,0.0,1500
+2132,2024-05-08,C058,Kolkata,Electronics,Earphones,2,1500,0.0,900
+2133,2024-01-28,C075,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+2134,2024-07-14,C076,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2135,2024-06-05,C249,Mumbai,Books,SQL Handbook,3,500,0.2,280
+2136,2024-09-05,C201,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+2137,2025-03-01,C297,Mumbai,Grocery,Spices Combo,2,450,0.05,280
+2138,2024-02-07,C263,Mumbai,Clothing,Jeans,2,1800,0.1,950
+2139,2024-08-25,C010,Mumbai,Home,Lamp,1,700,0.0,350
+2140,2024-10-01,C060,Mumbai,Clothing,Jeans,4,1800,0.05,950
+2141,2025-04-04,C083,Delhi,Home,Mixer Grinder,1,2500,0.05,1700
+2142,2025-03-24,C301,Jaipur,Electronics,Earphones,1,1500,0.2,900
+2143,2025-11-03,C365,Mumbai,Grocery,Spices Combo,1,450,0.05,280
+2144,2025-04-28,C319,Delhi,Books,Python Guide,2,550,0.0,300
+2145,2025-11-14,C311,Mumbai,Electronics,Earphones,2,1500,0.1,900
+2146,2024-11-18,C184,Kolkata,Electronics,Earphones,1,1500,0.0,900
+2147,2024-06-27,C017,Kolkata,Books,Novel,1,350,0.0,180
+2148,2025-09-24,C115,Mumbai,Electronics,Smart Watch,4,3500,0.05,2400
+2149,2024-02-17,C137,Kolkata,Books,Novel,3,350,0.2,180
+2150,2025-09-10,C026,Jaipur,Home,Lamp,1,700,0.1,350
+2151,2024-04-23,C313,Bengaluru,Grocery,Spices Combo,4,450,0.2,280
+2152,2024-02-12,C323,Delhi,Clothing,T-Shirt,1,600,0.05,280
+2153,2024-06-09,C227,Bengaluru,Home,Lamp,1,700,0.0,350
+2154,2024-06-06,C071,Delhi,Home,Bedsheet,1,900,0.1,450
+2155,2024-01-07,C175,Delhi,Electronics,Power Bank,1,1200,0.05,750
+2156,2025-01-16,C185,Bengaluru,Home,Bedsheet,1,900,0.2,450
+2157,2025-03-07,C220,Mumbai,Books,Python Guide,1,550,0.1,300
+2158,2025-06-12,C016,Mumbai,Books,SQL Handbook,2,500,0.2,280
+2159,2024-03-12,C206,Jaipur,Electronics,Power Bank,1,1200,0.0,750
+2160,2025-02-06,C329,Delhi,Books,Novel,2,350,0.2,180
+2161,2024-10-29,C284,Kolkata,Grocery,Spices Combo,2,450,0.05,280
+2162,2024-12-18,C271,Bengaluru,Electronics,Power Bank,1,1200,0.1,750
+2163,2025-04-01,C320,Bengaluru,Home,Lamp,2,700,0.05,350
+2164,2025-10-26,C044,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+2165,2025-06-16,C110,Lucknow,Grocery,Tea Pack,2,300,0.2,190
+2166,2024-12-14,C012,Lucknow,Books,Python Guide,2,550,0.2,300
+2167,2024-09-21,C372,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2168,2025-01-16,C182,Delhi,Electronics,Smart Watch,2,3500,0.0,2400
+2169,2025-04-04,C003,Mumbai,Electronics,Smart Watch,4,3500,0.2,2400
+2170,2025-08-02,C341,Mumbai,Home,Lamp,2,700,0.05,350
+2171,2024-11-26,C345,Delhi,Books,Novel,1,350,0.0,180
+2172,2024-04-17,C099,Kolkata,Clothing,Jacket,1,2800,0.0,1500
+2173,2024-05-30,C042,Lucknow,Home,Bedsheet,1,900,0.0,450
+2174,2025-05-02,C190,Bengaluru,Electronics,Earphones,1,1500,0.2,900
+2175,2025-06-15,C300,Mumbai,Books,SQL Handbook,1,500,0.1,280
+2176,2025-12-06,C375,Jaipur,Grocery,Tea Pack,3,300,0.0,190
+2177,2025-06-01,C235,Delhi,Electronics,Smart Watch,2,3500,0.2,2400
+2178,2024-04-30,C243,Lucknow,Home,Bedsheet,1,900,0.2,450
+2179,2025-01-13,C309,Kolkata,Grocery,Dry Fruits,1,800,0.05,560
+2180,2025-08-08,C079,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+2181,2024-11-01,C302,Mumbai,Books,Python Guide,4,550,0.05,300
+2182,2024-10-27,C063,Mumbai,Books,Python Guide,1,550,0.0,300
+2183,2025-03-03,C290,Mumbai,Clothing,Jeans,1,1800,0.1,950
+2184,2025-05-01,C068,Bengaluru,Grocery,Spices Combo,1,450,0.1,280
+2185,2025-04-05,C373,Delhi,Home,Mixer Grinder,2,2500,0.2,1700
+2186,2025-02-23,C174,Mumbai,Clothing,Jeans,4,1800,0.1,950
+2187,2024-10-11,C013,Mumbai,Grocery,Spices Combo,2,450,0.05,280
+2188,2025-07-28,C287,Lucknow,Home,Lamp,4,700,0.2,350
+2189,2025-08-13,C268,Delhi,Books,Novel,1,350,0.0,180
+2190,2024-05-03,C093,Jaipur,Home,Lamp,1,700,0.0,350
+2191,2024-09-08,C228,Lucknow,Books,Novel,1,350,0.05,180
+2192,2025-02-15,C012,Delhi,Home,Bedsheet,1,900,0.0,450
+2193,2025-06-24,C047,Delhi,Clothing,Jeans,1,1800,0.0,950
+2194,2024-10-09,C158,,Books,Python Guide,2,550,0.0,300
+2195,2025-09-21,C014,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+2196,2024-11-11,C027,Delhi,Electronics,Earphones,2,1500,0.2,900
+2197,2024-08-30,C198,Jaipur,Clothing,Jacket,1,2800,0.05,1500
+2198,2025-04-20,C248,Lucknow,Home,Mixer Grinder,2,2500,0.0,1700
+2199,2024-10-02,C127,Bengaluru,Home,Mixer Grinder,2,2500,0.0,1700
+2200,2024-11-07,C257,Delhi,Clothing,Jacket,4,2800,0.05,1500
+2201,2025-07-07,C276,Jaipur,Grocery,Dry Fruits,4,800,0.2,560
+2202,2025-04-07,C318,Delhi,Electronics,Power Bank,4,1200,0.0,750
+2203,2024-03-02,C140,Mumbai,Grocery,Tea Pack,3,300,0.1,190
+2204,2024-12-25,C300,Kolkata,Grocery,Dry Fruits,1,800,0.0,560
+2205,2025-06-30,C046,Mumbai,Home,Bedsheet,1,900,0.0,450
+2206,2025-07-23,C108,Bengaluru,Grocery,Tea Pack,4,300,0.05,190
+2207,2025-11-29,C232,Delhi,Home,Lamp,2,700,0.05,350
+2208,2024-12-15,C169,Lucknow,Electronics,Smart Watch,2,3500,0.0,2400
+2209,2025-09-15,C345,Delhi,Clothing,T-Shirt,2,600,0.1,280
+2210,2025-02-06,C334,Lucknow,Clothing,Jacket,1,2800,0.1,1500
+2211,2025-11-27,C184,Mumbai,Clothing,Jacket,3,2800,0.0,1500
+2212,2024-05-07,C228,Lucknow,Clothing,T-Shirt,2,600,0.05,280
+2213,2025-11-27,C315,Bengaluru,Clothing,T-Shirt,3,600,0.0,280
+2214,2024-08-27,C019,Delhi,Grocery,Tea Pack,3,300,0.2,190
+2215,2024-08-02,C203,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+2216,2025-05-20,C338,Bengaluru,Electronics,Earphones,2,1500,0.2,900
+2217,2025-08-01,C066,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+2218,2024-08-21,C141,Delhi,Grocery,Spices Combo,2,450,0.2,280
+2219,2025-09-21,C233,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+2220,2024-11-26,C063,Bengaluru,Grocery,Tea Pack,1,300,0.05,190
+2221,2025-06-13,C115,Lucknow,Books,Novel,3,350,0.2,180
+2222,2025-04-04,C100,Delhi,Clothing,Jeans,3,1800,0.0,950
+2223,2024-08-19,C039,Jaipur,Grocery,Tea Pack,1,300,0.05,190
+2224,2024-11-21,C222,Kolkata,Electronics,Power Bank,2,1200,0.05,750
+2225,2024-09-13,C123,Jaipur,Electronics,Power Bank,3,1200,0.05,750
+2226,2025-06-16,C398,Mumbai,Books,Python Guide,1,550,0.0,300
+2227,2025-10-02,C018,Mumbai,Electronics,Earphones,3,1500,0.0,900
+2228,2024-05-10,C029,Delhi,Electronics,Power Bank,2,1200,0.0,750
+2229,2024-04-14,C027,Delhi,Home,Lamp,1,700,0.0,350
+2230,2025-09-24,C307,Bengaluru,Books,Python Guide,2,550,0.1,300
+2231,2025-01-28,C318,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+2232,2025-04-09,C099,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2233,2025-08-30,C294,Delhi,Books,Python Guide,1,550,0.05,300
+2234,2025-03-07,C228,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2235,2024-03-02,C224,Mumbai,Electronics,Smart Watch,2,3500,0.05,2400
+2236,2024-11-14,C076,Mumbai,Clothing,T-Shirt,2,600,0.05,280
+2237,2025-01-12,C301,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+2238,2025-06-03,C028,Mumbai,Books,Novel,1,350,0.0,180
+2239,2025-10-17,C097,Bengaluru,Books,SQL Handbook,2,500,0.1,280
+2240,2025-09-06,C290,Jaipur,Home,Lamp,2,700,0.1,350
+2241,2024-12-02,C022,Mumbai,Electronics,Power Bank,3,1200,0.0,750
+2242,2025-12-10,C110,Delhi,Electronics,Smart Watch,2,3500,0.05,2400
+2243,2025-01-19,C004,Mumbai,Electronics,Earphones,1,1500,0.0,900
+2244,2025-07-22,C226,Delhi,Electronics,Power Bank,2,1200,0.05,750
+2245,2024-02-14,C102,Delhi,Grocery,Dry Fruits,1,800,0.05,560
+2246,2024-06-27,C126,Delhi,Clothing,Jacket,1,2800,0.05,1500
+2247,2024-04-13,C071,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+2248,2024-12-12,C234,Delhi,Grocery,Tea Pack,3,300,0.0,190
+2249,2025-06-23,C223,Kolkata,Grocery,Spices Combo,1,450,0.0,280
+2250,2024-05-13,C273,Mumbai,Books,Python Guide,1,550,0.2,300
+2251,2025-03-15,C024,Bengaluru,Grocery,Dry Fruits,2,800,0.2,560
+2252,2024-10-28,C323,Bengaluru,Clothing,T-Shirt,3,600,0.2,280
+2253,2025-08-21,C373,Lucknow,Grocery,Dry Fruits,1,800,0.2,560
+2254,2024-03-07,C385,Kolkata,Electronics,Power Bank,2,1200,0.05,750
+2255,2025-05-25,C165,Bengaluru,Clothing,T-Shirt,1,600,0.1,280
+2256,2025-05-21,C206,Bengaluru,Clothing,Jacket,2,2800,0.0,1500
+2257,2024-07-31,C232,Kolkata,Electronics,Earphones,1,1500,0.05,900
+2258,2025-03-11,C081,Jaipur,Grocery,Spices Combo,1,450,0.2,280
+2259,2024-03-27,C152,Mumbai,Electronics,Earphones,1,1500,0.2,900
+2260,2024-02-12,C173,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+2261,2025-01-11,C140,Mumbai,Books,SQL Handbook,1,500,0.0,280
+2262,2024-09-28,C043,Delhi,Home,Bedsheet,1,900,0.2,450
+2263,2025-10-09,C061,Lucknow,Grocery,Dry Fruits,1,800,0.0,560
+2264,2024-12-07,C129,Delhi,Electronics,Power Bank,3,1200,0.05,750
+2265,2024-07-14,C386,Bengaluru,Home,Mixer Grinder,1,2500,0.05,1700
+2266,2024-01-09,C178,,Books,SQL Handbook,1,500,0.1,280
+2267,2025-08-16,C242,Bengaluru,Books,Python Guide,4,550,0.0,300
+2268,2025-02-11,C384,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+2269,2025-07-19,C237,Delhi,Books,Novel,1,350,0.0,180
+2270,2025-03-15,C214,Delhi,Books,Novel,1,350,0.2,180
+2271,2024-01-31,C066,Delhi,Clothing,Jacket,2,2800,0.1,1500
+2272,2025-11-05,C218,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+2273,2024-11-01,C072,Delhi,Home,Mixer Grinder,4,2500,0.05,1700
+2274,2025-08-04,C312,Mumbai,Home,Lamp,1,700,0.1,350
+2275,2024-07-28,C274,Mumbai,Grocery,Dry Fruits,1,800,0.05,560
+2276,2025-08-06,C156,Lucknow,Grocery,Spices Combo,1,450,0.2,280
+2277,2024-06-30,C309,,Electronics,Smart Watch,1,3500,0.0,2400
+2278,2025-01-30,C150,Bengaluru,Electronics,Earphones,1,1500,0.0,900
+2279,2025-01-12,C168,Kolkata,Clothing,T-Shirt,1,600,0.0,280
+2280,2024-04-23,C245,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2281,2024-05-13,C222,Kolkata,Grocery,Tea Pack,2,300,0.0,190
+2282,2025-09-10,C301,Delhi,Home,Bedsheet,2,900,0.1,450
+2283,2024-10-05,C310,Kolkata,Clothing,Jeans,1,1800,0.2,950
+2284,2025-05-17,C021,Bengaluru,Clothing,Jacket,1,2800,0.1,1500
+2285,2024-12-21,C153,Mumbai,Home,Lamp,3,700,0.0,350
+2286,2025-03-01,C376,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+2287,2025-12-16,C358,Jaipur,Home,Bedsheet,1,900,0.0,450
+2288,2024-10-07,C035,Bengaluru,Clothing,Jacket,2,2800,0.0,1500
+2289,2025-05-20,C063,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+2290,2025-05-31,C210,Mumbai,Books,SQL Handbook,1,500,0.2,280
+2291,2024-02-15,C328,Bengaluru,Clothing,T-Shirt,2,600,0.1,280
+2292,2024-12-17,C204,Lucknow,Books,Python Guide,1,550,0.0,300
+2293,2024-11-30,C035,Lucknow,Clothing,Jeans,2,1800,0.1,950
+2294,2024-05-23,C083,Delhi,Clothing,Jeans,1,1800,0.0,950
+2295,2024-06-30,C380,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+2296,2025-11-15,C366,Lucknow,Clothing,T-Shirt,2,600,0.0,280
+2297,2025-03-28,C268,Bengaluru,Home,Lamp,2,700,0.0,350
+2298,2025-02-03,C027,Mumbai,Home,Bedsheet,1,900,0.1,450
+2299,2024-07-25,C123,Delhi,Grocery,Tea Pack,1,300,0.0,190
+2300,2024-01-15,C349,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+2301,2025-11-06,C056,Kolkata,Electronics,Smart Watch,1,3500,0.0,2400
+2302,2025-10-18,C062,Delhi,Clothing,Jeans,1,1800,0.05,950
+2303,2024-06-26,C162,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+2304,2024-03-08,C333,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2305,2025-02-24,C256,Jaipur,Clothing,Jacket,1,2800,0.2,1500
+2306,2025-08-05,C308,Delhi,Electronics,Earphones,2,1500,0.1,900
+2307,2025-11-25,C171,Delhi,Books,Python Guide,2,550,0.05,300
+2308,2025-11-13,C300,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+2309,2025-05-30,C120,Lucknow,Home,Mixer Grinder,2,2500,0.0,1700
+2310,2024-11-14,C041,Lucknow,Books,Novel,1,350,0.05,180
+2311,2024-07-25,C329,Lucknow,Electronics,Earphones,4,1500,0.2,900
+2312,2025-03-30,C069,Delhi,Books,SQL Handbook,2,500,0.0,280
+2313,2025-06-17,C332,Kolkata,Books,SQL Handbook,2,500,0.0,280
+2314,2024-12-05,C277,Lucknow,Clothing,T-Shirt,3,600,0.0,280
+2315,2025-12-04,C312,Kolkata,Home,Mixer Grinder,1,2500,0.0,1700
+2316,2025-03-28,C252,Lucknow,Home,Mixer Grinder,1,2500,0.0,1700
+2317,2024-07-28,C304,Mumbai,Electronics,Earphones,2,1500,0.0,900
+2318,2024-08-29,C372,Mumbai,Clothing,Jeans,1,1800,0.0,950
+2319,2024-09-07,C128,Delhi,Clothing,Jacket,2,2800,0.0,1500
+2320,2024-10-05,C204,Mumbai,Clothing,Jeans,1,1800,0.1,950
+2321,2025-06-01,C390,Delhi,Home,Bedsheet,4,900,0.1,450
+2322,2024-01-21,C043,Bengaluru,Books,SQL Handbook,4,500,0.2,280
+2323,2025-07-04,C090,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+2324,2024-10-20,C070,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+2325,2024-01-05,C374,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+2326,2025-02-08,C197,Mumbai,Grocery,Tea Pack,2,300,0.2,190
+2327,2024-03-13,C064,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+2328,2025-03-22,C179,Mumbai,Grocery,Spices Combo,1,450,0.05,280
+2329,2025-12-14,C218,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2330,2025-01-05,C015,Bengaluru,Home,Lamp,2,700,0.05,350
+2331,2025-09-11,C076,Delhi,Clothing,Jacket,2,2800,0.0,1500
+2332,2024-01-13,C330,Bengaluru,Electronics,Earphones,1,1500,0.2,900
+2333,2024-03-23,C217,Delhi,Clothing,T-Shirt,1,600,0.05,280
+2334,2025-05-27,C196,Mumbai,Grocery,Spices Combo,2,450,0.0,280
+2335,2024-04-21,C074,Delhi,Home,Bedsheet,1,900,0.1,450
+2336,2025-12-16,C252,Lucknow,Clothing,T-Shirt,1,600,0.1,280
+2337,2025-06-21,C376,Mumbai,Clothing,Jeans,1,1800,0.0,950
+2338,2025-12-21,C094,Mumbai,Electronics,Power Bank,1,1200,0.2,750
+2339,2024-08-05,C384,Delhi,Electronics,Earphones,2,1500,0.05,900
+2340,2025-02-22,C056,Kolkata,Clothing,Jacket,1,2800,0.05,1500
+2341,2024-03-28,C033,Delhi,Clothing,Jeans,2,1800,0.1,950
+2342,2025-05-11,C005,Lucknow,Home,Mixer Grinder,2,2500,0.0,1700
+2343,2025-11-12,C109,Mumbai,Grocery,Dry Fruits,1,800,0.2,560
+2344,2025-06-16,C249,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+2345,2024-12-10,C162,Kolkata,Clothing,Jeans,4,1800,0.1,950
+2346,2025-01-22,C170,Kolkata,Home,Bedsheet,1,900,0.1,450
+2347,2024-05-22,C272,Delhi,Electronics,Earphones,2,1500,0.0,900
+2348,2025-01-12,C338,Kolkata,Clothing,Jacket,1,2800,0.0,1500
+2349,2024-01-04,C009,Bengaluru,Grocery,Tea Pack,3,300,0.05,190
+2350,2025-11-25,C379,Bengaluru,Home,Bedsheet,1,900,0.1,450
+2351,2025-05-02,C052,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+2352,2025-12-30,C293,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+2353,2024-05-10,C155,Kolkata,Clothing,T-Shirt,4,600,0.1,280
+2354,2024-06-21,C247,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+2355,2024-06-23,C359,Lucknow,Books,Novel,1,350,0.0,180
+2356,2024-06-13,C197,Bengaluru,Grocery,Tea Pack,1,300,0.05,190
+2357,2025-11-12,C341,Delhi,Grocery,Dry Fruits,1,800,0.1,560
+2358,2024-04-02,C115,Jaipur,Books,SQL Handbook,2,500,0.2,280
+2359,2024-03-07,C368,Bengaluru,Home,Bedsheet,2,900,0.2,450
+2360,2025-03-23,C133,Delhi,Books,Python Guide,1,550,0.0,300
+2361,2024-12-14,C382,Jaipur,Books,Python Guide,2,550,0.0,300
+2362,2024-11-16,C160,Lucknow,Home,Mixer Grinder,1,2500,0.1,1700
+2363,2025-03-09,C348,Jaipur,Clothing,Jeans,1,1800,0.2,950
+2364,2025-08-27,C005,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2365,2024-10-30,C076,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+2366,2025-09-05,C353,Delhi,Clothing,Jacket,4,2800,0.2,1500
+2367,2025-05-04,C254,Delhi,Home,Mixer Grinder,4,2500,0.0,1700
+2368,2024-12-07,C108,Kolkata,Electronics,Smart Watch,4,3500,0.0,2400
+2369,2025-12-18,C250,Bengaluru,Books,Python Guide,1,550,0.0,300
+2370,2024-01-23,C217,Bengaluru,Clothing,Jeans,4,1800,0.1,950
+2371,2025-02-04,C145,Delhi,Electronics,Smart Watch,4,3500,0.2,2400
+2372,2025-02-07,C386,Bengaluru,Electronics,Power Bank,3,1200,0.0,750
+2373,2025-12-27,C084,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+2374,2024-10-25,C101,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+2375,2024-04-14,C193,Jaipur,Home,Mixer Grinder,1,2500,0.0,1700
+2376,2024-02-27,C092,Jaipur,Electronics,Power Bank,1,1200,0.2,750
+2377,2025-10-14,C370,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+2378,2025-02-10,C306,Jaipur,Clothing,Jacket,2,2800,0.1,1500
+2379,2025-12-09,C338,Lucknow,Grocery,Spices Combo,1,450,0.1,280
+2380,2024-10-08,C062,Delhi,Clothing,T-Shirt,1,600,0.2,280
+2381,2024-08-18,C294,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+2382,2025-08-30,C331,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2383,2024-04-11,C276,Delhi,Clothing,Jacket,3,2800,0.0,1500
+2384,2025-02-07,C272,Mumbai,Home,Lamp,1,700,0.2,350
+2385,2025-07-05,C064,Bengaluru,Home,Lamp,1,700,0.0,350
+2386,2024-07-04,C093,Lucknow,Grocery,Spices Combo,1,450,0.05,280
+2387,2024-05-05,C106,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+2388,2024-02-05,C260,Delhi,Electronics,Earphones,4,1500,0.0,900
+2389,2025-03-09,C001,Delhi,Grocery,Spices Combo,1,450,0.2,280
+2390,2024-10-27,C252,Bengaluru,Clothing,Jacket,1,2800,0.05,1500
+2391,2025-09-12,C353,Lucknow,Clothing,T-Shirt,3,600,0.0,280
+2392,2024-02-07,C111,Jaipur,Electronics,Power Bank,2,1200,0.0,750
+2393,2025-08-28,C374,Bengaluru,Clothing,T-Shirt,1,600,0.05,280
+2394,2024-09-23,C205,Mumbai,Clothing,T-Shirt,4,600,0.1,280
+2395,2025-12-12,C037,Bengaluru,Electronics,Earphones,1,1500,0.0,900
+2396,2025-01-16,C262,Bengaluru,Home,Lamp,1,700,0.0,350
+2397,2024-11-19,C310,Delhi,Clothing,T-Shirt,1,600,0.2,280
+2398,2024-04-22,C034,Delhi,Home,Bedsheet,1,900,0.05,450
+2399,2024-10-26,C051,Mumbai,Electronics,Earphones,4,1500,0.1,900
+2400,2024-04-17,C090,Mumbai,Books,Python Guide,3,550,0.2,300
+2401,2025-05-16,C359,Mumbai,Electronics,Power Bank,1,1200,0.05,750
+2402,2025-09-14,C088,Delhi,Electronics,Earphones,2,1500,0.0,900
+2403,2024-12-19,C273,Mumbai,Books,Novel,3,350,0.1,180
+2404,2025-05-03,C005,Bengaluru,Home,Bedsheet,2,900,0.0,450
+2405,2024-05-26,C137,Lucknow,Clothing,Jacket,2,2800,0.05,1500
+2406,2025-12-25,C312,Mumbai,Books,Novel,1,350,0.1,180
+2407,2024-12-28,C147,,Books,Novel,1,350,0.0,180
+2408,2024-11-08,C209,Bengaluru,Electronics,Power Bank,3,1200,0.0,750
+2409,2024-03-19,C085,Mumbai,Home,Mixer Grinder,1,2500,0.05,1700
+2410,2025-07-21,C218,Bengaluru,Grocery,Dry Fruits,4,800,0.0,560
+2411,2025-05-06,C347,Kolkata,Clothing,Jacket,2,2800,0.1,1500
+2412,2024-01-15,C004,Bengaluru,Home,Lamp,2,700,0.05,350
+2413,2024-09-07,C271,Bengaluru,Grocery,Spices Combo,1,450,0.1,280
+2414,2024-06-21,C116,Delhi,Home,Lamp,1,700,0.0,350
+2415,2025-06-10,C217,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+2416,2024-12-12,C277,Kolkata,Grocery,Dry Fruits,3,800,0.05,560
+2417,2024-11-02,C378,Bengaluru,Electronics,Earphones,1,1500,0.05,900
+2418,2025-10-20,C317,Kolkata,Grocery,Tea Pack,1,300,0.0,190
+2419,2025-09-22,C182,Delhi,Clothing,Jeans,1,1800,0.0,950
+2420,2025-02-15,C221,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+2421,2024-06-06,C004,Delhi,Clothing,Jeans,2,1800,0.0,950
+2422,2025-04-26,C187,Mumbai,Clothing,Jeans,1,1800,0.05,950
+2423,2024-04-21,C225,Delhi,Grocery,Spices Combo,1,450,0.1,280
+2424,2024-01-06,C102,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2425,2025-02-08,C017,Delhi,Clothing,Jeans,1,1800,0.1,950
+2426,2025-11-12,C282,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+2427,2024-11-28,C257,Bengaluru,Books,SQL Handbook,2,500,0.1,280
+2428,2024-05-14,C011,Delhi,Electronics,Earphones,1,1500,0.0,900
+2429,2025-12-01,C176,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+2430,2025-03-20,C249,Lucknow,Clothing,Jeans,1,1800,0.2,950
+2431,2024-06-05,C128,Delhi,Home,Mixer Grinder,1,2500,0.05,1700
+2432,2025-12-18,C102,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+2433,2025-12-18,C093,Delhi,Books,Novel,3,350,0.0,180
+2434,2024-08-22,C020,Delhi,Electronics,Power Bank,1,1200,0.0,750
+2435,2025-03-12,C047,Kolkata,Electronics,Earphones,1,1500,0.2,900
+2436,2024-11-09,C173,Mumbai,Grocery,Dry Fruits,1,800,0.1,560
+2437,2025-10-04,C180,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2438,2024-07-05,C339,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+2439,2024-10-13,C130,Jaipur,Electronics,Earphones,1,1500,0.05,900
+2440,2024-04-24,C350,Mumbai,Electronics,Earphones,3,1500,0.05,900
+2441,2025-01-04,C381,Bengaluru,Books,SQL Handbook,1,500,0.05,280
+2442,2024-08-31,C300,Mumbai,Home,Mixer Grinder,3,2500,0.0,1700
+2443,2025-10-06,C336,Kolkata,Electronics,Smart Watch,1,3500,0.1,2400
+2444,2024-04-11,C317,Delhi,Electronics,Smart Watch,2,3500,0.0,2400
+2445,2025-06-30,C066,Delhi,Home,Mixer Grinder,2,2500,0.05,1700
+2446,2025-07-27,C230,Bengaluru,Grocery,Tea Pack,1,300,0.1,190
+2447,2024-03-10,C258,Bengaluru,Clothing,Jacket,1,2800,0.05,1500
+2448,2025-12-14,C024,Jaipur,Grocery,Tea Pack,1,300,0.0,190
+2449,2025-02-11,C263,Jaipur,Clothing,Jacket,1,2800,0.2,1500
+2450,2025-01-28,C206,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2451,2024-06-12,C357,Lucknow,Home,Lamp,4,700,0.2,350
+2452,2025-04-11,C269,Delhi,Clothing,Jacket,3,2800,0.05,1500
+2453,2025-12-26,C088,Delhi,Electronics,Earphones,1,1500,0.05,900
+2454,2024-02-10,C069,Delhi,Home,Bedsheet,2,900,0.0,450
+2455,2024-08-03,C333,Delhi,Clothing,T-Shirt,2,600,0.05,280
+2456,2024-11-23,C370,Delhi,Grocery,Tea Pack,3,300,0.05,190
+2457,2024-11-28,C183,Delhi,Home,Mixer Grinder,4,2500,0.0,1700
+2458,2024-09-19,C337,Jaipur,Grocery,Spices Combo,2,450,0.2,280
+2459,2024-04-18,C196,Jaipur,Home,Lamp,1,700,0.2,350
+2460,2025-07-18,C113,Delhi,Electronics,Power Bank,1,1200,0.1,750
+2461,2024-06-08,C372,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+2462,2024-04-05,C095,Kolkata,Clothing,Jeans,1,1800,0.2,950
+2463,2025-05-17,C332,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+2464,2025-02-07,C036,Delhi,Home,Mixer Grinder,1,2500,0.1,1700
+2465,2025-10-22,C071,Bengaluru,Electronics,Smart Watch,3,3500,0.2,2400
+2466,2024-04-12,C057,Kolkata,Clothing,T-Shirt,2,600,0.0,280
+2467,2024-05-15,C138,Delhi,Electronics,Earphones,2,1500,0.0,900
+2468,2024-01-10,C278,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+2469,2024-07-26,C228,Kolkata,Electronics,Smart Watch,1,3500,0.1,2400
+2470,2024-06-07,C355,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+2471,2024-02-15,C053,Mumbai,Electronics,Power Bank,3,1200,0.0,750
+2472,2024-01-02,C117,Mumbai,Grocery,Dry Fruits,1,800,0.05,560
+2473,2024-08-19,C197,Bengaluru,Grocery,Spices Combo,2,450,0.0,280
+2474,2025-05-18,C115,Delhi,Electronics,Earphones,4,1500,0.05,900
+2475,2024-03-19,C185,Jaipur,Home,Mixer Grinder,3,2500,0.0,1700
+2476,2025-09-11,C272,Delhi,Electronics,Power Bank,1,1200,0.1,750
+2477,2024-06-02,C155,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+2478,2024-10-04,C365,Bengaluru,Home,Bedsheet,2,900,0.0,450
+2479,2025-11-05,C245,Kolkata,Clothing,Jacket,1,2800,0.1,1500
+2480,2024-10-11,C393,Mumbai,Grocery,Dry Fruits,1,800,0.1,560
+2481,2025-05-07,C309,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2482,2025-01-27,C276,Mumbai,Clothing,Jeans,1,1800,0.0,950
+2483,2025-01-28,C216,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+2484,2025-12-20,C002,Delhi,Electronics,Power Bank,3,1200,0.05,750
+2485,2025-07-25,C057,Lucknow,Clothing,T-Shirt,1,600,0.0,280
+2486,2024-10-28,C216,Delhi,Grocery,Spices Combo,3,450,0.0,280
+2487,2024-05-21,C361,Delhi,Electronics,Smart Watch,2,3500,0.1,2400
+2488,2025-01-15,C340,Mumbai,Electronics,Earphones,1,1500,0.2,900
+2489,2024-06-10,C073,Lucknow,Electronics,Power Bank,1,1200,0.2,750
+2490,2025-03-02,C241,Bengaluru,Electronics,Earphones,2,1500,0.05,900
+2491,2025-04-26,C228,Bengaluru,Clothing,Jeans,2,1800,0.05,950
+2492,2024-04-23,C017,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+2493,2024-01-12,C349,Jaipur,Clothing,Jeans,1,1800,0.05,950
+2494,2025-08-08,C117,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+2495,2025-06-18,C381,Delhi,Clothing,T-Shirt,2,600,0.0,280
+2496,2025-02-05,C287,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+2497,2025-05-03,C208,Kolkata,Clothing,Jacket,1,2800,0.05,1500
+2498,2025-10-24,C040,Mumbai,Electronics,Earphones,2,1500,0.05,900
+2499,2024-01-29,C278,Delhi,Electronics,Earphones,1,1500,0.0,900
+2500,2024-11-07,C124,Delhi,Home,Mixer Grinder,4,2500,0.2,1700
+2501,2024-02-15,C024,Lucknow,Home,Bedsheet,1,900,0.05,450
+2502,2024-01-09,C204,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+2503,2024-12-30,C346,Lucknow,Grocery,Spices Combo,1,450,0.2,280
+2504,2024-04-13,C013,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+2505,2024-02-08,C350,Mumbai,Electronics,Earphones,3,1500,0.0,900
+2506,2024-08-25,C335,Delhi,Grocery,Spices Combo,2,450,0.2,280
+2507,2025-06-12,C334,Mumbai,Grocery,Spices Combo,2,450,0.1,280
+2508,2024-05-14,C320,Kolkata,Clothing,Jeans,1,1800,0.1,950
+2509,2024-09-01,C311,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+2510,2024-04-09,C393,Kolkata,Books,Python Guide,1,550,0.0,300
+2511,2025-05-25,C087,Jaipur,Electronics,Power Bank,1,1200,0.05,750
+2512,2025-08-13,C037,Delhi,Clothing,T-Shirt,2,600,0.05,280
+2513,2025-04-29,C333,Jaipur,Grocery,Tea Pack,4,300,0.2,190
+2514,2025-05-14,C206,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+2515,2025-03-27,C161,Mumbai,Clothing,Jacket,2,2800,0.2,1500
+2516,2025-04-05,C022,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+2517,2025-12-17,C080,Kolkata,Books,Python Guide,1,550,0.0,300
+2518,2025-08-06,C115,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+2519,2024-12-23,C274,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+2520,2024-07-03,C394,Mumbai,Books,SQL Handbook,1,500,0.0,280
+2521,2024-11-20,C380,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+2522,2025-07-12,C075,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2523,2025-09-07,C186,Bengaluru,Books,Python Guide,4,550,0.0,300
+2524,2024-02-25,C389,Bengaluru,Electronics,Earphones,1,1500,0.0,900
+2525,2024-03-26,C208,Lucknow,Electronics,Power Bank,3,1200,0.1,750
+2526,2025-03-05,C133,Delhi,Clothing,Jacket,1,2800,0.1,1500
+2527,2024-12-16,C085,Delhi,Grocery,Tea Pack,4,300,0.1,190
+2528,2025-05-01,C357,Mumbai,Clothing,T-Shirt,3,600,0.2,280
+2529,2025-02-02,C306,Delhi,Books,Novel,2,350,0.2,180
+2530,2025-09-23,C376,Bengaluru,Electronics,Smart Watch,2,3500,0.05,2400
+2531,2024-01-15,C076,Mumbai,Electronics,Power Bank,1,1200,0.1,750
+2532,2024-09-26,C231,Jaipur,Clothing,T-Shirt,3,600,0.1,280
+2533,2025-10-16,C382,Jaipur,Electronics,Earphones,1,1500,0.2,900
+2534,2024-06-19,C179,Delhi,Home,Mixer Grinder,1,2500,0.2,1700
+2535,2024-01-15,C009,Delhi,Clothing,Jeans,1,1800,0.0,950
+2536,2025-12-17,C212,Mumbai,Clothing,Jeans,1,1800,0.2,950
+2537,2025-03-12,C059,Jaipur,Clothing,Jeans,1,1800,0.05,950
+2538,2024-06-30,C278,Mumbai,Home,Mixer Grinder,1,2500,0.1,1700
+2539,2025-10-20,C045,Kolkata,Grocery,Dry Fruits,1,800,0.0,560
+2540,2025-09-23,C255,Bengaluru,Grocery,Dry Fruits,2,800,0.2,560
+2541,2024-04-12,C298,Kolkata,Home,Lamp,2,700,0.1,350
+2542,2024-08-04,C283,Mumbai,Electronics,Power Bank,1,1200,0.1,750
+2543,2024-05-07,C212,Jaipur,Clothing,Jeans,2,1800,0.1,950
+2544,2024-01-08,C260,Delhi,Grocery,Dry Fruits,3,800,0.05,560
+2545,2024-11-10,C345,Delhi,Books,SQL Handbook,3,500,0.1,280
+2546,2024-02-03,C192,Kolkata,Electronics,Earphones,1,1500,0.2,900
+2547,2024-11-19,C285,Jaipur,Grocery,Dry Fruits,1,800,0.1,560
+2548,2024-02-22,C220,Delhi,Books,Novel,2,350,0.0,180
+2549,2025-02-16,C082,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+2550,2025-05-31,C201,,Electronics,Smart Watch,2,3500,0.05,2400
+2551,2025-07-20,C105,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+2552,2025-10-05,C363,Mumbai,Electronics,Smart Watch,4,3500,0.2,2400
+2553,2025-01-26,C067,Jaipur,Electronics,Smart Watch,2,3500,0.05,2400
+2554,2024-07-10,C153,Delhi,Electronics,Earphones,3,1500,0.1,900
+2555,2024-09-23,C043,Jaipur,Home,Bedsheet,2,900,0.2,450
+2556,2024-04-15,C063,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+2557,2024-04-05,C107,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2558,2025-02-27,C040,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+2559,2025-10-10,C153,Lucknow,Books,Python Guide,1,550,0.2,300
+2560,2025-10-08,C178,Mumbai,Electronics,Power Bank,2,1200,0.2,750
+2561,2024-01-06,C131,Jaipur,Electronics,Smart Watch,1,3500,0.0,2400
+2562,2025-07-02,C390,Delhi,Electronics,Smart Watch,3,3500,0.0,2400
+2563,2024-08-10,C113,Lucknow,Electronics,Earphones,2,1500,0.0,900
+2564,2024-10-07,C363,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+2565,2025-03-22,C099,Delhi,Clothing,Jeans,1,1800,0.05,950
+2566,2025-02-06,C160,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+2567,2025-03-19,C306,Bengaluru,Grocery,Tea Pack,3,300,0.2,190
+2568,2024-04-20,C103,Mumbai,Home,Bedsheet,1,900,0.0,450
+2569,2025-04-05,C262,Delhi,Electronics,Earphones,1,1500,0.2,900
+2570,2025-10-22,C016,Delhi,Clothing,Jeans,3,1800,0.1,950
+2571,2024-07-09,C111,Bengaluru,Clothing,T-Shirt,1,600,0.05,280
+2572,2024-05-05,C006,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+2573,2024-11-25,C146,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2574,2025-07-28,C344,Lucknow,Electronics,Smart Watch,3,3500,0.1,2400
+2575,2025-11-29,C102,Delhi,Clothing,Jeans,3,1800,0.1,950
+2576,2024-02-17,C062,Delhi,Grocery,Tea Pack,1,300,0.05,190
+2577,2025-08-28,C011,,Clothing,Jacket,2,2800,0.2,1500
+2578,2024-01-05,C068,Kolkata,Grocery,Tea Pack,1,300,0.2,190
+2579,2025-06-24,C009,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+2580,2024-11-25,C285,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+2581,2025-02-06,C253,Kolkata,Electronics,Power Bank,4,1200,0.0,750
+2582,2025-01-17,C015,Delhi,Grocery,Dry Fruits,3,800,0.0,560
+2583,2024-04-17,C371,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+2584,2025-01-12,C003,Jaipur,Books,Novel,3,350,0.05,180
+2585,2024-02-14,C039,Delhi,Electronics,Power Bank,2,1200,0.1,750
+2586,2024-10-03,C236,Delhi,Grocery,Spices Combo,1,450,0.0,280
+2587,2025-08-21,C327,Mumbai,Grocery,Tea Pack,1,300,0.2,190
+2588,2024-09-03,C251,Jaipur,Home,Lamp,1,700,0.1,350
+2589,2024-08-19,C365,Lucknow,Electronics,Power Bank,2,1200,0.0,750
+2590,2025-11-06,C040,Lucknow,Grocery,Spices Combo,1,450,0.0,280
+2591,2024-01-14,C198,Delhi,Home,Bedsheet,1,900,0.0,450
+2592,2025-08-27,C161,Bengaluru,Books,Novel,1,350,0.1,180
+2593,2025-11-17,C113,Jaipur,Electronics,Earphones,1,1500,0.1,900
+2594,2025-09-27,C097,Lucknow,Clothing,Jeans,1,1800,0.05,950
+2595,2025-08-14,C237,Kolkata,Home,Mixer Grinder,2,2500,0.0,1700
+2596,2024-01-17,C137,Lucknow,Grocery,Dry Fruits,2,800,0.1,560
+2597,2024-12-26,C044,Mumbai,Electronics,Smart Watch,1,3500,0.1,2400
+2598,2025-05-29,C028,Mumbai,Clothing,Jeans,1,1800,0.0,950
+2599,2025-10-14,C207,Delhi,Electronics,Earphones,1,1500,0.2,900
+2600,2025-05-20,C349,Lucknow,Clothing,T-Shirt,1,600,0.0,280
+2601,2024-08-12,C295,Delhi,Electronics,Earphones,1,1500,0.0,900
+2602,2024-10-20,C201,Mumbai,Home,Bedsheet,1,900,0.05,450
+2603,2025-05-22,C178,Bengaluru,Electronics,Earphones,2,1500,0.05,900
+2604,2024-01-04,C359,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+2605,2024-06-23,C086,Delhi,Clothing,T-Shirt,3,600,0.0,280
+2606,2024-01-14,C172,Lucknow,Home,Bedsheet,4,900,0.0,450
+2607,2024-06-23,C305,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+2608,2025-05-15,C057,Lucknow,Grocery,Tea Pack,1,300,0.05,190
+2609,2024-08-21,C387,Delhi,Clothing,T-Shirt,1,600,0.05,280
+2610,2024-12-09,C180,Jaipur,Clothing,Jacket,1,2800,0.1,1500
+2611,2024-09-16,C181,Delhi,Clothing,T-Shirt,1,600,0.2,280
+2612,2025-11-10,C248,Delhi,Grocery,Spices Combo,2,450,0.0,280
+2613,2024-05-31,C338,Jaipur,Grocery,Dry Fruits,1,800,0.0,560
+2614,2024-09-07,C221,Mumbai,Home,Lamp,2,700,0.0,350
+2615,2025-01-21,C321,Bengaluru,Home,Bedsheet,3,900,0.1,450
+2616,2025-06-23,C179,Kolkata,Electronics,Smart Watch,1,3500,0.1,2400
+2617,2024-10-02,C176,Kolkata,Home,Lamp,1,700,0.1,350
+2618,2025-08-03,C148,Delhi,Grocery,Tea Pack,1,300,0.0,190
+2619,2025-04-22,C149,Bengaluru,Home,Lamp,2,700,0.05,350
+2620,2025-05-13,C008,Mumbai,Electronics,Power Bank,1,1200,0.2,750
+2621,2024-05-06,C003,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+2622,2024-02-21,C146,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+2623,2024-06-07,C139,Delhi,Grocery,Spices Combo,2,450,0.1,280
+2624,2025-08-22,C113,Lucknow,Grocery,Tea Pack,4,300,0.0,190
+2625,2025-11-25,C134,Jaipur,Clothing,T-Shirt,2,600,0.0,280
+2626,2025-07-31,C297,Delhi,Clothing,Jeans,2,1800,0.05,950
+2627,2024-05-18,C155,Delhi,Clothing,T-Shirt,1,600,0.1,280
+2628,2025-07-12,C050,Delhi,Electronics,Power Bank,1,1200,0.05,750
+2629,2025-05-30,C184,Mumbai,Grocery,Spices Combo,1,450,0.1,280
+2630,2025-02-24,C014,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+2631,2025-09-21,C298,Mumbai,Grocery,Dry Fruits,1,800,0.2,560
+2632,2025-08-02,C387,Kolkata,Grocery,Dry Fruits,1,800,0.0,560
+2633,2025-04-18,C236,Kolkata,Books,Novel,1,350,0.05,180
+2634,2025-10-20,C290,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2635,2024-05-04,C262,Bengaluru,Books,Novel,1,350,0.0,180
+2636,2025-06-12,C254,Delhi,Electronics,Smart Watch,3,3500,0.0,2400
+2637,2024-11-04,C249,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+2638,2024-01-01,C267,Lucknow,Electronics,Earphones,1,1500,0.1,900
+2639,2024-01-26,C201,Lucknow,Grocery,Tea Pack,1,300,0.1,190
+2640,2025-05-10,C280,Delhi,Grocery,Dry Fruits,2,800,0.1,560
+2641,2025-11-04,C012,Delhi,Clothing,Jacket,3,2800,0.0,1500
+2642,2024-06-23,C280,Delhi,Clothing,Jacket,1,2800,0.05,1500
+2643,2025-11-19,C141,Mumbai,Clothing,Jacket,2,2800,0.0,1500
+2644,2025-04-20,C076,Lucknow,Clothing,Jeans,1,1800,0.2,950
+2645,2025-02-02,C018,Bengaluru,Electronics,Power Bank,3,1200,0.2,750
+2646,2025-03-31,C072,Mumbai,Electronics,Power Bank,2,1200,0.05,750
+2647,2024-01-10,C257,Kolkata,Grocery,Tea Pack,1,300,0.05,190
+2648,2025-12-24,C033,Delhi,Clothing,Jacket,1,2800,0.2,1500
+2649,2024-12-13,C143,Bengaluru,Clothing,T-Shirt,2,600,0.1,280
+2650,2024-03-10,C248,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+2651,2025-08-12,C398,Bengaluru,Home,Lamp,1,700,0.05,350
+2652,2025-08-25,C300,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+2653,2024-01-31,C119,Lucknow,Grocery,Dry Fruits,1,800,0.1,560
+2654,2024-11-27,C122,Delhi,Grocery,Spices Combo,3,450,0.1,280
+2655,2025-03-06,C314,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+2656,2025-03-28,C324,Kolkata,Books,Novel,4,350,0.05,180
+2657,2024-04-20,C069,Jaipur,Home,Bedsheet,2,900,0.0,450
+2658,2024-07-19,C348,Delhi,Electronics,Power Bank,1,1200,0.0,750
+2659,2025-03-20,C045,Mumbai,Books,Python Guide,2,550,0.0,300
+2660,2024-07-27,C003,Mumbai,Electronics,Earphones,1,1500,0.2,900
+2661,2024-03-14,C374,Jaipur,Clothing,Jacket,2,2800,0.2,1500
+2662,2025-05-23,C293,Kolkata,Electronics,Earphones,1,1500,0.05,900
+2663,2025-09-25,C035,Mumbai,Grocery,Dry Fruits,2,800,0.0,560
+2664,2025-08-05,C153,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+2665,2025-09-07,C115,Kolkata,Clothing,T-Shirt,1,600,0.05,280
+2666,2025-02-03,C081,Jaipur,Home,Mixer Grinder,1,2500,0.2,1700
+2667,2024-09-04,C257,Delhi,Grocery,Spices Combo,2,450,0.2,280
+2668,2025-12-15,C242,Jaipur,Grocery,Spices Combo,4,450,0.0,280
+2669,2024-02-03,C103,Delhi,Clothing,Jeans,2,1800,0.0,950
+2670,2024-07-28,C169,Jaipur,Clothing,Jacket,2,2800,0.0,1500
+2671,2024-08-29,C313,Bengaluru,Clothing,Jacket,2,2800,0.0,1500
+2672,2024-12-20,C307,Bengaluru,Grocery,Tea Pack,4,300,0.2,190
+2673,2025-05-05,C371,Lucknow,Grocery,Tea Pack,1,300,0.2,190
+2674,2024-08-18,C245,Delhi,Home,Bedsheet,3,900,0.0,450
+2675,2024-01-22,C397,Bengaluru,Grocery,Dry Fruits,1,800,0.2,560
+2676,2025-01-23,C010,Mumbai,Home,Lamp,1,700,0.1,350
+2677,2025-12-13,C219,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+2678,2025-09-22,C181,Delhi,Grocery,Tea Pack,1,300,0.0,190
+2679,2024-08-31,C006,Delhi,Electronics,Smart Watch,2,3500,0.2,2400
+2680,2025-08-04,C369,Delhi,Electronics,Earphones,1,1500,0.0,900
+2681,2024-05-09,C023,Delhi,Clothing,Jeans,2,1800,0.0,950
+2682,2024-10-13,C337,Lucknow,Clothing,T-Shirt,1,600,0.2,280
+2683,2024-07-29,C183,Kolkata,Clothing,Jacket,3,2800,0.1,1500
+2684,2024-11-05,C335,Delhi,Books,SQL Handbook,3,500,0.05,280
+2685,2025-12-15,C028,Delhi,Clothing,T-Shirt,1,600,0.2,280
+2686,2025-05-12,C071,Kolkata,Electronics,Earphones,1,1500,0.05,900
+2687,2025-07-20,C372,Kolkata,Electronics,Power Bank,1,1200,0.0,750
+2688,2025-12-16,C059,Lucknow,Clothing,Jeans,3,1800,0.05,950
+2689,2024-10-11,C031,Delhi,Clothing,T-Shirt,2,600,0.1,280
+2690,2024-01-20,C228,Lucknow,Grocery,Tea Pack,1,300,0.0,190
+2691,2025-11-06,C017,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2692,2025-09-15,C135,Kolkata,Books,SQL Handbook,2,500,0.0,280
+2693,2024-12-15,C223,Kolkata,Home,Lamp,2,700,0.0,350
+2694,2024-04-21,C348,Delhi,Home,Lamp,4,700,0.2,350
+2695,2025-04-19,C291,Bengaluru,Clothing,Jacket,1,2800,0.1,1500
+2696,2025-04-23,C068,Jaipur,Books,Python Guide,1,550,0.05,300
+2697,2024-03-28,C152,Delhi,Grocery,Spices Combo,1,450,0.2,280
+2698,2024-10-22,C396,Bengaluru,Electronics,Smart Watch,1,3500,0.2,2400
+2699,2025-11-09,C237,Lucknow,Grocery,Tea Pack,1,300,0.0,190
+2700,2025-01-02,C112,Mumbai,Clothing,Jacket,2,2800,0.0,1500
+2701,2024-10-10,C226,Delhi,Home,Mixer Grinder,2,2500,0.05,1700
+2702,2024-09-22,C117,Bengaluru,Grocery,Dry Fruits,1,800,0.2,560
+2703,2025-11-04,C351,Mumbai,Home,Mixer Grinder,1,2500,0.05,1700
+2704,2024-02-12,C032,Jaipur,Home,Mixer Grinder,4,2500,0.05,1700
+2705,2024-01-17,C277,Bengaluru,Home,Bedsheet,2,900,0.05,450
+2706,2024-04-21,C058,Mumbai,Electronics,Power Bank,1,1200,0.05,750
+2707,2025-08-07,C213,Lucknow,Clothing,Jacket,1,2800,0.05,1500
+2708,2024-05-26,C185,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+2709,2025-04-26,C319,Lucknow,Grocery,Tea Pack,1,300,0.05,190
+2710,2024-06-02,C055,Bengaluru,Grocery,Dry Fruits,3,800,0.2,560
+2711,2025-06-04,C177,Jaipur,Books,Novel,1,350,0.2,180
+2712,2024-02-03,C196,Bengaluru,Home,Mixer Grinder,2,2500,0.0,1700
+2713,2024-08-17,C323,Mumbai,Home,Lamp,1,700,0.0,350
+2714,2025-06-24,C242,Bengaluru,Books,Novel,1,350,0.05,180
+2715,2024-10-19,C169,Delhi,Electronics,Earphones,2,1500,0.05,900
+2716,2024-08-24,C060,Bengaluru,Clothing,Jacket,1,2800,0.1,1500
+2717,2025-01-05,C259,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+2718,2025-09-11,C118,Mumbai,Electronics,Power Bank,3,1200,0.0,750
+2719,2025-07-04,C346,Mumbai,Electronics,Power Bank,1,1200,0.05,750
+2720,2024-10-04,C259,Jaipur,Electronics,Power Bank,2,1200,0.0,750
+2721,2024-07-03,C086,Delhi,Grocery,Dry Fruits,1,800,0.2,560
+2722,2025-12-29,C052,Delhi,Grocery,Spices Combo,1,450,0.1,280
+2723,2024-01-25,C068,Mumbai,Home,Mixer Grinder,1,2500,0.1,1700
+2724,2025-03-08,C357,Mumbai,Clothing,Jeans,2,1800,0.0,950
+2725,2024-12-10,C303,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+2726,2024-03-16,C230,Jaipur,Books,SQL Handbook,2,500,0.1,280
+2727,2024-10-23,C094,Bengaluru,Home,Lamp,2,700,0.2,350
+2728,2024-03-26,C304,Mumbai,Electronics,Earphones,2,1500,0.1,900
+2729,2025-01-23,C261,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+2730,2024-08-25,C025,Mumbai,Electronics,Power Bank,3,1200,0.2,750
+2731,2025-06-04,C147,Delhi,Grocery,Tea Pack,1,300,0.0,190
+2732,2024-05-26,C375,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+2733,2025-09-22,C146,Delhi,Clothing,Jeans,1,1800,0.1,950
+2734,2025-03-25,C148,Jaipur,Electronics,Earphones,1,1500,0.2,900
+2735,2024-04-18,C143,Delhi,Grocery,Spices Combo,1,450,0.2,280
+2736,2024-06-21,C277,Mumbai,Electronics,Earphones,1,1500,0.1,900
+2737,2024-01-27,C293,Mumbai,Clothing,Jeans,1,1800,0.0,950
+2738,2025-04-09,C367,Bengaluru,Electronics,Earphones,3,1500,0.1,900
+2739,2025-03-18,C071,Jaipur,Clothing,T-Shirt,2,600,0.0,280
+2740,2024-12-28,C114,Bengaluru,Books,Novel,1,350,0.2,180
+2741,2024-12-09,C377,Mumbai,Electronics,Smart Watch,2,3500,0.05,2400
+2742,2024-02-09,C267,Delhi,Clothing,Jacket,3,2800,0.0,1500
+2743,2025-10-11,C193,Kolkata,Electronics,Smart Watch,1,3500,0.0,2400
+2744,2024-09-28,C096,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+2745,2025-10-12,C384,Delhi,Grocery,Spices Combo,1,450,0.1,280
+2746,2025-07-25,C092,Lucknow,Home,Lamp,2,700,0.2,350
+2747,2025-01-24,C327,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+2748,2024-11-03,C249,Mumbai,Grocery,Spices Combo,2,450,0.2,280
+2749,2024-12-31,C050,Delhi,Clothing,Jeans,4,1800,0.05,950
+2750,2025-03-05,C127,Bengaluru,Grocery,Tea Pack,1,300,0.1,190
+2751,2024-11-22,C361,Delhi,Clothing,Jeans,3,1800,0.1,950
+2752,2025-09-07,C015,Delhi,Clothing,T-Shirt,1,600,0.1,280
+2753,2024-03-03,C134,Bengaluru,Home,Bedsheet,1,900,0.1,450
+2754,2025-03-11,C138,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+2755,2024-11-11,C275,Delhi,Electronics,Earphones,2,1500,0.2,900
+2756,2025-09-17,C277,Lucknow,Clothing,Jacket,2,2800,0.1,1500
+2757,2024-04-02,C181,Bengaluru,Books,SQL Handbook,2,500,0.0,280
+2758,2025-06-15,C102,Jaipur,Electronics,Smart Watch,3,3500,0.1,2400
+2759,2024-08-22,C192,Delhi,Electronics,Earphones,1,1500,0.0,900
+2760,2024-01-14,C387,Jaipur,Electronics,Earphones,1,1500,0.1,900
+2761,2025-05-11,C155,Lucknow,Electronics,Power Bank,2,1200,0.0,750
+2762,2024-02-04,C194,Bengaluru,Electronics,Earphones,1,1500,0.05,900
+2763,2024-03-27,C370,Bengaluru,Electronics,Smart Watch,2,3500,0.0,2400
+2764,2024-01-16,C310,Jaipur,Books,Novel,1,350,0.2,180
+2765,2025-02-04,C160,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+2766,2024-11-07,C296,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+2767,2024-08-15,C143,Mumbai,Grocery,Spices Combo,3,450,0.2,280
+2768,2025-06-02,C255,Bengaluru,Electronics,Earphones,4,1500,0.2,900
+2769,2024-04-20,C013,Mumbai,Clothing,Jacket,1,2800,0.05,1500
+2770,2025-05-03,C160,Delhi,Home,Lamp,3,700,0.0,350
+2771,2024-04-07,C251,Mumbai,Home,Mixer Grinder,1,2500,0.1,1700
+2772,2025-09-23,C371,Kolkata,Grocery,Spices Combo,2,450,0.0,280
+2773,2025-05-20,C380,Delhi,Electronics,Power Bank,1,1200,0.05,750
+2774,2025-12-06,C003,Delhi,Home,Bedsheet,1,900,0.2,450
+2775,2025-05-15,C334,Delhi,Clothing,Jeans,1,1800,0.1,950
+2776,2025-06-10,C376,Lucknow,Home,Lamp,1,700,0.0,350
+2777,2025-01-19,C083,Mumbai,Electronics,Earphones,1,1500,0.0,900
+2778,2025-03-24,C020,Kolkata,Grocery,Dry Fruits,1,800,0.2,560
+2779,2025-05-13,C215,Mumbai,Electronics,Smart Watch,1,3500,0.1,2400
+2780,2024-10-28,C268,Delhi,Grocery,Tea Pack,3,300,0.2,190
+2781,2025-10-10,C315,Jaipur,Clothing,T-Shirt,1,600,0.2,280
+2782,2024-09-14,C170,Jaipur,Clothing,T-Shirt,2,600,0.0,280
+2783,2024-06-17,C006,Delhi,Clothing,Jeans,1,1800,0.1,950
+2784,2024-03-09,C160,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+2785,2025-07-04,C032,Bengaluru,Clothing,T-Shirt,2,600,0.0,280
+2786,2024-12-24,C177,Bengaluru,Home,Mixer Grinder,4,2500,0.05,1700
+2787,2024-10-18,C374,Delhi,Grocery,Spices Combo,2,450,0.1,280
+2788,2024-09-17,C338,Delhi,Home,Lamp,2,700,0.0,350
+2789,2024-08-09,C289,Delhi,Electronics,Power Bank,2,1200,0.2,750
+2790,2025-10-22,C310,Delhi,Clothing,Jacket,3,2800,0.2,1500
+2791,2025-11-15,C119,Jaipur,Electronics,Earphones,1,1500,0.2,900
+2792,2024-05-30,C001,Delhi,Electronics,Power Bank,3,1200,0.0,750
+2793,2024-05-20,C218,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+2794,2024-04-30,C194,Bengaluru,Electronics,Power Bank,2,1200,0.05,750
+2795,2024-11-15,C310,Kolkata,Clothing,T-Shirt,4,600,0.05,280
+2796,2025-12-29,C287,Mumbai,Electronics,Power Bank,2,1200,0.05,750
+2797,2025-12-02,C334,Delhi,Electronics,Power Bank,1,1200,0.05,750
+2798,2025-04-22,C373,Mumbai,Books,SQL Handbook,2,500,0.0,280
+2799,2025-01-26,C006,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2800,2024-01-06,C049,Jaipur,Home,Bedsheet,3,900,0.2,450
+2801,2024-01-14,C332,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+2802,2025-12-13,C321,Lucknow,Home,Bedsheet,2,900,0.0,450
+2803,2025-04-27,C233,Mumbai,Grocery,Spices Combo,1,450,0.2,280
+2804,2024-04-16,C314,Kolkata,Electronics,Earphones,1,1500,0.0,900
+2805,2024-05-14,C029,Mumbai,Electronics,Earphones,2,1500,0.05,900
+2806,2024-04-09,C100,Bengaluru,Grocery,Tea Pack,2,300,0.05,190
+2807,2025-11-19,C087,Jaipur,Clothing,Jacket,2,2800,0.05,1500
+2808,2025-06-12,C207,Mumbai,Electronics,Smart Watch,2,3500,0.0,2400
+2809,2024-03-07,C076,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+2810,2024-02-15,C353,Mumbai,Electronics,Earphones,1,1500,0.0,900
+2811,2024-11-12,C291,Kolkata,Electronics,Power Bank,1,1200,0.1,750
+2812,2024-03-31,C094,Bengaluru,Electronics,Earphones,1,1500,0.2,900
+2813,2025-10-03,C112,Bengaluru,Books,Python Guide,1,550,0.0,300
+2814,2024-11-11,C383,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+2815,2025-01-23,C143,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+2816,2024-07-11,C091,Jaipur,Electronics,Earphones,1,1500,0.1,900
+2817,2024-09-27,C297,Mumbai,Electronics,Power Bank,2,1200,0.2,750
+2818,2025-04-05,C088,Lucknow,Books,Novel,3,350,0.1,180
+2819,2024-06-08,C360,Mumbai,Clothing,T-Shirt,2,600,0.05,280
+2820,2024-07-31,C283,Kolkata,Clothing,Jacket,2,2800,0.0,1500
+2821,2025-06-09,C112,Mumbai,Books,SQL Handbook,1,500,0.0,280
+2822,2025-06-13,C244,Delhi,Home,Mixer Grinder,2,2500,0.05,1700
+2823,2025-07-31,C018,Delhi,Clothing,Jacket,1,2800,0.05,1500
+2824,2024-01-09,C172,Delhi,Electronics,Power Bank,3,1200,0.0,750
+2825,2025-01-01,C280,Delhi,Clothing,Jeans,1,1800,0.2,950
+2826,2025-04-12,C223,Bengaluru,Home,Lamp,1,700,0.0,350
+2827,2024-09-15,C173,Mumbai,Home,Lamp,1,700,0.0,350
+2828,2024-08-27,C056,Mumbai,Books,Novel,2,350,0.2,180
+2829,2025-02-14,C263,Delhi,Home,Mixer Grinder,1,2500,0.2,1700
+2830,2025-12-15,C291,Bengaluru,Grocery,Dry Fruits,1,800,0.05,560
+2831,2024-02-25,C393,Delhi,Grocery,Tea Pack,1,300,0.1,190
+2832,2024-06-18,C076,Delhi,Clothing,Jacket,1,2800,0.05,1500
+2833,2024-03-23,C224,Lucknow,Electronics,Earphones,1,1500,0.2,900
+2834,2025-01-18,C177,Lucknow,Electronics,Earphones,1,1500,0.1,900
+2835,2025-12-16,C343,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2836,2024-04-08,C391,Jaipur,Clothing,Jeans,1,1800,0.05,950
+2837,2024-10-16,C306,Mumbai,Books,SQL Handbook,1,500,0.1,280
+2838,2025-11-16,C312,Delhi,Home,Mixer Grinder,1,2500,0.05,1700
+2839,2024-12-14,C313,Mumbai,Clothing,T-Shirt,1,600,0.0,280
+2840,2025-10-16,C155,Mumbai,Electronics,Earphones,1,1500,0.0,900
+2841,2025-03-11,C199,Bengaluru,Electronics,Power Bank,1,1200,0.05,750
+2842,2025-03-07,C350,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+2843,2024-12-20,C336,Kolkata,Home,Mixer Grinder,3,2500,0.0,1700
+2844,2024-06-13,C260,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+2845,2025-10-31,C156,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+2846,2025-09-10,C258,Mumbai,Books,SQL Handbook,1,500,0.05,280
+2847,2025-07-01,C092,Jaipur,Grocery,Dry Fruits,1,800,0.1,560
+2848,2025-11-01,C303,Delhi,Clothing,Jacket,1,2800,0.2,1500
+2849,2025-04-10,C145,Lucknow,Clothing,Jeans,3,1800,0.1,950
+2850,2025-01-10,C352,Mumbai,Electronics,Smart Watch,1,3500,0.05,2400
+2851,2024-01-25,C151,Mumbai,Clothing,T-Shirt,1,600,0.05,280
+2852,2024-10-31,C375,Lucknow,Home,Bedsheet,2,900,0.0,450
+2853,2024-06-28,C065,Bengaluru,Electronics,Earphones,2,1500,0.1,900
+2854,2024-10-15,C376,Kolkata,Home,Mixer Grinder,2,2500,0.0,1700
+2855,2024-03-19,C076,Bengaluru,Clothing,T-Shirt,2,600,0.0,280
+2856,2025-01-26,C041,Delhi,Clothing,Jacket,2,2800,0.05,1500
+2857,2025-03-08,C383,Delhi,Clothing,T-Shirt,2,600,0.0,280
+2858,2025-03-19,C293,Delhi,Grocery,Dry Fruits,1,800,0.2,560
+2859,2025-07-06,C356,Bengaluru,Grocery,Dry Fruits,1,800,0.1,560
+2860,2024-08-08,C141,Bengaluru,Books,SQL Handbook,2,500,0.05,280
+2861,2025-05-28,C205,Jaipur,Home,Lamp,2,700,0.05,350
+2862,2024-01-06,C213,Bengaluru,Clothing,T-Shirt,1,600,0.1,280
+2863,2025-09-05,C163,Lucknow,Books,Novel,1,350,0.05,180
+2864,2024-08-14,C373,Bengaluru,Electronics,Power Bank,3,1200,0.2,750
+2865,2025-03-06,C278,Mumbai,Home,Bedsheet,4,900,0.0,450
+2866,2024-12-17,C228,Delhi,Clothing,Jeans,3,1800,0.1,950
+2867,2024-08-03,C345,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+2868,2024-03-21,C177,Lucknow,Home,Lamp,2,700,0.2,350
+2869,2025-01-13,C232,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+2870,2025-08-21,C290,Mumbai,Electronics,Power Bank,4,1200,0.0,750
+2871,2024-10-17,C193,Jaipur,Clothing,T-Shirt,1,600,0.2,280
+2872,2024-05-06,C109,Jaipur,Electronics,Earphones,2,1500,0.0,900
+2873,2024-06-11,C206,Mumbai,Books,Novel,1,350,0.0,180
+2874,2025-03-04,C164,Bengaluru,Grocery,Tea Pack,2,300,0.05,190
+2875,2025-05-29,C116,Kolkata,Clothing,Jeans,1,1800,0.1,950
+2876,2024-10-20,C205,Delhi,Clothing,T-Shirt,1,600,0.05,280
+2877,2025-04-20,C051,Mumbai,Home,Lamp,2,700,0.1,350
+2878,2025-02-24,C317,Delhi,Electronics,Earphones,2,1500,0.2,900
+2879,2024-03-23,C210,Jaipur,Home,Lamp,1,700,0.0,350
+2880,2024-06-19,C351,Lucknow,Home,Bedsheet,1,900,0.2,450
+2881,2025-10-17,C235,Mumbai,Grocery,Dry Fruits,3,800,0.0,560
+2882,2025-04-28,C166,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+2883,2024-07-30,C126,Bengaluru,Home,Bedsheet,1,900,0.0,450
+2884,2024-06-30,C329,Delhi,Grocery,Spices Combo,2,450,0.05,280
+2885,2024-06-12,C036,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+2886,2025-06-16,C037,Bengaluru,Grocery,Tea Pack,4,300,0.2,190
+2887,2024-05-03,C332,Jaipur,Home,Lamp,2,700,0.1,350
+2888,2025-05-07,C150,Kolkata,Books,Python Guide,3,550,0.0,300
+2889,2025-01-07,C323,Bengaluru,Clothing,Jacket,1,2800,0.0,1500
+2890,2024-04-16,C389,Kolkata,Electronics,Power Bank,2,1200,0.0,750
+2891,2024-06-22,C174,Delhi,Clothing,Jacket,1,2800,0.1,1500
+2892,2024-08-03,C329,Bengaluru,Electronics,Power Bank,1,1200,0.1,750
+2893,2024-09-07,C152,Bengaluru,Books,SQL Handbook,1,500,0.1,280
+2894,2025-12-17,C305,Lucknow,Electronics,Power Bank,1,1200,0.2,750
+2895,2024-10-12,C150,Delhi,Home,Lamp,2,700,0.2,350
+2896,2025-10-23,C080,Bengaluru,Clothing,Jeans,2,1800,0.0,950
+2897,2025-09-14,C132,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2898,2025-08-20,C007,Delhi,Clothing,Jacket,2,2800,0.2,1500
+2899,2025-02-19,C177,Bengaluru,Clothing,T-Shirt,2,600,0.2,280
+2900,2024-11-17,C332,Delhi,Clothing,Jeans,1,1800,0.0,950
+2901,2025-05-10,C343,Jaipur,Grocery,Dry Fruits,1,800,0.05,560
+2902,2024-07-30,C312,Bengaluru,Electronics,Power Bank,2,1200,0.0,750
+2903,2024-12-31,C327,Jaipur,Clothing,Jacket,3,2800,0.2,1500
+2904,2024-08-21,C341,Lucknow,Books,SQL Handbook,2,500,0.05,280
+2905,2025-06-03,C274,Kolkata,Electronics,Smart Watch,1,3500,0.0,2400
+2906,2024-02-27,C127,Delhi,Clothing,Jacket,2,2800,0.0,1500
+2907,2025-12-07,C117,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+2908,2025-09-15,C047,Bengaluru,Electronics,Power Bank,2,1200,0.0,750
+2909,2024-05-15,C107,Delhi,Clothing,T-Shirt,2,600,0.2,280
+2910,2025-05-03,C027,Delhi,Clothing,Jacket,2,2800,0.0,1500
+2911,2025-05-04,C244,Delhi,Electronics,Earphones,1,1500,0.0,900
+2912,2025-09-04,C005,Mumbai,Clothing,Jacket,3,2800,0.0,1500
+2913,2025-03-29,C302,Kolkata,Books,Python Guide,2,550,0.1,300
+2914,2024-01-01,C308,Delhi,Electronics,Power Bank,2,1200,0.05,750
+2915,2025-06-03,C331,Delhi,Clothing,Jeans,3,1800,0.0,950
+2916,2024-12-15,C258,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+2917,2025-05-14,C241,Mumbai,Electronics,Smart Watch,1,3500,0.1,2400
+2918,2025-11-28,C352,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+2919,2024-08-25,C157,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+2920,2025-12-02,C108,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+2921,2024-07-15,C081,Bengaluru,Books,Python Guide,1,550,0.2,300
+2922,2025-04-30,C400,Bengaluru,Home,Bedsheet,1,900,0.05,450
+2923,2025-04-28,C190,Delhi,Grocery,Tea Pack,1,300,0.05,190
+2924,2024-11-18,C391,Mumbai,Clothing,Jeans,2,1800,0.1,950
+2925,2024-02-26,C331,Kolkata,Grocery,Tea Pack,4,300,0.05,190
+2926,2024-01-20,C107,Bengaluru,Books,Python Guide,1,550,0.05,300
+2927,2024-01-25,C167,Mumbai,Clothing,Jeans,2,1800,0.0,950
+2928,2025-09-24,C055,Lucknow,Clothing,Jeans,1,1800,0.1,950
+2929,2025-08-30,C400,Bengaluru,Clothing,T-Shirt,2,600,0.1,280
+2930,2024-09-12,C301,Mumbai,Electronics,Smart Watch,1,3500,0.05,2400
+2931,2024-10-09,C057,Mumbai,Clothing,Jeans,3,1800,0.0,950
+2932,2024-11-28,C078,Mumbai,Books,Python Guide,2,550,0.2,300
+2933,2024-03-31,C294,Mumbai,Clothing,Jeans,2,1800,0.2,950
+2934,2025-06-27,C012,Delhi,Books,Novel,2,350,0.05,180
+2935,2025-01-04,C383,Kolkata,Grocery,Tea Pack,1,300,0.1,190
+2936,2024-08-21,C102,Bengaluru,Clothing,Jeans,2,1800,0.05,950
+2937,2025-09-10,C072,Delhi,Books,Python Guide,1,550,0.1,300
+2938,2025-05-13,C031,Jaipur,Books,Novel,1,350,0.0,180
+2939,2025-08-02,C259,Kolkata,Clothing,T-Shirt,1,600,0.2,280
+2940,2025-05-18,C325,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+2941,2025-07-25,C082,Bengaluru,Books,Novel,3,350,0.0,180
+2942,2025-08-10,C333,Jaipur,Grocery,Spices Combo,2,450,0.1,280
+2943,2024-10-10,C078,Bengaluru,Grocery,Spices Combo,1,450,0.2,280
+2944,2024-12-13,C379,Kolkata,Clothing,Jacket,1,2800,0.0,1500
+2945,2025-02-15,C320,Kolkata,Home,Mixer Grinder,1,2500,0.0,1700
+2946,2024-11-26,C300,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+2947,2025-10-31,C182,Kolkata,Books,Novel,2,350,0.2,180
+2948,2024-06-05,C106,Delhi,Electronics,Earphones,1,1500,0.2,900
+2949,2025-09-08,C400,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+2950,2024-12-01,C337,Delhi,Grocery,Dry Fruits,1,800,0.1,560
+2951,2024-10-07,C071,Kolkata,Books,Python Guide,4,550,0.0,300
+2952,2025-01-19,C379,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+2953,2025-02-12,C303,Kolkata,Electronics,Power Bank,1,1200,0.0,750
+2954,2025-06-02,C265,Delhi,Grocery,Spices Combo,2,450,0.0,280
+2955,2025-05-15,C384,Jaipur,Books,SQL Handbook,1,500,0.0,280
+2956,2024-04-02,C245,Delhi,Books,SQL Handbook,1,500,0.1,280
+2957,2024-01-17,C205,Jaipur,Electronics,Power Bank,1,1200,0.05,750
+2958,2024-11-13,C154,Delhi,Clothing,Jacket,2,2800,0.1,1500
+2959,2025-04-27,C374,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2960,2024-09-11,C066,Mumbai,Electronics,Earphones,1,1500,0.1,900
+2961,2024-02-09,C379,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+2962,2024-06-10,C266,Jaipur,Clothing,T-Shirt,2,600,0.0,280
+2963,2025-01-08,C084,Lucknow,Grocery,Dry Fruits,1,800,0.1,560
+2964,2025-10-27,C015,Bengaluru,Electronics,Power Bank,1,1200,0.1,750
+2965,2024-02-05,C209,Lucknow,Books,Python Guide,1,550,0.2,300
+2966,2025-06-21,C008,Delhi,Electronics,Earphones,1,1500,0.1,900
+2967,2024-03-08,C238,Jaipur,Electronics,Power Bank,3,1200,0.2,750
+2968,2025-03-26,C327,Lucknow,Electronics,Smart Watch,1,3500,0.05,2400
+2969,2024-05-11,C188,Jaipur,Clothing,Jacket,2,2800,0.0,1500
+2970,2025-05-04,C101,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2971,2024-08-18,C049,Bengaluru,Home,Lamp,1,700,0.2,350
+2972,2024-04-17,C095,Bengaluru,Electronics,Power Bank,1,1200,0.1,750
+2973,2025-11-15,C390,Kolkata,Clothing,Jeans,1,1800,0.05,950
+2974,2025-11-24,C383,Jaipur,Grocery,Dry Fruits,1,800,0.0,560
+2975,2024-07-21,C074,Bengaluru,Grocery,Dry Fruits,3,800,0.0,560
+2976,2024-06-14,C293,Mumbai,Clothing,T-Shirt,3,600,0.0,280
+2977,2025-10-05,C232,Jaipur,Grocery,Tea Pack,1,300,0.05,190
+2978,2025-07-12,C144,Bengaluru,Clothing,Jacket,1,2800,0.05,1500
+2979,2024-12-11,C131,Delhi,Grocery,Dry Fruits,3,800,0.2,560
+2980,2025-04-12,C176,Bengaluru,Home,Lamp,1,700,0.05,350
+2981,2025-03-12,C065,Lucknow,Home,Lamp,4,700,0.0,350
+2982,2024-05-03,C065,Kolkata,Home,Bedsheet,1,900,0.1,450
+2983,2025-07-20,C259,Delhi,Grocery,Dry Fruits,3,800,0.2,560
+2984,2024-07-18,C114,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+2985,2025-06-22,C289,Kolkata,Home,Mixer Grinder,1,2500,0.2,1700
+2986,2025-01-06,C272,Delhi,Clothing,Jacket,1,2800,0.0,1500
+2987,2025-10-12,C078,Mumbai,Home,Lamp,4,700,0.1,350
+2988,2024-07-26,C152,Mumbai,Electronics,Power Bank,1,1200,0.1,750
+2989,2025-05-02,C370,Jaipur,Clothing,T-Shirt,1,600,0.05,280
+2990,2025-12-26,C107,Jaipur,Home,Bedsheet,2,900,0.0,450
+2991,2024-03-01,C074,Mumbai,Books,Python Guide,1,550,0.0,300
+2992,2025-02-04,C215,Mumbai,Books,Novel,1,350,0.05,180
+2993,2024-03-13,C072,Kolkata,Electronics,Power Bank,1,1200,0.2,750
+2994,2025-11-15,C390,Delhi,Electronics,Power Bank,2,1200,0.2,750
+2995,2024-11-14,C242,Delhi,Books,Novel,1,350,0.0,180
+2996,2025-07-08,C079,Lucknow,Books,SQL Handbook,4,500,0.05,280
+2997,2024-10-05,C058,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+2998,2025-12-27,C389,Delhi,Home,Bedsheet,1,900,0.0,450
+2999,2025-09-09,C124,Kolkata,Grocery,Tea Pack,2,300,0.1,190
+3000,2025-03-07,C395,Delhi,Electronics,Earphones,2,1500,0.05,900
+3001,2024-09-14,C215,Bengaluru,Home,Bedsheet,1,900,0.05,450
+3002,2024-03-26,C249,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+3003,2025-03-20,C400,Kolkata,Home,Mixer Grinder,1,2500,0.2,1700
+3004,2025-08-02,C342,Mumbai,Clothing,Jacket,2,2800,0.2,1500
+3005,2025-10-20,C392,Delhi,Home,Mixer Grinder,2,2500,0.2,1700
+3006,2025-03-07,C382,Lucknow,Books,Novel,2,350,0.1,180
+3007,2025-04-16,C020,Jaipur,Home,Lamp,3,700,0.1,350
+3008,2025-11-16,C013,Bengaluru,Electronics,Earphones,1,1500,0.05,900
+3009,2025-02-26,C234,Kolkata,Books,Novel,1,350,0.05,180
+3010,2024-12-26,C142,,Grocery,Dry Fruits,1,800,0.1,560
+3011,2025-12-16,C394,Bengaluru,Grocery,Tea Pack,1,300,0.2,190
+3012,2025-10-13,C256,Kolkata,Books,Python Guide,1,550,0.2,300
+3013,2025-07-05,C163,Kolkata,Books,Python Guide,1,550,0.0,300
+3014,2025-10-16,C096,Bengaluru,Home,Lamp,1,700,0.1,350
+3015,2024-12-25,C186,Bengaluru,Clothing,Jeans,4,1800,0.05,950
+3016,2024-01-17,C159,Jaipur,Electronics,Smart Watch,2,3500,0.2,2400
+3017,2024-10-30,C317,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+3018,2025-12-29,C208,Kolkata,Home,Lamp,1,700,0.05,350
+3019,2025-06-29,C198,Delhi,Clothing,T-Shirt,4,600,0.05,280
+3020,2025-09-20,C166,Jaipur,Home,Mixer Grinder,1,2500,0.0,1700
+3021,2024-09-08,C141,Lucknow,Clothing,Jacket,1,2800,0.0,1500
+3022,2024-09-08,C332,Kolkata,Grocery,Tea Pack,1,300,0.05,190
+3023,2024-09-06,C248,Kolkata,Grocery,Spices Combo,1,450,0.2,280
+3024,2025-08-04,C266,Mumbai,Electronics,Earphones,2,1500,0.1,900
+3025,2024-09-24,C135,Mumbai,Home,Bedsheet,1,900,0.0,450
+3026,2024-11-23,C069,Delhi,Electronics,Smart Watch,3,3500,0.0,2400
+3027,2025-07-05,C260,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+3028,2025-09-10,C368,Bengaluru,Electronics,Power Bank,4,1200,0.0,750
+3029,2025-04-21,C236,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+3030,2024-03-07,C012,Mumbai,Grocery,Dry Fruits,2,800,0.0,560
+3031,2024-12-21,C076,Lucknow,Clothing,Jacket,1,2800,0.05,1500
+3032,2025-08-06,C015,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+3033,2025-02-09,C159,Mumbai,Electronics,Power Bank,2,1200,0.05,750
+3034,2024-08-26,C209,Delhi,Home,Lamp,1,700,0.2,350
+3035,2024-11-18,C365,Bengaluru,Grocery,Dry Fruits,2,800,0.0,560
+3036,2025-09-20,C374,Delhi,Electronics,Power Bank,1,1200,0.2,750
+3037,2024-07-02,C333,Jaipur,Grocery,Dry Fruits,2,800,0.05,560
+3038,2024-04-01,C294,Bengaluru,Electronics,Power Bank,2,1200,0.1,750
+3039,2025-01-25,C176,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+3040,2025-12-25,C256,Lucknow,Clothing,Jeans,1,1800,0.0,950
+3041,2024-08-20,C325,Lucknow,Clothing,Jacket,1,2800,0.0,1500
+3042,2025-06-20,C032,Jaipur,Electronics,Smart Watch,1,3500,0.05,2400
+3043,2024-04-07,C007,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+3044,2025-08-04,C089,Delhi,Home,Mixer Grinder,2,2500,0.0,1700
+3045,2025-07-02,C050,Kolkata,Electronics,Power Bank,3,1200,0.2,750
+3046,2025-01-18,C362,Kolkata,Home,Bedsheet,2,900,0.2,450
+3047,2024-06-01,C016,Bengaluru,Books,SQL Handbook,4,500,0.0,280
+3048,2024-11-15,C093,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+3049,2025-05-24,C314,Jaipur,Electronics,Earphones,4,1500,0.2,900
+3050,2025-02-02,C343,Mumbai,Books,Python Guide,1,550,0.05,300
+3051,2024-05-24,C097,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+3052,2025-05-06,C363,Bengaluru,Books,Novel,2,350,0.2,180
+3053,2024-04-03,C270,Mumbai,Home,Bedsheet,2,900,0.2,450
+3054,2025-02-07,C103,Delhi,Books,Novel,1,350,0.0,180
+3055,2024-10-26,C194,Lucknow,Clothing,Jeans,1,1800,0.0,950
+3056,2024-11-25,C255,Jaipur,Home,Bedsheet,2,900,0.0,450
+3057,2025-06-24,C046,,Grocery,Dry Fruits,2,800,0.2,560
+3058,2025-07-09,C379,Lucknow,Electronics,Power Bank,1,1200,0.05,750
+3059,2025-01-29,C027,Kolkata,Electronics,Smart Watch,2,3500,0.1,2400
+3060,2025-06-04,C261,Mumbai,Clothing,T-Shirt,2,600,0.0,280
+3061,2024-04-11,C114,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+3062,2025-05-22,C314,Lucknow,Electronics,Smart Watch,4,3500,0.0,2400
+3063,2025-12-06,C003,Jaipur,Electronics,Power Bank,2,1200,0.05,750
+3064,2024-06-30,C191,Jaipur,Grocery,Dry Fruits,1,800,0.0,560
+3065,2024-05-25,C343,Delhi,Home,Lamp,4,700,0.2,350
+3066,2025-12-28,C159,Delhi,Grocery,Spices Combo,3,450,0.05,280
+3067,2025-02-23,C212,Mumbai,Home,Bedsheet,3,900,0.0,450
+3068,2025-05-14,C321,Bengaluru,Electronics,Earphones,1,1500,0.1,900
+3069,2024-05-11,C037,Bengaluru,Home,Mixer Grinder,1,2500,0.1,1700
+3070,2024-03-09,C086,Jaipur,Electronics,Power Bank,1,1200,0.1,750
+3071,2024-10-18,C134,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+3072,2024-03-29,C103,Delhi,Home,Bedsheet,4,900,0.1,450
+3073,2025-05-05,C020,Kolkata,Electronics,Earphones,1,1500,0.0,900
+3074,2024-09-04,C225,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+3075,2025-11-09,C394,Delhi,Books,Python Guide,1,550,0.2,300
+3076,2024-01-15,C129,Jaipur,Grocery,Tea Pack,1,300,0.0,190
+3077,2025-10-13,C259,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+3078,2024-12-09,C013,Kolkata,Home,Bedsheet,1,900,0.0,450
+3079,2025-09-08,C083,Delhi,Clothing,Jacket,4,2800,0.0,1500
+3080,2024-04-24,C266,Mumbai,Home,Bedsheet,2,900,0.0,450
+3081,2024-11-05,C120,Lucknow,Grocery,Spices Combo,1,450,0.0,280
+3082,2025-01-31,C115,Bengaluru,Books,Python Guide,1,550,0.2,300
+3083,2024-03-16,C293,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+3084,2025-01-31,C122,Bengaluru,Clothing,Jacket,2,2800,0.05,1500
+3085,2025-10-13,C233,Mumbai,Grocery,Dry Fruits,1,800,0.0,560
+3086,2024-10-20,C132,Kolkata,Electronics,Power Bank,1,1200,0.0,750
+3087,2025-03-18,C022,Mumbai,Books,Python Guide,2,550,0.2,300
+3088,2024-08-20,C321,Mumbai,Grocery,Dry Fruits,4,800,0.1,560
+3089,2025-03-03,C228,Jaipur,Clothing,Jeans,1,1800,0.05,950
+3090,2024-11-29,C106,Delhi,Electronics,Smart Watch,2,3500,0.2,2400
+3091,2024-07-18,C338,Bengaluru,Grocery,Spices Combo,1,450,0.1,280
+3092,2025-07-15,C192,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+3093,2025-04-26,C232,Delhi,Electronics,Smart Watch,3,3500,0.2,2400
+3094,2025-02-26,C173,Mumbai,Electronics,Earphones,1,1500,0.1,900
+3095,2025-06-13,C013,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+3096,2024-10-06,C329,Mumbai,Home,Mixer Grinder,2,2500,0.0,1700
+3097,2024-06-03,C126,Kolkata,Clothing,Jeans,1,1800,0.1,950
+3098,2024-11-19,C377,Bengaluru,Books,Novel,1,350,0.0,180
+3099,2024-03-07,C028,Delhi,Electronics,Earphones,1,1500,0.05,900
+3100,2024-07-26,C158,Kolkata,Books,Python Guide,1,550,0.05,300
+3101,2025-08-20,C244,Delhi,Grocery,Tea Pack,1,300,0.05,190
+3102,2024-04-13,C078,Delhi,Books,Python Guide,1,550,0.2,300
+3103,2025-02-23,C322,Mumbai,Electronics,Smart Watch,4,3500,0.0,2400
+3104,2024-04-26,C228,Lucknow,Home,Mixer Grinder,1,2500,0.1,1700
+3105,2025-04-29,C393,Lucknow,Clothing,T-Shirt,2,600,0.05,280
+3106,2025-03-27,C230,Kolkata,Home,Mixer Grinder,4,2500,0.2,1700
+3107,2024-12-18,C190,Lucknow,Grocery,Dry Fruits,1,800,0.05,560
+3108,2025-11-05,C101,Jaipur,Electronics,Smart Watch,1,3500,0.0,2400
+3109,2024-12-29,C009,Bengaluru,Home,Bedsheet,2,900,0.0,450
+3110,2025-01-08,C263,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+3111,2025-05-16,C027,Bengaluru,Clothing,T-Shirt,2,600,0.05,280
+3112,2025-04-04,C021,Delhi,Grocery,Tea Pack,4,300,0.1,190
+3113,2025-11-18,C006,Bengaluru,Electronics,Smart Watch,1,3500,0.1,2400
+3114,2024-07-23,C199,Lucknow,Grocery,Tea Pack,2,300,0.1,190
+3115,2024-12-09,C218,Mumbai,Clothing,Jacket,1,2800,0.05,1500
+3116,2024-09-24,C145,Delhi,Home,Bedsheet,3,900,0.0,450
+3117,2025-11-13,C012,Kolkata,Grocery,Dry Fruits,3,800,0.0,560
+3118,2024-09-05,C034,Delhi,Electronics,Power Bank,3,1200,0.0,750
+3119,2024-03-18,C378,Kolkata,Electronics,Earphones,3,1500,0.2,900
+3120,2024-03-13,C236,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+3121,2025-09-19,C072,Delhi,Electronics,Smart Watch,2,3500,0.0,2400
+3122,2024-07-09,C002,Mumbai,Electronics,Earphones,2,1500,0.0,900
+3123,2024-02-21,C165,Bengaluru,Home,Bedsheet,1,900,0.0,450
+3124,2025-12-26,C362,Delhi,Grocery,Spices Combo,1,450,0.2,280
+3125,2024-03-03,C004,Lucknow,Clothing,Jacket,4,2800,0.05,1500
+3126,2024-05-27,C097,Bengaluru,Grocery,Spices Combo,2,450,0.0,280
+3127,2024-07-11,C388,Jaipur,Electronics,Power Bank,1,1200,0.2,750
+3128,2024-10-30,C112,Mumbai,Clothing,Jeans,3,1800,0.0,950
+3129,2025-06-27,C129,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+3130,2024-03-05,C031,Bengaluru,Clothing,Jacket,3,2800,0.0,1500
+3131,2025-11-21,C382,Bengaluru,Home,Mixer Grinder,1,2500,0.05,1700
+3132,2025-12-15,C034,Mumbai,Home,Lamp,2,700,0.05,350
+3133,2025-04-06,C190,Mumbai,Clothing,Jeans,2,1800,0.05,950
+3134,2025-07-13,C117,Mumbai,Grocery,Dry Fruits,1,800,0.05,560
+3135,2025-02-23,C167,Jaipur,Clothing,Jeans,3,1800,0.1,950
+3136,2025-04-19,C232,Delhi,Grocery,Tea Pack,2,300,0.1,190
+3137,2025-03-05,C163,Mumbai,Grocery,Dry Fruits,3,800,0.0,560
+3138,2025-02-13,C339,Jaipur,Clothing,Jeans,1,1800,0.0,950
+3139,2024-08-10,C242,Delhi,Electronics,Power Bank,1,1200,0.0,750
+3140,2025-05-24,C282,Delhi,Clothing,Jeans,1,1800,0.2,950
+3141,2025-05-26,C250,Jaipur,Clothing,T-Shirt,1,600,0.0,280
+3142,2024-03-09,C245,Bengaluru,Grocery,Spices Combo,1,450,0.2,280
+3143,2025-05-21,C252,Lucknow,Books,SQL Handbook,1,500,0.0,280
+3144,2024-12-12,C317,Mumbai,Home,Lamp,1,700,0.0,350
+3145,2025-06-26,C192,Kolkata,Electronics,Smart Watch,3,3500,0.05,2400
+3146,2025-08-01,C010,Mumbai,Grocery,Dry Fruits,1,800,0.0,560
+3147,2024-11-30,C325,Jaipur,Grocery,Tea Pack,4,300,0.05,190
+3148,2025-07-22,C358,Delhi,Clothing,Jeans,1,1800,0.05,950
+3149,2025-10-09,C304,Bengaluru,Grocery,Spices Combo,3,450,0.0,280
+3150,2025-05-15,C161,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+3151,2025-09-30,C252,Mumbai,Clothing,Jacket,3,2800,0.05,1500
+3152,2024-03-09,C395,Delhi,Clothing,T-Shirt,1,600,0.0,280
+3153,2025-04-30,C002,Delhi,Electronics,Smart Watch,3,3500,0.1,2400
+3154,2025-07-29,C164,Mumbai,Electronics,Power Bank,1,1200,0.2,750
+3155,2024-07-23,C097,Jaipur,Books,Novel,2,350,0.0,180
+3156,2024-10-29,C269,Bengaluru,Books,Python Guide,1,550,0.1,300
+3157,2025-03-09,C153,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+3158,2024-01-30,C041,Mumbai,Home,Bedsheet,2,900,0.0,450
+3159,2025-04-02,C081,Mumbai,Home,Lamp,2,700,0.0,350
+3160,2024-10-07,C233,Delhi,Electronics,Smart Watch,2,3500,0.05,2400
+3161,2024-01-18,C283,Mumbai,Electronics,Power Bank,1,1200,0.1,750
+3162,2025-07-17,C331,Delhi,Electronics,Power Bank,1,1200,0.2,750
+3163,2024-02-05,C290,Bengaluru,Home,Bedsheet,1,900,0.2,450
+3164,2024-02-27,C068,Mumbai,Home,Lamp,4,700,0.0,350
+3165,2024-06-04,C366,Delhi,Electronics,Earphones,2,1500,0.05,900
+3166,2024-12-12,C385,Lucknow,Electronics,Power Bank,1,1200,0.0,750
+3167,2025-06-21,C356,Delhi,Clothing,Jeans,3,1800,0.0,950
+3168,2025-04-04,C117,Delhi,Electronics,Power Bank,2,1200,0.2,750
+3169,2024-01-25,C116,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+3170,2024-06-05,C257,Delhi,Grocery,Dry Fruits,1,800,0.1,560
+3171,2024-01-20,C253,Lucknow,Clothing,Jeans,2,1800,0.1,950
+3172,2025-07-17,C302,Lucknow,Electronics,Earphones,1,1500,0.1,900
+3173,2024-01-08,C298,Kolkata,Clothing,T-Shirt,1,600,0.0,280
+3174,2025-02-10,C004,Jaipur,Electronics,Smart Watch,2,3500,0.05,2400
+3175,2024-09-29,C199,Delhi,Home,Lamp,1,700,0.2,350
+3176,2024-09-19,C134,Mumbai,Clothing,Jeans,2,1800,0.1,950
+3177,2024-01-30,C344,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+3178,2024-04-25,C381,Jaipur,Electronics,Earphones,1,1500,0.2,900
+3179,2024-11-01,C156,Mumbai,Home,Lamp,1,700,0.0,350
+3180,2025-08-03,C112,Mumbai,Grocery,Tea Pack,1,300,0.0,190
+3181,2024-07-04,C256,Jaipur,Grocery,Dry Fruits,1,800,0.05,560
+3182,2025-04-13,C386,Delhi,Grocery,Spices Combo,1,450,0.2,280
+3183,2025-09-03,C128,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+3184,2024-02-01,C141,Jaipur,Home,Mixer Grinder,1,2500,0.1,1700
+3185,2025-08-04,C028,Mumbai,Grocery,Dry Fruits,2,800,0.1,560
+3186,2025-01-16,C335,Lucknow,Electronics,Power Bank,2,1200,0.0,750
+3187,2024-11-15,C062,Jaipur,Grocery,Dry Fruits,2,800,0.0,560
+3188,2025-05-02,C045,Bengaluru,Electronics,Earphones,1,1500,0.2,900
+3189,2025-12-12,C012,Bengaluru,Home,Bedsheet,1,900,0.0,450
+3190,2024-08-08,C194,Lucknow,Electronics,Smart Watch,1,3500,0.1,2400
+3191,2025-02-26,C296,Kolkata,Electronics,Earphones,2,1500,0.05,900
+3192,2025-12-27,C104,Kolkata,Electronics,Power Bank,1,1200,0.05,750
+3193,2024-07-11,C001,Jaipur,Electronics,Power Bank,1,1200,0.2,750
+3194,2025-03-21,C251,Bengaluru,Home,Lamp,2,700,0.0,350
+3195,2024-10-20,C279,Delhi,Clothing,Jeans,2,1800,0.05,950
+3196,2025-07-18,C377,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+3197,2025-02-15,C393,Delhi,Clothing,Jeans,3,1800,0.1,950
+3198,2025-11-22,C045,Bengaluru,Clothing,Jeans,3,1800,0.05,950
+3199,2025-01-02,C386,Mumbai,Home,Bedsheet,2,900,0.0,450
+3200,2024-12-17,C075,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+3201,2025-08-10,C355,Mumbai,Electronics,Earphones,3,1500,0.0,900
+3202,2025-05-28,C054,Mumbai,Clothing,Jacket,1,2800,0.2,1500
+3203,2025-11-11,C364,Bengaluru,Books,Novel,1,350,0.05,180
+3204,2025-01-17,C268,Bengaluru,Clothing,Jeans,1,1800,0.2,950
+3205,2024-12-25,C385,Jaipur,Books,Novel,1,350,0.1,180
+3206,2024-06-08,C367,Lucknow,Grocery,Dry Fruits,2,800,0.2,560
+3207,2024-04-20,C356,Jaipur,Clothing,T-Shirt,1,600,0.1,280
+3208,2024-11-06,C098,Lucknow,Clothing,T-Shirt,1,600,0.0,280
+3209,2024-07-31,C037,Lucknow,Electronics,Smart Watch,1,3500,0.0,2400
+3210,2025-03-08,C207,Lucknow,Grocery,Spices Combo,2,450,0.05,280
+3211,2025-02-01,C220,Bengaluru,Clothing,Jeans,3,1800,0.2,950
+3212,2025-08-30,C017,Mumbai,Electronics,Power Bank,1,1200,0.05,750
+3213,2025-12-18,C386,Mumbai,Clothing,Jeans,1,1800,0.2,950
+3214,2025-09-27,C252,Jaipur,Grocery,Spices Combo,1,450,0.1,280
+3215,2024-03-29,C048,Lucknow,Clothing,Jacket,2,2800,0.0,1500
+3216,2025-04-10,C124,Bengaluru,Clothing,Jeans,1,1800,0.05,950
+3217,2024-11-13,C111,Bengaluru,Home,Bedsheet,1,900,0.0,450
+3218,2025-08-30,C260,Mumbai,Grocery,Dry Fruits,1,800,0.1,560
+3219,2024-10-08,C335,Bengaluru,Clothing,Jacket,1,2800,0.0,1500
+3220,2025-12-15,C232,Delhi,Clothing,T-Shirt,1,600,0.05,280
+3221,2025-09-07,C352,Delhi,Clothing,T-Shirt,3,600,0.0,280
+3222,2025-05-08,C199,Bengaluru,Clothing,T-Shirt,3,600,0.0,280
+3223,2025-01-20,C115,Delhi,Electronics,Earphones,2,1500,0.1,900
+3224,2024-08-22,C060,Delhi,Home,Lamp,1,700,0.2,350
+3225,2025-07-30,C188,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+3226,2025-12-11,C055,Mumbai,Clothing,Jacket,1,2800,0.1,1500
+3227,2025-07-24,C034,Lucknow,Home,Mixer Grinder,3,2500,0.05,1700
+3228,2025-05-01,C071,Delhi,Clothing,T-Shirt,1,600,0.2,280
+3229,2024-07-10,C338,Jaipur,Home,Bedsheet,1,900,0.05,450
+3230,2025-05-04,C095,Mumbai,Electronics,Smart Watch,1,3500,0.0,2400
+3231,2024-08-25,C069,Bengaluru,Electronics,Power Bank,1,1200,0.05,750
+3232,2024-03-02,C058,Mumbai,Clothing,T-Shirt,1,600,0.2,280
+3233,2024-01-10,C164,Jaipur,Clothing,T-Shirt,3,600,0.0,280
+3234,2024-07-12,C246,Delhi,Home,Bedsheet,1,900,0.2,450
+3235,2025-10-10,C075,Bengaluru,Grocery,Dry Fruits,3,800,0.0,560
+3236,2024-03-10,C290,Delhi,Clothing,T-Shirt,2,600,0.1,280
+3237,2025-10-08,C031,Bengaluru,Books,SQL Handbook,1,500,0.05,280
+3238,2025-02-08,C372,Jaipur,Electronics,Smart Watch,1,3500,0.2,2400
+3239,2024-08-18,C246,Bengaluru,Books,Python Guide,2,550,0.1,300
+3240,2025-10-23,C307,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+3241,2025-03-19,C034,Mumbai,Home,Bedsheet,2,900,0.0,450
+3242,2025-10-09,C333,Kolkata,Clothing,Jeans,3,1800,0.05,950
+3243,2025-07-02,C241,Mumbai,Home,Bedsheet,1,900,0.2,450
+3244,2025-12-12,C310,Mumbai,Home,Lamp,2,700,0.0,350
+3245,2025-04-25,C251,Jaipur,Clothing,Jacket,1,2800,0.2,1500
+3246,2025-10-21,C148,Mumbai,Electronics,Power Bank,1,1200,0.05,750
+3247,2024-09-02,C157,Delhi,Home,Bedsheet,1,900,0.1,450
+3248,2024-10-14,C394,Bengaluru,Home,Mixer Grinder,2,2500,0.05,1700
+3249,2024-07-13,C365,Mumbai,Home,Bedsheet,1,900,0.1,450
+3250,2025-08-18,C371,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+3251,2024-07-29,C173,Delhi,Home,Lamp,2,700,0.1,350
+3252,2025-01-18,C368,Delhi,Electronics,Power Bank,2,1200,0.2,750
+3253,2024-12-15,C037,Delhi,Electronics,Smart Watch,4,3500,0.2,2400
+3254,2025-02-06,C131,Jaipur,Electronics,Earphones,1,1500,0.2,900
+3255,2025-08-20,C291,Mumbai,Books,Novel,1,350,0.1,180
+3256,2025-10-05,C224,Mumbai,Home,Bedsheet,1,900,0.0,450
+3257,2024-05-05,C022,Kolkata,Clothing,T-Shirt,1,600,0.2,280
+3258,2025-07-02,C381,Bengaluru,Electronics,Earphones,1,1500,0.2,900
+3259,2024-03-02,C320,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+3260,2024-08-24,C293,Bengaluru,Electronics,Smart Watch,4,3500,0.05,2400
+3261,2024-08-30,C300,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+3262,2024-07-27,C083,Lucknow,Clothing,T-Shirt,2,600,0.05,280
+3263,2025-05-12,C209,,Electronics,Earphones,1,1500,0.0,900
+3264,2024-06-26,C055,Lucknow,Grocery,Tea Pack,2,300,0.1,190
+3265,2025-08-16,C229,Delhi,Grocery,Tea Pack,1,300,0.0,190
+3266,2025-02-22,C077,Bengaluru,Home,Bedsheet,1,900,0.2,450
+3267,2025-01-24,C106,Kolkata,Electronics,Power Bank,1,1200,0.2,750
+3268,2024-12-16,C260,Bengaluru,Clothing,Jeans,3,1800,0.2,950
+3269,2024-07-29,C040,Bengaluru,Clothing,Jacket,2,2800,0.1,1500
+3270,2024-06-21,C112,Delhi,Books,Python Guide,1,550,0.0,300
+3271,2024-10-24,C013,Bengaluru,Clothing,Jeans,2,1800,0.0,950
+3272,2025-04-08,C200,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+3273,2025-05-17,C218,Lucknow,Clothing,Jeans,1,1800,0.0,950
+3274,2024-10-09,C113,Kolkata,Clothing,T-Shirt,2,600,0.2,280
+3275,2025-06-27,C196,Mumbai,Books,Python Guide,2,550,0.0,300
+3276,2025-12-25,C316,Bengaluru,Grocery,Dry Fruits,1,800,0.0,560
+3277,2025-06-21,C077,Delhi,Grocery,Tea Pack,3,300,0.05,190
+3278,2024-07-09,C086,Mumbai,Electronics,Power Bank,1,1200,0.0,750
+3279,2025-09-27,C380,Delhi,Electronics,Smart Watch,1,3500,0.1,2400
+3280,2024-06-20,C309,Bengaluru,Electronics,Earphones,1,1500,0.0,900
+3281,2024-10-02,C399,Mumbai,Electronics,Earphones,2,1500,0.0,900
+3282,2024-06-05,C126,Bengaluru,Clothing,T-Shirt,1,600,0.0,280
+3283,2024-10-05,C030,Mumbai,Electronics,Smart Watch,1,3500,0.1,2400
+3284,2024-06-08,C312,Kolkata,Grocery,Dry Fruits,2,800,0.05,560
+3285,2025-04-18,C364,Delhi,Electronics,Earphones,1,1500,0.2,900
+3286,2024-02-13,C070,Lucknow,Electronics,Power Bank,1,1200,0.1,750
+3287,2025-11-24,C207,Kolkata,Home,Lamp,1,700,0.2,350
+3288,2024-12-28,C368,Kolkata,Books,Novel,1,350,0.05,180
+3289,2025-06-20,C258,Kolkata,Grocery,Dry Fruits,1,800,0.0,560
+3290,2024-07-30,C153,Delhi,Electronics,Power Bank,3,1200,0.1,750
+3291,2025-01-19,C162,Mumbai,Electronics,Earphones,2,1500,0.0,900
+3292,2025-03-21,C231,Kolkata,Books,Python Guide,2,550,0.0,300
+3293,2025-10-26,C009,Jaipur,Clothing,T-Shirt,3,600,0.05,280
+3294,2025-05-13,C239,Mumbai,Clothing,Jacket,1,2800,0.0,1500
+3295,2025-03-01,C075,Kolkata,Grocery,Dry Fruits,4,800,0.05,560
+3296,2025-01-18,C198,Kolkata,Electronics,Power Bank,3,1200,0.0,750
+3297,2025-09-04,C283,Mumbai,Electronics,Smart Watch,4,3500,0.1,2400
+3298,2024-03-10,C159,,Clothing,T-Shirt,1,600,0.0,280
+3299,2024-05-29,C139,Lucknow,Books,Novel,1,350,0.2,180
+3300,2025-01-15,C172,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+3301,2024-11-02,C064,Kolkata,Books,Novel,2,350,0.1,180
+3302,2025-06-10,C374,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+3303,2025-01-21,C226,Bengaluru,Clothing,Jacket,2,2800,0.0,1500
+3304,2024-05-25,C048,Bengaluru,Books,Python Guide,1,550,0.0,300
+3305,2024-02-12,C069,Delhi,Electronics,Earphones,2,1500,0.1,900
+3306,2024-06-04,C131,Jaipur,Clothing,Jacket,1,2800,0.0,1500
+3307,2024-06-16,C373,Mumbai,Grocery,Tea Pack,1,300,0.1,190
+3308,2024-06-18,C059,Lucknow,Grocery,Tea Pack,1,300,0.05,190
+3309,2025-09-23,C241,Jaipur,Home,Bedsheet,1,900,0.2,450
+3310,2025-07-15,C170,Bengaluru,Grocery,Spices Combo,1,450,0.0,280
+3311,2025-11-14,C350,Delhi,Home,Lamp,2,700,0.0,350
+3312,2024-08-19,C248,Delhi,Books,SQL Handbook,4,500,0.05,280
+3313,2025-05-25,C027,Jaipur,Grocery,Tea Pack,1,300,0.05,190
+3314,2024-04-19,C115,Kolkata,Books,Novel,1,350,0.0,180
+3315,2025-04-20,C358,Mumbai,Grocery,Dry Fruits,1,800,0.1,560
+3316,2025-03-05,C042,Delhi,Home,Bedsheet,2,900,0.0,450
+3317,2024-11-17,C222,Delhi,Electronics,Power Bank,1,1200,0.0,750
+3318,2024-12-07,C158,Delhi,Grocery,Dry Fruits,3,800,0.1,560
+3319,2025-02-09,C221,Kolkata,Home,Bedsheet,1,900,0.2,450
+3320,2024-06-17,C168,Mumbai,Clothing,Jacket,3,2800,0.0,1500
+3321,2024-03-25,C005,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+3322,2025-12-15,C002,Mumbai,Home,Mixer Grinder,1,2500,0.05,1700
+3323,2025-01-10,C183,Bengaluru,Home,Lamp,1,700,0.0,350
+3324,2024-11-02,C021,Bengaluru,Grocery,Dry Fruits,3,800,0.0,560
+3325,2024-06-23,C056,Delhi,Grocery,Tea Pack,1,300,0.2,190
+3326,2024-03-14,C071,Lucknow,Grocery,Tea Pack,2,300,0.05,190
+3327,2024-06-10,C264,Lucknow,Home,Lamp,2,700,0.05,350
+3328,2024-02-02,C341,Delhi,Clothing,Jeans,1,1800,0.1,950
+3329,2025-01-02,C151,Bengaluru,Grocery,Tea Pack,3,300,0.1,190
+3330,2024-08-28,C342,Delhi,Books,SQL Handbook,1,500,0.0,280
+3331,2025-12-21,C031,Mumbai,Electronics,Earphones,1,1500,0.0,900
+3332,2025-04-04,C038,Delhi,Electronics,Smart Watch,1,3500,0.05,2400
+3333,2025-08-16,C223,Mumbai,Electronics,Power Bank,4,1200,0.2,750
+3334,2025-08-24,C108,Kolkata,Clothing,Jacket,2,2800,0.05,1500
+3335,2024-06-09,C034,Lucknow,Clothing,Jeans,3,1800,0.05,950
+3336,2025-02-02,C238,Bengaluru,Electronics,Power Bank,1,1200,0.05,750
+3337,2025-04-05,C382,Jaipur,Electronics,Power Bank,1,1200,0.05,750
+3338,2025-08-03,C004,Kolkata,Grocery,Dry Fruits,1,800,0.05,560
+3339,2025-03-01,C076,Lucknow,Electronics,Power Bank,1,1200,0.2,750
+3340,2025-09-10,C104,Bengaluru,Clothing,Jeans,1,1800,0.0,950
+3341,2025-10-11,C173,Lucknow,Books,SQL Handbook,1,500,0.2,280
+3342,2024-07-25,C349,Bengaluru,Electronics,Power Bank,2,1200,0.2,750
+3343,2024-10-07,C314,Jaipur,Grocery,Spices Combo,1,450,0.0,280
+3344,2025-04-10,C281,Delhi,Grocery,Spices Combo,4,450,0.1,280
+3345,2024-02-15,C209,Mumbai,Electronics,Earphones,4,1500,0.0,900
+3346,2025-04-30,C238,Jaipur,Books,SQL Handbook,2,500,0.0,280
+3347,2024-11-18,C154,Kolkata,Electronics,Power Bank,3,1200,0.0,750
+3348,2025-11-15,C003,Mumbai,Electronics,Power Bank,1,1200,0.1,750
+3349,2024-09-01,C025,Jaipur,Clothing,Jeans,3,1800,0.05,950
+3350,2025-07-02,C214,Lucknow,Books,Novel,3,350,0.05,180
+3351,2025-09-06,C298,Delhi,Home,Bedsheet,2,900,0.05,450
+3352,2024-04-28,C288,Bengaluru,Grocery,Tea Pack,1,300,0.0,190
+3353,2024-01-15,C169,Bengaluru,Home,Mixer Grinder,4,2500,0.0,1700
+3354,2024-04-11,C375,Delhi,Electronics,Smart Watch,2,3500,0.05,2400
+3355,2025-03-01,C105,Bengaluru,Electronics,Power Bank,1,1200,0.05,750
+3356,2024-11-12,C036,Lucknow,Home,Lamp,1,700,0.0,350
+3357,2024-01-04,C399,Bengaluru,Grocery,Dry Fruits,2,800,0.05,560
+3358,2024-07-02,C173,Delhi,Electronics,Power Bank,2,1200,0.2,750
+3359,2025-04-21,C343,Bengaluru,Clothing,Jeans,2,1800,0.05,950
+3360,2024-04-04,C097,Mumbai,Clothing,Jeans,1,1800,0.0,950
+3361,2025-09-27,C033,Delhi,Books,Python Guide,1,550,0.2,300
+3362,2025-12-07,C388,Bengaluru,Clothing,Jeans,1,1800,0.1,950
+3363,2025-03-18,C398,Kolkata,Electronics,Smart Watch,1,3500,0.0,2400
+3364,2025-09-27,C383,Bengaluru,Home,Lamp,4,700,0.0,350
+3365,2025-11-03,C395,Mumbai,Books,Novel,1,350,0.05,180
+3366,2024-07-22,C232,Delhi,Grocery,Dry Fruits,2,800,0.0,560
+3367,2025-11-11,C384,Kolkata,Home,Bedsheet,4,900,0.1,450
+3368,2024-03-28,C305,Mumbai,Electronics,Earphones,2,1500,0.2,900
+3369,2024-05-19,C283,,Clothing,Jacket,1,2800,0.2,1500
+3370,2024-02-03,C163,Delhi,Books,Novel,1,350,0.1,180
+3371,2024-10-04,C341,Jaipur,Electronics,Power Bank,1,1200,0.05,750
+3372,2025-01-23,C175,Kolkata,Grocery,Tea Pack,4,300,0.2,190
+3373,2025-01-07,C379,Delhi,Electronics,Power Bank,1,1200,0.05,750
+3374,2024-12-01,C071,Jaipur,Electronics,Earphones,2,1500,0.0,900
+3375,2025-01-06,C394,Delhi,Electronics,Power Bank,3,1200,0.0,750
+3376,2025-08-13,C119,Lucknow,Electronics,Earphones,1,1500,0.2,900
+3377,2025-07-08,C365,Mumbai,Grocery,Dry Fruits,2,800,0.2,560
+3378,2024-10-31,C207,Bengaluru,Home,Mixer Grinder,1,2500,0.1,1700
+3379,2024-04-05,C380,Lucknow,Home,Bedsheet,1,900,0.2,450
+3380,2024-01-05,C022,Mumbai,Electronics,Power Bank,1,1200,0.2,750
+3381,2024-04-19,C288,Kolkata,Electronics,Smart Watch,1,3500,0.05,2400
+3382,2024-06-21,C359,Kolkata,Electronics,Smart Watch,2,3500,0.0,2400
+3383,2025-04-26,C065,Delhi,Electronics,Smart Watch,4,3500,0.2,2400
+3384,2024-09-01,C349,Mumbai,Grocery,Dry Fruits,1,800,0.0,560
+3385,2025-05-19,C221,Delhi,Clothing,T-Shirt,2,600,0.0,280
+3386,2025-06-24,C208,Jaipur,Electronics,Earphones,1,1500,0.2,900
+3387,2024-10-20,C362,Mumbai,Grocery,Dry Fruits,2,800,0.1,560
+3388,2024-01-02,C303,Delhi,Grocery,Tea Pack,1,300,0.0,190
+3389,2025-08-13,C298,Delhi,Electronics,Smart Watch,2,3500,0.0,2400
+3390,2025-12-29,C382,Lucknow,Electronics,Earphones,1,1500,0.1,900
+3391,2024-05-16,C058,Mumbai,Grocery,Tea Pack,2,300,0.0,190
+3392,2025-12-13,C175,Delhi,Electronics,Earphones,1,1500,0.0,900
+3393,2025-01-12,C194,Bengaluru,Clothing,Jeans,2,1800,0.1,950
+3394,2025-11-21,C181,Delhi,Electronics,Power Bank,2,1200,0.0,750
+3395,2025-05-16,C224,Lucknow,Clothing,Jeans,1,1800,0.1,950
+3396,2024-06-11,C384,Mumbai,Electronics,Earphones,1,1500,0.1,900
+3397,2024-04-23,C146,Delhi,Grocery,Dry Fruits,1,800,0.0,560
+3398,2025-04-29,C034,Mumbai,Books,Novel,1,350,0.0,180
+3399,2025-04-05,C245,Jaipur,Electronics,Power Bank,1,1200,0.1,750
+3400,2024-08-13,C009,Bengaluru,Clothing,T-Shirt,2,600,0.1,280
+3401,2024-08-12,C261,Bengaluru,Grocery,Spices Combo,1,450,0.05,280
+3402,2025-01-14,C051,Delhi,Clothing,Jacket,2,2800,0.05,1500
+3403,2025-02-17,C055,Delhi,Electronics,Smart Watch,1,3500,0.0,2400
+3404,2025-11-15,C272,Jaipur,Grocery,Spices Combo,2,450,0.2,280
+3405,2024-01-04,C168,Bengaluru,Electronics,Earphones,2,1500,0.1,900
+3406,2025-08-04,C100,Delhi,Clothing,Jeans,2,1800,0.1,950
+3407,2024-09-14,C301,Delhi,Home,Bedsheet,1,900,0.2,450
+3408,2025-08-01,C195,Mumbai,Home,Mixer Grinder,1,2500,0.0,1700
+3409,2024-11-11,C273,Delhi,Clothing,T-Shirt,1,600,0.2,280
+3410,2024-01-17,C290,Kolkata,Home,Mixer Grinder,1,2500,0.0,1700
+3411,2024-07-28,C379,,Clothing,Jacket,2,2800,0.2,1500
+3412,2025-03-27,C378,Delhi,Home,Mixer Grinder,1,2500,0.0,1700
+3413,2024-09-19,C210,Delhi,Electronics,Smart Watch,1,3500,0.2,2400
+3414,2025-04-05,C175,Jaipur,Grocery,Dry Fruits,2,800,0.0,560
+3415,2024-09-13,C383,Bengaluru,Books,Novel,2,350,0.0,180
+3416,2025-05-02,C086,Bengaluru,Home,Lamp,2,700,0.0,350
+3417,2025-05-16,C211,Kolkata,Books,Python Guide,1,550,0.2,300
+3418,2025-08-19,C143,Lucknow,Electronics,Smart Watch,2,3500,0.05,2400
+3419,2025-04-08,C014,Bengaluru,Home,Mixer Grinder,4,2500,0.2,1700
+3420,2024-01-22,C089,Kolkata,Home,Mixer Grinder,1,2500,0.0,1700
+3421,2024-07-02,C102,Delhi,Electronics,Earphones,1,1500,0.1,900
+3422,2024-08-19,C061,Bengaluru,Home,Mixer Grinder,2,2500,0.05,1700
+3423,2025-10-04,C222,Delhi,Books,Novel,1,350,0.0,180
+3424,2025-04-30,C192,Lucknow,Clothing,T-Shirt,1,600,0.1,280
+3425,2024-04-21,C109,Lucknow,Electronics,Earphones,1,1500,0.1,900
+3426,2024-08-22,C137,Bengaluru,Home,Mixer Grinder,2,2500,0.2,1700
+3427,2025-08-28,C169,Kolkata,Grocery,Spices Combo,1,450,0.2,280
+3428,2025-06-29,C230,Mumbai,Home,Mixer Grinder,2,2500,0.1,1700
+3429,2024-10-20,C396,Kolkata,Electronics,Smart Watch,1,3500,0.05,2400
+3430,2025-01-19,C047,Kolkata,Books,SQL Handbook,1,500,0.0,280
+3431,2024-02-25,C274,Jaipur,Electronics,Smart Watch,1,3500,0.1,2400
+3432,2025-02-08,C365,Bengaluru,Grocery,Spices Combo,1,450,0.2,280
+3433,2024-07-03,C065,Delhi,Clothing,T-Shirt,1,600,0.2,280
+3434,2025-07-10,C276,Mumbai,Grocery,Dry Fruits,1,800,0.2,560
+3435,2024-04-05,C282,Delhi,Electronics,Power Bank,1,1200,0.1,750
+3436,2025-05-17,C072,Kolkata,Grocery,Dry Fruits,1,800,0.0,560
+3437,2025-06-14,C037,Mumbai,Electronics,Power Bank,2,1200,0.0,750
+3438,2024-11-25,C016,Lucknow,Home,Bedsheet,1,900,0.0,450
+3439,2025-11-11,C016,Lucknow,Grocery,Spices Combo,1,450,0.2,280
+3440,2024-03-24,C247,Jaipur,Electronics,Earphones,1,1500,0.2,900
+3441,2025-10-26,C014,Bengaluru,Home,Lamp,4,700,0.05,350
+3442,2025-01-23,C331,Delhi,Home,Lamp,1,700,0.0,350
+3443,2024-03-28,C308,Bengaluru,Clothing,T-Shirt,1,600,0.05,280
+3444,2025-05-17,C078,Delhi,Clothing,T-Shirt,2,600,0.2,280
+3445,2025-09-28,C195,Mumbai,Books,SQL Handbook,1,500,0.1,280
+3446,2024-01-27,C002,Bengaluru,Electronics,Earphones,3,1500,0.1,900
+3447,2024-12-19,C186,Bengaluru,Home,Mixer Grinder,1,2500,0.0,1700
+3448,2025-02-18,C121,Mumbai,Clothing,T-Shirt,2,600,0.2,280
+3449,2024-08-21,C339,Lucknow,Grocery,Tea Pack,1,300,0.0,190
+3450,2025-08-13,C283,Bengaluru,Clothing,T-Shirt,2,600,0.0,280
+3451,2025-02-20,C309,Kolkata,Electronics,Power Bank,2,1200,0.2,750
+3452,2024-12-29,C396,Bengaluru,Books,Python Guide,2,550,0.2,300
+3453,2024-07-08,C138,Kolkata,Electronics,Earphones,4,1500,0.1,900
+3454,2024-09-15,C285,Jaipur,Grocery,Dry Fruits,2,800,0.05,560
+3455,2025-10-02,C091,Mumbai,Grocery,Spices Combo,1,450,0.0,280
+3456,2025-06-12,C392,Delhi,Electronics,Smart Watch,2,3500,0.1,2400
+3457,2024-10-22,C205,Bengaluru,Electronics,Smart Watch,1,3500,0.0,2400
+3458,2025-06-18,C342,Bengaluru,Home,Lamp,1,700,0.0,350
+3459,2024-01-22,C388,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+3460,2025-03-17,C399,Delhi,Electronics,Power Bank,1,1200,0.0,750
+3461,2025-02-03,C200,Delhi,Electronics,Smart Watch,4,3500,0.05,2400
+3462,2024-10-24,C118,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+3463,2025-11-07,C012,Bengaluru,Grocery,Spices Combo,1,450,0.05,280
+3464,2025-02-25,C263,Mumbai,Books,SQL Handbook,3,500,0.2,280
+3465,2024-01-24,C056,Mumbai,Books,Novel,2,350,0.2,180
+3466,2025-06-15,C170,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+3467,2025-12-14,C175,Lucknow,Electronics,Smart Watch,2,3500,0.0,2400
+3468,2024-10-07,C100,Kolkata,Electronics,Power Bank,1,1200,0.05,750
+3469,2025-12-26,C114,Kolkata,Electronics,Smart Watch,3,3500,0.0,2400
+3470,2024-04-06,C270,Mumbai,Home,Bedsheet,3,900,0.0,450
+3471,2025-07-11,C124,Mumbai,Electronics,Earphones,2,1500,0.0,900
+3472,2025-05-19,C330,Delhi,Electronics,Power Bank,1,1200,0.1,750
+3473,2024-02-05,C385,Bengaluru,Home,Mixer Grinder,1,2500,0.05,1700
+3474,2025-02-02,C209,Bengaluru,Electronics,Smart Watch,2,3500,0.2,2400
+3475,2024-01-09,C107,Kolkata,Electronics,Earphones,4,1500,0.0,900
+3476,2025-08-23,C058,Mumbai,Electronics,Power Bank,3,1200,0.2,750
+3477,2024-01-14,C171,Mumbai,Electronics,Power Bank,2,1200,0.05,750
+3478,2024-10-17,C213,Jaipur,Home,Lamp,3,700,0.0,350
+3479,2025-02-05,C069,Kolkata,Clothing,Jeans,1,1800,0.2,950
+3480,2024-03-13,C328,Bengaluru,Books,Novel,1,350,0.2,180
+3481,2024-10-13,C014,Mumbai,Clothing,Jeans,2,1800,0.1,950
+3482,2024-07-18,C081,Jaipur,Electronics,Smart Watch,2,3500,0.2,2400
+3483,2024-05-31,C141,Delhi,Electronics,Power Bank,1,1200,0.0,750
+3484,2024-09-18,C382,Kolkata,Grocery,Spices Combo,1,450,0.2,280
+3485,2025-07-02,C022,Kolkata,Clothing,Jacket,2,2800,0.05,1500
+3486,2024-08-31,C220,Mumbai,Clothing,Jeans,2,1800,0.0,950
+3487,2025-06-15,C383,Delhi,Home,Mixer Grinder,2,2500,0.0,1700
+3488,2024-02-13,C267,Kolkata,Grocery,Dry Fruits,1,800,0.1,560
+3489,2025-09-14,C198,Delhi,Electronics,Earphones,1,1500,0.05,900
+3490,2024-08-05,C394,Delhi,Electronics,Earphones,3,1500,0.05,900
+3491,2024-02-23,C282,Delhi,Books,Novel,2,350,0.1,180
+3492,2025-10-03,C330,Jaipur,Clothing,Jacket,2,2800,0.2,1500
+3493,2024-09-27,C060,Delhi,Electronics,Earphones,3,1500,0.0,900
+3494,2025-06-24,C176,Delhi,Grocery,Dry Fruits,1,800,0.2,560
+3495,2025-06-25,C109,Delhi,Electronics,Earphones,1,1500,0.0,900
+3496,2024-02-24,C232,Bengaluru,Electronics,Power Bank,1,1200,0.0,750
+3497,2025-06-03,C298,Bengaluru,Clothing,Jacket,3,2800,0.05,1500
+3498,2025-08-10,C366,Jaipur,Electronics,Earphones,4,1500,0.2,900
+3499,2024-06-18,C362,Mumbai,Clothing,Jacket,4,2800,0.1,1500
+3500,2025-10-01,C152,,Clothing,Jacket,2,2800,0.2,1500
+2311,2024-07-25,C329,Lucknow,Electronics,Earphones,4,1500,0.2,900
+3462,2024-10-24,C118,Bengaluru,Electronics,Power Bank,1,1200,0.2,750
+2581,2025-02-06,C253,Kolkata,Electronics,Power Bank,4,1200,0.0,750
+2939,2025-08-02,C259,Kolkata,Clothing,T-Shirt,1,600,0.2,280
+2125,2024-09-16,C042,Bengaluru,Clothing,Jacket,1,2800,0.1,1500
+1759,2025-01-31,C255,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+3000,2025-03-07,C395,Delhi,Electronics,Earphones,2,1500,0.05,900
+3026,2024-11-23,C069,Delhi,Electronics,Smart Watch,3,3500,0.0,2400
+3011,2025-12-16,C394,Bengaluru,Grocery,Tea Pack,1,300,0.2,190
+1849,2025-11-18,C351,Delhi,Electronics,Smart Watch,3,3500,0.05,2400
+2966,2025-06-21,C008,Delhi,Electronics,Earphones,1,1500,0.1,900
+2390,2024-10-27,C252,Bengaluru,Clothing,Jacket,1,2800,0.05,1500
+2728,2024-03-26,C304,Mumbai,Electronics,Earphones,2,1500,0.1,900
+1958,2025-04-18,C220,Bengaluru,Electronics,Smart Watch,1,3500,0.05,2400
+3480,2024-03-13,C328,Bengaluru,Books,Novel,1,350,0.2,180
